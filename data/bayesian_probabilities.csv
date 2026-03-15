@@ -1,0 +1,23 @@
+round,race_name,driver_id,driver_name,constructor,probability,cum_points,rank
+1,Australian Grand Prix,max_verstappen,Max Verstappen,Red Bull,26.821,8.0,1
+1,Australian Grand Prix,norris,Lando Norris,McLaren,17.272,10.0,2
+1,Australian Grand Prix,leclerc,Charles Leclerc,Ferrari,16.089,15.0,3
+1,Australian Grand Prix,russell,George Russell,Mercedes,15.512,25.0,4
+1,Australian Grand Prix,hamilton,Lewis Hamilton,Ferrari,9.612,12.0,5
+1,Australian Grand Prix,antonelli,Andrea Kimi Antonelli,Mercedes,4.609,18.0,6
+1,Australian Grand Prix,piastri,Oscar Piastri,McLaren,4.277,0.0,7
+1,Australian Grand Prix,sainz,Carlos Sainz,Williams,2.383,0.0,8
+1,Australian Grand Prix,bearman,Oliver Bearman,Haas F1 Team,0.877,6.0,9
+1,Australian Grand Prix,alonso,Fernando Alonso,Aston Martin,0.611,0.0,10
+1,Australian Grand Prix,gasly,Pierre Gasly,Alpine F1 Team,0.437,1.0,11
+1,Australian Grand Prix,hulkenberg,Nico Hülkenberg,Audi,0.305,0.0,12
+1,Australian Grand Prix,lawson,Liam Lawson,RB F1 Team,0.238,0.0,13
+1,Australian Grand Prix,albon,Alexander Albon,Williams,0.238,0.0,14
+1,Australian Grand Prix,colapinto,Franco Colapinto,Alpine F1 Team,0.159,0.0,15
+1,Australian Grand Prix,hadjar,Isack Hadjar,Red Bull,0.122,0.0,16
+1,Australian Grand Prix,arvid_lindblad,Arvid Lindblad,RB F1 Team,0.088,4.0,17
+1,Australian Grand Prix,bortoleto,Gabriel Bortoleto,Audi,0.087,2.0,18
+1,Australian Grand Prix,ocon,Esteban Ocon,Haas F1 Team,0.079,0.0,19
+1,Australian Grand Prix,perez,Sergio Pérez,Cadillac F1 Team,0.061,0.0,20
+1,Australian Grand Prix,stroll,Lance Stroll,Aston Martin,0.061,0.0,21
+1,Australian Grand Prix,bottas,Valtteri Bottas,Cadillac F1 Team,0.061,0.0,22

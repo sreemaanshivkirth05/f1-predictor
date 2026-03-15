@@ -1,0 +1,23 @@
+driver_id,driver_name,constructor_name,current_points,championship_wins,championship_prob_pct,rank
+russell,George Russell,Mercedes,25.0,7941,79.41,1
+norris,Lando Norris,McLaren,10.0,994,9.94,2
+leclerc,Charles Leclerc,Ferrari,15.0,559,5.59,3
+max_verstappen,Max Verstappen,Red Bull,8.0,365,3.65,4
+antonelli,Andrea Kimi Antonelli,Mercedes,18.0,128,1.28,5
+hamilton,Lewis Hamilton,Ferrari,12.0,13,0.13,6
+bearman,Oliver Bearman,Haas F1 Team,6.0,0,0.0,7
+arvid_lindblad,Arvid Lindblad,RB F1 Team,4.0,0,0.0,8
+bortoleto,Gabriel Bortoleto,Audi,2.0,0,0.0,9
+gasly,Pierre Gasly,Alpine F1 Team,1.0,0,0.0,10
+albon,Alexander Albon,Williams,0.0,0,0.0,11
+alonso,Fernando Alonso,Aston Martin,0.0,0,0.0,12
+hadjar,Isack Hadjar,Red Bull,0.0,0,0.0,13
+bottas,Valtteri Bottas,Cadillac F1 Team,0.0,0,0.0,14
+lawson,Liam Lawson,RB F1 Team,0.0,0,0.0,15
+hulkenberg,Nico Hülkenberg,Audi,0.0,0,0.0,16
+colapinto,Franco Colapinto,Alpine F1 Team,0.0,0,0.0,17
+ocon,Esteban Ocon,Haas F1 Team,0.0,0,0.0,18
+perez,Sergio Pérez,Cadillac F1 Team,0.0,0,0.0,19
+piastri,Oscar Piastri,McLaren,0.0,0,0.0,20
+sainz,Carlos Sainz,Williams,0.0,0,0.0,21
+stroll,Lance Stroll,Aston Martin,0.0,0,0.0,22

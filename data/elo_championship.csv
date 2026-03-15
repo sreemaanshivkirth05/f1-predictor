@@ -1,0 +1,51 @@
+driver_id,driver_name,constructor_name,elo_rating,elo_champ_probability
+russell,George Russell,Mercedes,1999.43,14.77
+norris,Lando Norris,McLaren,1941.47,11.05
+leclerc,Charles Leclerc,Ferrari,1918.85,9.87
+max_verstappen,Max Verstappen,Red Bull,1911.56,9.52
+antonelli,Andrea Kimi Antonelli,Mercedes,1869.93,7.73
+hamilton,Lewis Hamilton,Ferrari,1821.41,6.06
+bearman,Oliver Bearman,Haas F1 Team,1662.24,2.74
+rosberg,Nico Rosberg,Mercedes,1652.89,2.61
+perez,Sergio Pérez,Cadillac F1 Team,1622.81,2.25
+arvid_lindblad,Arvid Lindblad,RB F1 Team,1606.63,2.07
+albon,Alexander Albon,Williams,1575.01,1.77
+ocon,Esteban Ocon,Haas F1 Team,1539.57,1.48
+piastri,Oscar Piastri,McLaren,1526.82,1.39
+gasly,Pierre Gasly,Alpine F1 Team,1493.74,1.18
+massa,Felipe Massa,Williams,1483.66,1.12
+wehrlein,Pascal Wehrlein,Sauber,1477.78,1.09
+giovinazzi,Antonio Giovinazzi,Alfa Romeo,1470.0,1.05
+lawson,Liam Lawson,RB F1 Team,1464.34,1.02
+bortoleto,Gabriel Bortoleto,Audi,1462.24,1.01
+button,Jenson Button,McLaren,1458.81,0.99
+colapinto,Franco Colapinto,Alpine F1 Team,1455.98,0.98
+ericsson,Marcus Ericsson,Sauber,1452.41,0.96
+sainz,Carlos Sainz,Williams,1451.49,0.95
+vandoorne,Stoffel Vandoorne,McLaren,1451.37,0.95
+brendon_hartley,Brendon Hartley,Toro Rosso,1450.5,0.95
+kvyat,Daniil Kvyat,AlphaTauri,1445.36,0.93
+raikkonen,Kimi Räikkönen,Alfa Romeo,1445.1,0.92
+vettel,Sebastian Vettel,Aston Martin,1410.75,0.78
+nasr,Felipe Nasr,Sauber,1406.78,0.76
+gutierrez,Esteban Gutiérrez,Haas F1 Team,1395.72,0.72
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,1395.28,0.72
+jolyon_palmer,Jolyon Palmer,Renault,1393.44,0.71
+sirotkin,Sergey Sirotkin,Williams,1384.49,0.68
+latifi,Nicholas Latifi,Williams,1378.77,0.66
+alonso,Fernando Alonso,Aston Martin,1371.77,0.64
+mick_schumacher,Mick Schumacher,Haas F1 Team,1366.96,0.63
+grosjean,Romain Grosjean,Haas F1 Team,1360.0,0.6
+hadjar,Isack Hadjar,Red Bull,1348.19,0.57
+tsunoda,Yuki Tsunoda,Red Bull,1343.99,0.56
+haryanto,Rio Haryanto,Manor Marussia,1336.42,0.54
+kubica,Robert Kubica,Williams,1331.84,0.52
+doohan,Jack Doohan,Alpine F1 Team,1325.48,0.51
+zhou,Guanyu Zhou,Sauber,1319.82,0.49
+stroll,Lance Stroll,Aston Martin,1315.13,0.48
+de_vries,Nyck de Vries,AlphaTauri,1270.38,0.39
+mazepin,Nikita Mazepin,Haas F1 Team,1261.1,0.37
+sargeant,Logan Sargeant,Williams,1254.01,0.36
+ricciardo,Daniel Ricciardo,RB F1 Team,1250.51,0.35
+bottas,Valtteri Bottas,Cadillac F1 Team,1223.28,0.3
+hulkenberg,Nico Hülkenberg,Audi,1180.83,0.25

@@ -1,0 +1,31 @@
+name: F1 Daily Update
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # Runs every day at 8am UTC
+  workflow_dispatch:        # Also allows manual trigger from GitHub
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily update
+        run: python src/data_collection/daily_update.py
+
+      - name: Commit updated data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git commit -m "Auto update: $(date)" || echo "No changes"
+          git push

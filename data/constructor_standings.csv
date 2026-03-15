@@ -1,0 +1,2184 @@
+year,round,constructor_id,constructor_name,constructor_champ_pos,constructor_champ_pts,constructor_wins
+2016,1,mercedes,Mercedes,1,43.0,1
+2016,1,ferrari,Ferrari,2,15.0,0
+2016,1,williams,Williams,3,14.0,0
+2016,1,red_bull,Red Bull,4,12.0,0
+2016,1,haas,Haas F1 Team,5,8.0,0
+2016,1,force_india,Force India,6,6.0,0
+2016,1,toro_rosso,Toro Rosso,7,3.0,0
+2016,1,renault,Renault,8,0.0,0
+2016,1,mclaren,McLaren,9,0.0,0
+2016,1,sauber,Sauber,10,0.0,0
+2016,1,manor,Manor Marussia,11,0.0,0
+2016,2,mercedes,Mercedes,1,83.0,2
+2016,2,ferrari,Ferrari,2,33.0,0
+2016,2,red_bull,Red Bull,3,30.0,0
+2016,2,williams,Williams,4,20.0,0
+2016,2,haas,Haas F1 Team,5,18.0,0
+2016,2,toro_rosso,Toro Rosso,6,11.0,0
+2016,2,force_india,Force India,7,6.0,0
+2016,2,mclaren,McLaren,8,1.0,0
+2016,2,renault,Renault,9,0.0,0
+2016,2,sauber,Sauber,10,0.0,0
+2016,2,manor,Manor Marussia,11,0.0,0
+2016,3,mercedes,Mercedes,1,114.0,3
+2016,3,ferrari,Ferrari,2,61.0,0
+2016,3,red_bull,Red Bull,3,57.0,0
+2016,3,williams,Williams,4,29.0,0
+2016,3,haas,Haas F1 Team,5,18.0,0
+2016,3,toro_rosso,Toro Rosso,6,17.0,0
+2016,3,force_india,Force India,7,6.0,0
+2016,3,mclaren,McLaren,8,1.0,0
+2016,3,renault,Renault,9,0.0,0
+2016,3,sauber,Sauber,10,0.0,0
+2016,3,manor,Manor Marussia,11,0.0,0
+2016,4,mercedes,Mercedes,1,157.0,4
+2016,4,ferrari,Ferrari,2,76.0,0
+2016,4,red_bull,Red Bull,3,57.0,0
+2016,4,williams,Williams,4,51.0,0
+2016,4,haas,Haas F1 Team,5,22.0,0
+2016,4,toro_rosso,Toro Rosso,6,17.0,0
+2016,4,mclaren,McLaren,7,10.0,0
+2016,4,force_india,Force India,8,8.0,0
+2016,4,renault,Renault,9,6.0,0
+2016,4,sauber,Sauber,10,0.0,0
+2016,4,manor,Manor Marussia,11,0.0,0
+2016,5,mercedes,Mercedes,1,157.0,4
+2016,5,ferrari,Ferrari,2,109.0,0
+2016,5,red_bull,Red Bull,3,94.0,1
+2016,5,williams,Williams,4,65.0,0
+2016,5,toro_rosso,Toro Rosso,5,26.0,0
+2016,5,haas,Haas F1 Team,6,22.0,0
+2016,5,force_india,Force India,7,14.0,0
+2016,5,mclaren,McLaren,8,12.0,0
+2016,5,renault,Renault,9,6.0,0
+2016,5,sauber,Sauber,10,0.0,0
+2016,5,manor,Manor Marussia,11,0.0,0
+2016,6,mercedes,Mercedes,1,188.0,5
+2016,6,ferrari,Ferrari,2,121.0,0
+2016,6,red_bull,Red Bull,3,112.0,1
+2016,6,williams,Williams,4,66.0,0
+2016,6,force_india,Force India,5,37.0,0
+2016,6,toro_rosso,Toro Rosso,6,30.0,0
+2016,6,mclaren,McLaren,7,24.0,0
+2016,6,haas,Haas F1 Team,8,22.0,0
+2016,6,renault,Renault,9,6.0,0
+2016,6,sauber,Sauber,10,0.0,0
+2016,6,manor,Manor Marussia,11,0.0,0
+2016,7,mercedes,Mercedes,1,223.0,6
+2016,7,ferrari,Ferrari,2,147.0,0
+2016,7,red_bull,Red Bull,3,130.0,1
+2016,7,williams,Williams,4,81.0,0
+2016,7,force_india,Force India,5,42.0,0
+2016,7,toro_rosso,Toro Rosso,6,32.0,0
+2016,7,mclaren,McLaren,7,24.0,0
+2016,7,haas,Haas F1 Team,8,22.0,0
+2016,7,renault,Renault,9,6.0,0
+2016,7,sauber,Sauber,10,0.0,0
+2016,7,manor,Manor Marussia,11,0.0,0
+2016,8,mercedes,Mercedes,1,258.0,7
+2016,8,ferrari,Ferrari,2,177.0,0
+2016,8,red_bull,Red Bull,3,140.0,1
+2016,8,williams,Williams,4,90.0,0
+2016,8,force_india,Force India,5,59.0,0
+2016,8,toro_rosso,Toro Rosso,6,32.0,0
+2016,8,mclaren,McLaren,7,24.0,0
+2016,8,haas,Haas F1 Team,8,22.0,0
+2016,8,renault,Renault,9,6.0,0
+2016,8,sauber,Sauber,10,0.0,0
+2016,8,manor,Manor Marussia,11,0.0,0
+2016,9,mercedes,Mercedes,1,295.0,8
+2016,9,ferrari,Ferrari,2,192.0,0
+2016,9,red_bull,Red Bull,3,168.0,1
+2016,9,williams,Williams,4,92.0,0
+2016,9,force_india,Force India,5,59.0,0
+2016,9,toro_rosso,Toro Rosso,6,36.0,0
+2016,9,mclaren,McLaren,7,32.0,0
+2016,9,haas,Haas F1 Team,8,28.0,0
+2016,9,renault,Renault,9,6.0,0
+2016,9,manor,Manor Marussia,10,1.0,0
+2016,9,sauber,Sauber,11,0.0,0
+2016,10,mercedes,Mercedes,1,335.0,9
+2016,10,ferrari,Ferrari,2,204.0,0
+2016,10,red_bull,Red Bull,3,198.0,1
+2016,10,williams,Williams,4,92.0,0
+2016,10,force_india,Force India,5,73.0,0
+2016,10,toro_rosso,Toro Rosso,6,41.0,0
+2016,10,mclaren,McLaren,7,32.0,0
+2016,10,haas,Haas F1 Team,8,28.0,0
+2016,10,renault,Renault,9,6.0,0
+2016,10,manor,Manor Marussia,10,1.0,0
+2016,10,sauber,Sauber,11,0.0,0
+2016,11,mercedes,Mercedes,1,378.0,10
+2016,11,ferrari,Ferrari,2,224.0,0
+2016,11,red_bull,Red Bull,3,223.0,1
+2016,11,williams,Williams,4,94.0,0
+2016,11,force_india,Force India,5,74.0,0
+2016,11,toro_rosso,Toro Rosso,6,45.0,0
+2016,11,mclaren,McLaren,7,38.0,0
+2016,11,haas,Haas F1 Team,8,28.0,0
+2016,11,renault,Renault,9,6.0,0
+2016,11,manor,Manor Marussia,10,1.0,0
+2016,11,sauber,Sauber,11,0.0,0
+2016,12,mercedes,Mercedes,1,415.0,11
+2016,12,red_bull,Red Bull,2,256.0,1
+2016,12,ferrari,Ferrari,3,242.0,0
+2016,12,williams,Williams,4,96.0,0
+2016,12,force_india,Force India,5,81.0,0
+2016,12,toro_rosso,Toro Rosso,6,45.0,0
+2016,12,mclaren,McLaren,7,42.0,0
+2016,12,haas,Haas F1 Team,8,28.0,0
+2016,12,renault,Renault,9,6.0,0
+2016,12,manor,Manor Marussia,10,1.0,0
+2016,12,sauber,Sauber,11,0.0,0
+2016,13,mercedes,Mercedes,1,455.0,12
+2016,13,red_bull,Red Bull,2,274.0,1
+2016,13,ferrari,Ferrari,3,252.0,0
+2016,13,force_india,Force India,4,103.0,0
+2016,13,williams,Williams,5,101.0,0
+2016,13,mclaren,McLaren,6,48.0,0
+2016,13,toro_rosso,Toro Rosso,7,45.0,0
+2016,13,haas,Haas F1 Team,8,28.0,0
+2016,13,renault,Renault,9,6.0,0
+2016,13,manor,Manor Marussia,10,1.0,0
+2016,13,sauber,Sauber,11,0.0,0
+2016,14,mercedes,Mercedes,1,498.0,13
+2016,14,red_bull,Red Bull,2,290.0,1
+2016,14,ferrari,Ferrari,3,279.0,0
+2016,14,williams,Williams,4,111.0,0
+2016,14,force_india,Force India,5,108.0,0
+2016,14,mclaren,McLaren,6,48.0,0
+2016,14,toro_rosso,Toro Rosso,7,45.0,0
+2016,14,haas,Haas F1 Team,8,28.0,0
+2016,14,renault,Renault,9,6.0,0
+2016,14,manor,Manor Marussia,10,1.0,0
+2016,14,sauber,Sauber,11,0.0,0
+2016,15,mercedes,Mercedes,1,538.0,14
+2016,15,red_bull,Red Bull,2,316.0,1
+2016,15,ferrari,Ferrari,3,301.0,0
+2016,15,force_india,Force India,4,112.0,0
+2016,15,williams,Williams,5,111.0,0
+2016,15,mclaren,McLaren,6,54.0,0
+2016,15,toro_rosso,Toro Rosso,7,47.0,0
+2016,15,haas,Haas F1 Team,8,28.0,0
+2016,15,renault,Renault,9,7.0,0
+2016,15,manor,Manor Marussia,10,1.0,0
+2016,15,sauber,Sauber,11,0.0,0
+2016,16,mercedes,Mercedes,1,553.0,14
+2016,16,red_bull,Red Bull,2,359.0,2
+2016,16,ferrari,Ferrari,3,313.0,0
+2016,16,force_india,Force India,4,124.0,0
+2016,16,williams,Williams,5,121.0,0
+2016,16,mclaren,McLaren,6,62.0,0
+2016,16,toro_rosso,Toro Rosso,7,47.0,0
+2016,16,haas,Haas F1 Team,8,28.0,0
+2016,16,renault,Renault,9,8.0,0
+2016,16,manor,Manor Marussia,10,1.0,0
+2016,16,sauber,Sauber,11,0.0,0
+2016,17,mercedes,Mercedes,1,593.0,15
+2016,17,red_bull,Red Bull,2,385.0,2
+2016,17,ferrari,Ferrari,3,335.0,0
+2016,17,force_india,Force India,4,134.0,0
+2016,17,williams,Williams,5,124.0,0
+2016,17,mclaren,McLaren,6,62.0,0
+2016,17,toro_rosso,Toro Rosso,7,47.0,0
+2016,17,haas,Haas F1 Team,8,28.0,0
+2016,17,renault,Renault,9,8.0,0
+2016,17,manor,Manor Marussia,10,1.0,0
+2016,17,sauber,Sauber,11,0.0,0
+2016,18,mercedes,Mercedes,1,636.0,16
+2016,18,red_bull,Red Bull,2,400.0,2
+2016,18,ferrari,Ferrari,3,347.0,0
+2016,18,force_india,Force India,4,138.0,0
+2016,18,williams,Williams,5,130.0,0
+2016,18,mclaren,McLaren,6,74.0,0
+2016,18,toro_rosso,Toro Rosso,7,55.0,0
+2016,18,haas,Haas F1 Team,8,29.0,0
+2016,18,renault,Renault,9,8.0,0
+2016,18,manor,Manor Marussia,10,1.0,0
+2016,18,sauber,Sauber,11,0.0,0
+2016,19,mercedes,Mercedes,1,679.0,17
+2016,19,red_bull,Red Bull,2,427.0,2
+2016,19,ferrari,Ferrari,3,365.0,0
+2016,19,force_india,Force India,4,145.0,0
+2016,19,williams,Williams,5,136.0,0
+2016,19,mclaren,McLaren,6,74.0,0
+2016,19,toro_rosso,Toro Rosso,7,55.0,0
+2016,19,haas,Haas F1 Team,8,29.0,0
+2016,19,renault,Renault,9,8.0,0
+2016,19,manor,Manor Marussia,10,1.0,0
+2016,19,sauber,Sauber,11,0.0,0
+2016,20,mercedes,Mercedes,1,722.0,18
+2016,20,red_bull,Red Bull,2,446.0,2
+2016,20,ferrari,Ferrari,3,375.0,0
+2016,20,force_india,Force India,4,163.0,0
+2016,20,williams,Williams,5,136.0,0
+2016,20,mclaren,McLaren,6,75.0,0
+2016,20,toro_rosso,Toro Rosso,7,63.0,0
+2016,20,haas,Haas F1 Team,8,29.0,0
+2016,20,renault,Renault,9,8.0,0
+2016,20,sauber,Sauber,10,2.0,0
+2016,20,manor,Manor Marussia,11,1.0,0
+2016,21,mercedes,Mercedes,1,765.0,19
+2016,21,red_bull,Red Bull,2,468.0,2
+2016,21,ferrari,Ferrari,3,398.0,0
+2016,21,force_india,Force India,4,173.0,0
+2016,21,williams,Williams,5,138.0,0
+2016,21,mclaren,McLaren,6,76.0,0
+2016,21,toro_rosso,Toro Rosso,7,63.0,0
+2016,21,haas,Haas F1 Team,8,29.0,0
+2016,21,renault,Renault,9,8.0,0
+2016,21,sauber,Sauber,10,2.0,0
+2016,21,manor,Manor Marussia,11,1.0,0
+2017,1,ferrari,Ferrari,1,37.0,1
+2017,1,mercedes,Mercedes,2,33.0,0
+2017,1,red_bull,Red Bull,3,10.0,0
+2017,1,williams,Williams,4,8.0,0
+2017,1,force_india,Force India,5,7.0,0
+2017,1,toro_rosso,Toro Rosso,6,6.0,0
+2017,1,renault,Renault,7,0.0,0
+2017,1,sauber,Sauber,8,0.0,0
+2017,1,mclaren,McLaren,9,0.0,0
+2017,1,haas,Haas F1 Team,0,0.0,0
+2017,2,mercedes,Mercedes,1,66.0,1
+2017,2,ferrari,Ferrari,2,65.0,1
+2017,2,red_bull,Red Bull,3,37.0,0
+2017,2,toro_rosso,Toro Rosso,4,12.0,0
+2017,2,force_india,Force India,5,10.0,0
+2017,2,williams,Williams,6,8.0,0
+2017,2,haas,Haas F1 Team,7,4.0,0
+2017,2,renault,Renault,8,0.0,0
+2017,2,sauber,Sauber,9,0.0,0
+2017,2,mclaren,McLaren,10,0.0,0
+2017,3,ferrari,Ferrari,1,102.0,2
+2017,3,mercedes,Mercedes,2,99.0,1
+2017,3,red_bull,Red Bull,3,47.0,0
+2017,3,force_india,Force India,4,17.0,0
+2017,3,williams,Williams,5,16.0,0
+2017,3,toro_rosso,Toro Rosso,6,12.0,0
+2017,3,haas,Haas F1 Team,7,8.0,0
+2017,3,renault,Renault,8,2.0,0
+2017,3,sauber,Sauber,9,0.0,0
+2017,3,mclaren,McLaren,10,0.0,0
+2017,4,mercedes,Mercedes,1,136.0,2
+2017,4,ferrari,Ferrari,2,135.0,2
+2017,4,red_bull,Red Bull,3,57.0,0
+2017,4,force_india,Force India,4,31.0,0
+2017,4,williams,Williams,5,18.0,0
+2017,4,toro_rosso,Toro Rosso,6,13.0,0
+2017,4,haas,Haas F1 Team,7,8.0,0
+2017,4,renault,Renault,8,6.0,0
+2017,4,sauber,Sauber,9,0.0,0
+2017,4,mclaren,McLaren,10,0.0,0
+2017,5,mercedes,Mercedes,1,161.0,3
+2017,5,ferrari,Ferrari,2,153.0,2
+2017,5,red_bull,Red Bull,3,72.0,0
+2017,5,force_india,Force India,4,53.0,0
+2017,5,toro_rosso,Toro Rosso,5,21.0,0
+2017,5,williams,Williams,6,18.0,0
+2017,5,renault,Renault,7,14.0,0
+2017,5,haas,Haas F1 Team,8,9.0,0
+2017,5,sauber,Sauber,9,4.0,0
+2017,5,mclaren,McLaren,10,0.0,0
+2017,6,ferrari,Ferrari,1,196.0,3
+2017,6,mercedes,Mercedes,2,179.0,3
+2017,6,red_bull,Red Bull,3,97.0,0
+2017,6,force_india,Force India,4,53.0,0
+2017,6,toro_rosso,Toro Rosso,5,29.0,0
+2017,6,williams,Williams,6,20.0,0
+2017,6,renault,Renault,7,14.0,0
+2017,6,haas,Haas F1 Team,8,14.0,0
+2017,6,sauber,Sauber,9,4.0,0
+2017,6,mclaren,McLaren,10,0.0,0
+2017,7,mercedes,Mercedes,1,222.0,4
+2017,7,ferrari,Ferrari,2,214.0,3
+2017,7,red_bull,Red Bull,3,112.0,0
+2017,7,force_india,Force India,4,71.0,0
+2017,7,toro_rosso,Toro Rosso,5,29.0,0
+2017,7,williams,Williams,6,22.0,0
+2017,7,renault,Renault,7,18.0,0
+2017,7,haas,Haas F1 Team,8,15.0,0
+2017,7,sauber,Sauber,9,4.0,0
+2017,7,mclaren,McLaren,10,0.0,0
+2017,8,mercedes,Mercedes,1,250.0,4
+2017,8,ferrari,Ferrari,2,226.0,3
+2017,8,red_bull,Red Bull,3,137.0,1
+2017,8,force_india,Force India,4,79.0,0
+2017,8,williams,Williams,5,37.0,0
+2017,8,toro_rosso,Toro Rosso,6,33.0,0
+2017,8,haas,Haas F1 Team,7,21.0,0
+2017,8,renault,Renault,8,18.0,0
+2017,8,sauber,Sauber,9,5.0,0
+2017,8,mclaren,McLaren,10,2.0,0
+2017,9,mercedes,Mercedes,1,287.0,5
+2017,9,ferrari,Ferrari,2,254.0,3
+2017,9,red_bull,Red Bull,3,152.0,1
+2017,9,force_india,Force India,4,89.0,0
+2017,9,williams,Williams,5,40.0,0
+2017,9,toro_rosso,Toro Rosso,6,33.0,0
+2017,9,haas,Haas F1 Team,7,29.0,0
+2017,9,renault,Renault,8,18.0,0
+2017,9,sauber,Sauber,9,5.0,0
+2017,9,mclaren,McLaren,10,2.0,0
+2017,10,mercedes,Mercedes,1,330.0,6
+2017,10,ferrari,Ferrari,2,275.0,3
+2017,10,red_bull,Red Bull,3,174.0,1
+2017,10,force_india,Force India,4,95.0,0
+2017,10,williams,Williams,5,41.0,0
+2017,10,toro_rosso,Toro Rosso,6,33.0,0
+2017,10,haas,Haas F1 Team,7,29.0,0
+2017,10,renault,Renault,8,26.0,0
+2017,10,sauber,Sauber,9,5.0,0
+2017,10,mclaren,McLaren,10,2.0,0
+2017,11,mercedes,Mercedes,1,357.0,6
+2017,11,ferrari,Ferrari,2,318.0,4
+2017,11,red_bull,Red Bull,3,184.0,1
+2017,11,force_india,Force India,4,101.0,0
+2017,11,williams,Williams,5,41.0,0
+2017,11,toro_rosso,Toro Rosso,6,39.0,0
+2017,11,haas,Haas F1 Team,7,29.0,0
+2017,11,renault,Renault,8,26.0,0
+2017,11,mclaren,McLaren,9,11.0,0
+2017,11,sauber,Sauber,10,5.0,0
+2017,12,mercedes,Mercedes,1,392.0,7
+2017,12,ferrari,Ferrari,2,348.0,4
+2017,12,red_bull,Red Bull,3,199.0,1
+2017,12,force_india,Force India,4,103.0,0
+2017,12,williams,Williams,5,45.0,0
+2017,12,toro_rosso,Toro Rosso,6,40.0,0
+2017,12,haas,Haas F1 Team,7,35.0,0
+2017,12,renault,Renault,8,34.0,0
+2017,12,mclaren,McLaren,9,11.0,0
+2017,12,sauber,Sauber,10,5.0,0
+2017,13,mercedes,Mercedes,1,435.0,8
+2017,13,ferrari,Ferrari,2,373.0,4
+2017,13,red_bull,Red Bull,3,212.0,1
+2017,13,force_india,Force India,4,113.0,0
+2017,13,williams,Williams,5,55.0,0
+2017,13,toro_rosso,Toro Rosso,6,40.0,0
+2017,13,haas,Haas F1 Team,7,35.0,0
+2017,13,renault,Renault,8,34.0,0
+2017,13,mclaren,McLaren,9,11.0,0
+2017,13,sauber,Sauber,10,5.0,0
+2017,14,mercedes,Mercedes,1,475.0,9
+2017,14,ferrari,Ferrari,2,373.0,4
+2017,14,red_bull,Red Bull,3,230.0,1
+2017,14,force_india,Force India,4,124.0,0
+2017,14,williams,Williams,5,59.0,0
+2017,14,toro_rosso,Toro Rosso,6,52.0,0
+2017,14,renault,Renault,7,42.0,0
+2017,14,haas,Haas F1 Team,8,37.0,0
+2017,14,mclaren,McLaren,9,17.0,0
+2017,14,sauber,Sauber,10,5.0,0
+2017,15,mercedes,Mercedes,1,503.0,9
+2017,15,ferrari,Ferrari,2,385.0,4
+2017,15,red_bull,Red Bull,3,270.0,2
+2017,15,force_india,Force India,4,133.0,0
+2017,15,williams,Williams,5,65.0,0
+2017,15,toro_rosso,Toro Rosso,6,52.0,0
+2017,15,renault,Renault,7,42.0,0
+2017,15,haas,Haas F1 Team,8,37.0,0
+2017,15,mclaren,McLaren,9,23.0,0
+2017,15,sauber,Sauber,10,5.0,0
+2017,16,mercedes,Mercedes,1,540.0,10
+2017,16,ferrari,Ferrari,2,395.0,4
+2017,16,red_bull,Red Bull,3,303.0,2
+2017,16,force_india,Force India,4,147.0,0
+2017,16,williams,Williams,5,66.0,0
+2017,16,toro_rosso,Toro Rosso,6,52.0,0
+2017,16,haas,Haas F1 Team,7,43.0,0
+2017,16,renault,Renault,8,42.0,0
+2017,16,mclaren,McLaren,9,23.0,0
+2017,16,sauber,Sauber,10,5.0,0
+2017,17,mercedes,Mercedes,1,575.0,11
+2017,17,ferrari,Ferrari,2,428.0,4
+2017,17,red_bull,Red Bull,3,315.0,2
+2017,17,force_india,Force India,4,159.0,0
+2017,17,williams,Williams,5,68.0,0
+2017,17,toro_rosso,Toro Rosso,6,53.0,0
+2017,17,renault,Renault,7,48.0,0
+2017,17,haas,Haas F1 Team,8,43.0,0
+2017,17,mclaren,McLaren,9,23.0,0
+2017,17,sauber,Sauber,10,5.0,0
+2017,18,mercedes,Mercedes,1,595.0,11
+2017,18,ferrari,Ferrari,2,455.0,4
+2017,18,red_bull,Red Bull,3,340.0,3
+2017,18,force_india,Force India,4,175.0,0
+2017,18,williams,Williams,5,76.0,0
+2017,18,toro_rosso,Toro Rosso,6,53.0,0
+2017,18,renault,Renault,7,48.0,0
+2017,18,haas,Haas F1 Team,8,47.0,0
+2017,18,mclaren,McLaren,9,24.0,0
+2017,18,sauber,Sauber,10,5.0,0
+2017,19,mercedes,Mercedes,1,625.0,11
+2017,19,ferrari,Ferrari,2,495.0,5
+2017,19,red_bull,Red Bull,3,358.0,3
+2017,19,force_india,Force India,4,177.0,0
+2017,19,williams,Williams,5,82.0,0
+2017,19,toro_rosso,Toro Rosso,6,53.0,0
+2017,19,renault,Renault,7,49.0,0
+2017,19,haas,Haas F1 Team,8,47.0,0
+2017,19,mclaren,McLaren,9,28.0,0
+2017,19,sauber,Sauber,10,5.0,0
+2017,20,mercedes,Mercedes,1,668.0,12
+2017,20,ferrari,Ferrari,2,522.0,5
+2017,20,red_bull,Red Bull,3,368.0,3
+2017,20,force_india,Force India,4,187.0,0
+2017,20,williams,Williams,5,83.0,0
+2017,20,renault,Renault,6,57.0,0
+2017,20,toro_rosso,Toro Rosso,7,53.0,0
+2017,20,haas,Haas F1 Team,8,47.0,0
+2017,20,mclaren,McLaren,9,30.0,0
+2017,20,sauber,Sauber,10,5.0,0
+2018,1,ferrari,Ferrari,1,40.0,1
+2018,1,mercedes,Mercedes,2,22.0,0
+2018,1,red_bull,Red Bull,3,20.0,0
+2018,1,mclaren,McLaren,4,12.0,0
+2018,1,renault,Renault,5,7.0,0
+2018,1,force_india,Force India,6,0.0,0
+2018,1,sauber,Sauber,7,0.0,0
+2018,1,williams,Williams,8,0.0,0
+2018,1,toro_rosso,Toro Rosso,9,0.0,0
+2018,1,haas,Haas F1 Team,0,0.0,0
+2018,2,ferrari,Ferrari,1,65.0,2
+2018,2,mercedes,Mercedes,2,55.0,0
+2018,2,mclaren,McLaren,3,22.0,0
+2018,2,red_bull,Red Bull,4,20.0,0
+2018,2,renault,Renault,5,15.0,0
+2018,2,toro_rosso,Toro Rosso,6,12.0,0
+2018,2,haas,Haas F1 Team,7,10.0,0
+2018,2,sauber,Sauber,8,2.0,0
+2018,2,force_india,Force India,9,1.0,0
+2018,2,williams,Williams,10,0.0,0
+2018,3,mercedes,Mercedes,1,85.0,0
+2018,3,ferrari,Ferrari,2,84.0,2
+2018,3,red_bull,Red Bull,3,55.0,1
+2018,3,mclaren,McLaren,4,28.0,0
+2018,3,renault,Renault,5,25.0,0
+2018,3,toro_rosso,Toro Rosso,6,12.0,0
+2018,3,haas,Haas F1 Team,7,11.0,0
+2018,3,sauber,Sauber,8,2.0,0
+2018,3,force_india,Force India,9,1.0,0
+2018,3,williams,Williams,10,0.0,0
+2018,4,ferrari,Ferrari,1,114.0,2
+2018,4,mercedes,Mercedes,2,110.0,1
+2018,4,red_bull,Red Bull,3,55.0,1
+2018,4,mclaren,McLaren,4,36.0,0
+2018,4,renault,Renault,5,35.0,0
+2018,4,force_india,Force India,6,16.0,0
+2018,4,toro_rosso,Toro Rosso,7,13.0,0
+2018,4,haas,Haas F1 Team,8,11.0,0
+2018,4,sauber,Sauber,9,10.0,0
+2018,4,williams,Williams,10,4.0,0
+2018,5,mercedes,Mercedes,1,153.0,2
+2018,5,ferrari,Ferrari,2,126.0,2
+2018,5,red_bull,Red Bull,3,80.0,1
+2018,5,renault,Renault,4,41.0,0
+2018,5,mclaren,McLaren,5,40.0,0
+2018,5,haas,Haas F1 Team,6,19.0,0
+2018,5,force_india,Force India,7,18.0,0
+2018,5,toro_rosso,Toro Rosso,8,13.0,0
+2018,5,sauber,Sauber,9,11.0,0
+2018,5,williams,Williams,10,4.0,0
+2018,6,mercedes,Mercedes,1,178.0,2
+2018,6,ferrari,Ferrari,2,156.0,2
+2018,6,red_bull,Red Bull,3,107.0,2
+2018,6,renault,Renault,4,46.0,0
+2018,6,mclaren,McLaren,5,40.0,0
+2018,6,force_india,Force India,6,26.0,0
+2018,6,toro_rosso,Toro Rosso,7,19.0,0
+2018,6,haas,Haas F1 Team,8,19.0,0
+2018,6,sauber,Sauber,9,11.0,0
+2018,6,williams,Williams,10,4.0,0
+2018,7,mercedes,Mercedes,1,206.0,2
+2018,7,ferrari,Ferrari,2,189.0,3
+2018,7,red_bull,Red Bull,3,134.0,2
+2018,7,renault,Renault,4,56.0,0
+2018,7,mclaren,McLaren,5,40.0,0
+2018,7,force_india,Force India,6,28.0,0
+2018,7,toro_rosso,Toro Rosso,7,19.0,0
+2018,7,haas,Haas F1 Team,8,19.0,0
+2018,7,sauber,Sauber,9,12.0,0
+2018,7,williams,Williams,10,4.0,0
+2018,8,mercedes,Mercedes,1,237.0,3
+2018,8,ferrari,Ferrari,2,214.0,3
+2018,8,red_bull,Red Bull,3,164.0,2
+2018,8,renault,Renault,4,62.0,0
+2018,8,mclaren,McLaren,5,40.0,0
+2018,8,force_india,Force India,6,28.0,0
+2018,8,haas,Haas F1 Team,7,27.0,0
+2018,8,toro_rosso,Toro Rosso,8,19.0,0
+2018,8,sauber,Sauber,9,13.0,0
+2018,8,williams,Williams,10,4.0,0
+2018,9,ferrari,Ferrari,1,247.0,3
+2018,9,mercedes,Mercedes,2,237.0,3
+2018,9,red_bull,Red Bull,3,189.0,3
+2018,9,renault,Renault,4,62.0,0
+2018,9,haas,Haas F1 Team,5,49.0,0
+2018,9,mclaren,McLaren,6,44.0,0
+2018,9,force_india,Force India,7,42.0,0
+2018,9,toro_rosso,Toro Rosso,8,19.0,0
+2018,9,sauber,Sauber,9,16.0,0
+2018,9,williams,Williams,10,4.0,0
+2018,10,ferrari,Ferrari,1,287.0,4
+2018,10,mercedes,Mercedes,2,267.0,3
+2018,10,red_bull,Red Bull,3,199.0,3
+2018,10,renault,Renault,4,70.0,0
+2018,10,haas,Haas F1 Team,5,51.0,0
+2018,10,force_india,Force India,6,49.0,0
+2018,10,mclaren,McLaren,7,48.0,0
+2018,10,toro_rosso,Toro Rosso,8,19.0,0
+2018,10,sauber,Sauber,9,16.0,0
+2018,10,williams,Williams,10,4.0,0
+2018,11,mercedes,Mercedes,1,310.0,4
+2018,11,ferrari,Ferrari,2,302.0,4
+2018,11,red_bull,Red Bull,3,211.0,3
+2018,11,renault,Renault,4,80.0,0
+2018,11,force_india,Force India,5,59.0,0
+2018,11,haas,Haas F1 Team,6,59.0,0
+2018,11,mclaren,McLaren,7,48.0,0
+2018,11,toro_rosso,Toro Rosso,8,20.0,0
+2018,11,sauber,Sauber,9,18.0,0
+2018,11,williams,Williams,10,4.0,0
+2018,12,mercedes,Mercedes,1,345.0,5
+2018,12,ferrari,Ferrari,2,335.0,4
+2018,12,red_bull,Red Bull,3,223.0,3
+2018,12,renault,Renault,4,82.0,0
+2018,12,haas,Haas F1 Team,5,66.0,0
+2018,12,force_india,Force India,6,59.0,0
+2018,12,mclaren,McLaren,7,52.0,0
+2018,12,toro_rosso,Toro Rosso,8,28.0,0
+2018,12,sauber,Sauber,9,18.0,0
+2018,12,williams,Williams,10,4.0,0
+2018,13,mercedes,Mercedes,1,375.0,5
+2018,13,ferrari,Ferrari,2,360.0,5
+2018,13,red_bull,Red Bull,3,238.0,3
+2018,13,renault,Renault,4,82.0,0
+2018,13,force_india,Force India,5,77.0,0
+2018,13,haas,Haas F1 Team,6,76.0,0
+2018,13,mclaren,McLaren,7,52.0,0
+2018,13,toro_rosso,Toro Rosso,8,30.0,0
+2018,13,sauber,Sauber,9,19.0,0
+2018,13,williams,Williams,10,4.0,0
+2018,14,mercedes,Mercedes,1,415.0,6
+2018,14,ferrari,Ferrari,2,390.0,5
+2018,14,red_bull,Red Bull,3,248.0,3
+2018,14,force_india,Force India,4,91.0,0
+2018,14,renault,Renault,5,86.0,0
+2018,14,haas,Haas F1 Team,6,76.0,0
+2018,14,mclaren,McLaren,7,52.0,0
+2018,14,toro_rosso,Toro Rosso,8,30.0,0
+2018,14,sauber,Sauber,9,19.0,0
+2018,14,williams,Williams,10,7.0,0
+2018,15,mercedes,Mercedes,1,452.0,7
+2018,15,ferrari,Ferrari,2,415.0,5
+2018,15,red_bull,Red Bull,3,274.0,3
+2018,15,force_india,Force India,4,91.0,0
+2018,15,renault,Renault,5,91.0,0
+2018,15,haas,Haas F1 Team,6,76.0,0
+2018,15,mclaren,McLaren,7,58.0,0
+2018,15,toro_rosso,Toro Rosso,8,30.0,0
+2018,15,sauber,Sauber,9,21.0,0
+2018,15,williams,Williams,10,7.0,0
+2018,16,mercedes,Mercedes,1,495.0,8
+2018,16,ferrari,Ferrari,2,442.0,5
+2018,16,red_bull,Red Bull,3,292.0,3
+2018,16,force_india,Force India,4,94.0,0
+2018,16,renault,Renault,5,91.0,0
+2018,16,haas,Haas F1 Team,6,80.0,0
+2018,16,mclaren,McLaren,7,58.0,0
+2018,16,toro_rosso,Toro Rosso,8,30.0,0
+2018,16,sauber,Sauber,9,27.0,0
+2018,16,williams,Williams,10,7.0,0
+2018,17,mercedes,Mercedes,1,538.0,9
+2018,17,ferrari,Ferrari,2,460.0,5
+2018,17,red_bull,Red Bull,3,319.0,3
+2018,17,force_india,Force India,4,102.0,0
+2018,17,renault,Renault,5,92.0,0
+2018,17,haas,Haas F1 Team,6,84.0,0
+2018,17,mclaren,McLaren,7,58.0,0
+2018,17,toro_rosso,Toro Rosso,8,30.0,0
+2018,17,sauber,Sauber,9,27.0,0
+2018,17,williams,Williams,10,7.0,0
+2018,18,mercedes,Mercedes,1,563.0,9
+2018,18,ferrari,Ferrari,2,497.0,6
+2018,18,red_bull,Red Bull,3,337.0,3
+2018,18,force_india,Force India,4,106.0,0
+2018,18,renault,Renault,5,106.0,0
+2018,18,haas,Haas F1 Team,6,84.0,0
+2018,18,mclaren,McLaren,7,58.0,0
+2018,18,toro_rosso,Toro Rosso,8,32.0,0
+2018,18,sauber,Sauber,9,28.0,0
+2018,18,williams,Williams,10,7.0,0
+2018,19,mercedes,Mercedes,1,585.0,9
+2018,19,ferrari,Ferrari,2,530.0,6
+2018,19,red_bull,Red Bull,3,362.0,4
+2018,19,renault,Renault,4,114.0,0
+2018,19,force_india,Force India,5,106.0,0
+2018,19,haas,Haas F1 Team,6,84.0,0
+2018,19,mclaren,McLaren,7,62.0,0
+2018,19,sauber,Sauber,8,36.0,0
+2018,19,toro_rosso,Toro Rosso,9,33.0,0
+2018,19,williams,Williams,10,7.0,0
+2018,20,mercedes,Mercedes,1,620.0,10
+2018,20,ferrari,Ferrari,2,553.0,6
+2018,20,red_bull,Red Bull,3,392.0,4
+2018,20,renault,Renault,4,114.0,0
+2018,20,force_india,Force India,5,107.0,0
+2018,20,haas,Haas F1 Team,6,90.0,0
+2018,20,mclaren,McLaren,7,62.0,0
+2018,20,sauber,Sauber,8,42.0,0
+2018,20,toro_rosso,Toro Rosso,9,33.0,0
+2018,20,williams,Williams,10,7.0,0
+2018,21,mercedes,Mercedes,1,655.0,11
+2018,21,ferrari,Ferrari,2,571.0,6
+2018,21,red_bull,Red Bull,3,419.0,4
+2018,21,renault,Renault,4,122.0,0
+2018,21,force_india,Force India,5,111.0,0
+2018,21,haas,Haas F1 Team,6,93.0,0
+2018,21,mclaren,McLaren,7,62.0,0
+2018,21,sauber,Sauber,8,48.0,0
+2018,21,toro_rosso,Toro Rosso,9,33.0,0
+2018,21,williams,Williams,10,7.0,0
+2019,1,mercedes,Mercedes,1,44.0,1
+2019,1,ferrari,Ferrari,2,22.0,0
+2019,1,red_bull,Red Bull,3,15.0,0
+2019,1,haas,Haas F1 Team,4,8.0,0
+2019,1,renault,Renault,5,6.0,0
+2019,1,alfa,Alfa Romeo,6,4.0,0
+2019,1,racing_point,Racing Point,7,2.0,0
+2019,1,toro_rosso,Toro Rosso,8,1.0,0
+2019,1,mclaren,McLaren,9,0.0,0
+2019,1,williams,Williams,10,0.0,0
+2019,2,mercedes,Mercedes,1,87.0,2
+2019,2,ferrari,Ferrari,2,48.0,0
+2019,2,red_bull,Red Bull,3,31.0,0
+2019,2,alfa,Alfa Romeo,4,10.0,0
+2019,2,mclaren,McLaren,5,8.0,0
+2019,2,haas,Haas F1 Team,6,8.0,0
+2019,2,renault,Renault,7,6.0,0
+2019,2,toro_rosso,Toro Rosso,8,3.0,0
+2019,2,racing_point,Racing Point,9,3.0,0
+2019,2,williams,Williams,10,0.0,0
+2019,3,mercedes,Mercedes,1,130.0,3
+2019,3,ferrari,Ferrari,2,73.0,0
+2019,3,red_bull,Red Bull,3,52.0,0
+2019,3,renault,Renault,4,12.0,0
+2019,3,alfa,Alfa Romeo,5,12.0,0
+2019,3,haas,Haas F1 Team,6,8.0,0
+2019,3,mclaren,McLaren,7,8.0,0
+2019,3,racing_point,Racing Point,8,7.0,0
+2019,3,toro_rosso,Toro Rosso,9,4.0,0
+2019,3,williams,Williams,10,0.0,0
+2019,4,mercedes,Mercedes,1,173.0,4
+2019,4,ferrari,Ferrari,2,99.0,0
+2019,4,red_bull,Red Bull,3,64.0,0
+2019,4,mclaren,McLaren,4,18.0,0
+2019,4,racing_point,Racing Point,5,17.0,0
+2019,4,alfa,Alfa Romeo,6,13.0,0
+2019,4,renault,Renault,7,12.0,0
+2019,4,haas,Haas F1 Team,8,8.0,0
+2019,4,toro_rosso,Toro Rosso,9,4.0,0
+2019,4,williams,Williams,10,0.0,0
+2019,5,mercedes,Mercedes,1,217.0,5
+2019,5,ferrari,Ferrari,2,121.0,0
+2019,5,red_bull,Red Bull,3,87.0,0
+2019,5,mclaren,McLaren,4,22.0,0
+2019,5,racing_point,Racing Point,5,17.0,0
+2019,5,haas,Haas F1 Team,6,15.0,0
+2019,5,alfa,Alfa Romeo,7,13.0,0
+2019,5,renault,Renault,8,12.0,0
+2019,5,toro_rosso,Toro Rosso,9,6.0,0
+2019,5,williams,Williams,10,0.0,0
+2019,6,mercedes,Mercedes,1,257.0,6
+2019,6,ferrari,Ferrari,2,139.0,0
+2019,6,red_bull,Red Bull,3,110.0,0
+2019,6,mclaren,McLaren,4,30.0,0
+2019,6,racing_point,Racing Point,5,17.0,0
+2019,6,haas,Haas F1 Team,6,16.0,0
+2019,6,toro_rosso,Toro Rosso,7,16.0,0
+2019,6,renault,Renault,8,14.0,0
+2019,6,alfa,Alfa Romeo,9,13.0,0
+2019,6,williams,Williams,10,0.0,0
+2019,7,mercedes,Mercedes,1,295.0,7
+2019,7,ferrari,Ferrari,2,172.0,0
+2019,7,red_bull,Red Bull,3,124.0,0
+2019,7,mclaren,McLaren,4,30.0,0
+2019,7,renault,Renault,5,28.0,0
+2019,7,racing_point,Racing Point,6,19.0,0
+2019,7,toro_rosso,Toro Rosso,7,17.0,0
+2019,7,haas,Haas F1 Team,8,16.0,0
+2019,7,alfa,Alfa Romeo,9,13.0,0
+2019,7,williams,Williams,10,0.0,0
+2019,8,mercedes,Mercedes,1,338.0,8
+2019,8,ferrari,Ferrari,2,198.0,0
+2019,8,red_bull,Red Bull,3,137.0,0
+2019,8,mclaren,McLaren,4,40.0,0
+2019,8,renault,Renault,5,32.0,0
+2019,8,racing_point,Racing Point,6,19.0,0
+2019,8,alfa,Alfa Romeo,7,19.0,0
+2019,8,toro_rosso,Toro Rosso,8,17.0,0
+2019,8,haas,Haas F1 Team,9,16.0,0
+2019,8,williams,Williams,10,0.0,0
+2019,9,mercedes,Mercedes,1,363.0,8
+2019,9,ferrari,Ferrari,2,228.0,0
+2019,9,red_bull,Red Bull,3,169.0,1
+2019,9,mclaren,McLaren,4,52.0,0
+2019,9,renault,Renault,5,32.0,0
+2019,9,alfa,Alfa Romeo,6,22.0,0
+2019,9,racing_point,Racing Point,7,19.0,0
+2019,9,toro_rosso,Toro Rosso,8,17.0,0
+2019,9,haas,Haas F1 Team,9,16.0,0
+2019,9,williams,Williams,10,0.0,0
+2019,10,mercedes,Mercedes,1,407.0,9
+2019,10,ferrari,Ferrari,2,243.0,0
+2019,10,red_bull,Red Bull,3,191.0,1
+2019,10,mclaren,McLaren,4,60.0,0
+2019,10,renault,Renault,5,39.0,0
+2019,10,alfa,Alfa Romeo,6,26.0,0
+2019,10,racing_point,Racing Point,7,19.0,0
+2019,10,toro_rosso,Toro Rosso,8,19.0,0
+2019,10,haas,Haas F1 Team,9,16.0,0
+2019,10,williams,Williams,10,0.0,0
+2019,11,mercedes,Mercedes,1,409.0,9
+2019,11,ferrari,Ferrari,2,261.0,0
+2019,11,red_bull,Red Bull,3,217.0,2
+2019,11,mclaren,McLaren,4,70.0,0
+2019,11,toro_rosso,Toro Rosso,5,42.0,0
+2019,11,renault,Renault,6,39.0,0
+2019,11,racing_point,Racing Point,7,31.0,0
+2019,11,haas,Haas F1 Team,8,26.0,0
+2019,11,alfa,Alfa Romeo,9,26.0,0
+2019,11,williams,Williams,10,1.0,0
+2019,12,mercedes,Mercedes,1,438.0,10
+2019,12,ferrari,Ferrari,2,288.0,0
+2019,12,red_bull,Red Bull,3,244.0,2
+2019,12,mclaren,McLaren,4,82.0,0
+2019,12,toro_rosso,Toro Rosso,5,43.0,0
+2019,12,renault,Renault,6,39.0,0
+2019,12,alfa,Alfa Romeo,7,32.0,0
+2019,12,racing_point,Racing Point,8,31.0,0
+2019,12,haas,Haas F1 Team,9,26.0,0
+2019,12,williams,Williams,10,1.0,0
+2019,13,mercedes,Mercedes,1,471.0,10
+2019,13,ferrari,Ferrari,2,326.0,1
+2019,13,red_bull,Red Bull,3,254.0,2
+2019,13,mclaren,McLaren,4,82.0,0
+2019,13,toro_rosso,Toro Rosso,5,51.0,0
+2019,13,renault,Renault,6,43.0,0
+2019,13,racing_point,Racing Point,7,40.0,0
+2019,13,alfa,Alfa Romeo,8,32.0,0
+2019,13,haas,Haas F1 Team,9,26.0,0
+2019,13,williams,Williams,10,1.0,0
+2019,14,mercedes,Mercedes,1,505.0,10
+2019,14,ferrari,Ferrari,2,351.0,2
+2019,14,red_bull,Red Bull,3,266.0,2
+2019,14,mclaren,McLaren,4,83.0,0
+2019,14,renault,Renault,5,65.0,0
+2019,14,toro_rosso,Toro Rosso,6,51.0,0
+2019,14,racing_point,Racing Point,7,46.0,0
+2019,14,alfa,Alfa Romeo,8,34.0,0
+2019,14,haas,Haas F1 Team,9,26.0,0
+2019,14,williams,Williams,10,1.0,0
+2019,15,mercedes,Mercedes,1,527.0,10
+2019,15,ferrari,Ferrari,2,394.0,3
+2019,15,red_bull,Red Bull,3,289.0,2
+2019,15,mclaren,McLaren,4,89.0,0
+2019,15,renault,Renault,5,67.0,0
+2019,15,toro_rosso,Toro Rosso,6,55.0,0
+2019,15,racing_point,Racing Point,7,46.0,0
+2019,15,alfa,Alfa Romeo,8,35.0,0
+2019,15,haas,Haas F1 Team,9,26.0,0
+2019,15,williams,Williams,10,1.0,0
+2019,16,mercedes,Mercedes,1,571.0,11
+2019,16,ferrari,Ferrari,2,409.0,3
+2019,16,red_bull,Red Bull,3,311.0,2
+2019,16,mclaren,McLaren,4,101.0,0
+2019,16,renault,Renault,5,68.0,0
+2019,16,toro_rosso,Toro Rosso,6,55.0,0
+2019,16,racing_point,Racing Point,7,52.0,0
+2019,16,alfa,Alfa Romeo,8,35.0,0
+2019,16,haas,Haas F1 Team,9,28.0,0
+2019,16,williams,Williams,10,1.0,0
+2019,17,mercedes,Mercedes,1,612.0,12
+2019,17,ferrari,Ferrari,2,435.0,3
+2019,17,red_bull,Red Bull,3,323.0,2
+2019,17,mclaren,McLaren,4,111.0,0
+2019,17,renault,Renault,5,68.0,0
+2019,17,toro_rosso,Toro Rosso,6,62.0,0
+2019,17,racing_point,Racing Point,7,58.0,0
+2019,17,alfa,Alfa Romeo,8,35.0,0
+2019,17,haas,Haas F1 Team,9,28.0,0
+2019,17,williams,Williams,10,1.0,0
+2019,18,mercedes,Mercedes,1,652.0,13
+2019,18,ferrari,Ferrari,2,466.0,3
+2019,18,red_bull,Red Bull,3,341.0,2
+2019,18,mclaren,McLaren,4,111.0,0
+2019,18,renault,Renault,5,73.0,0
+2019,18,toro_rosso,Toro Rosso,6,64.0,0
+2019,18,racing_point,Racing Point,7,64.0,0
+2019,18,alfa,Alfa Romeo,8,35.0,0
+2019,18,haas,Haas F1 Team,9,28.0,0
+2019,18,williams,Williams,10,1.0,0
+2019,19,mercedes,Mercedes,1,695.0,14
+2019,19,ferrari,Ferrari,2,479.0,3
+2019,19,red_bull,Red Bull,3,366.0,2
+2019,19,mclaren,McLaren,4,121.0,0
+2019,19,renault,Renault,5,83.0,0
+2019,19,racing_point,Racing Point,6,65.0,0
+2019,19,toro_rosso,Toro Rosso,7,64.0,0
+2019,19,alfa,Alfa Romeo,8,35.0,0
+2019,19,haas,Haas F1 Team,9,28.0,0
+2019,19,williams,Williams,10,1.0,0
+2019,20,mercedes,Mercedes,1,701.0,14
+2019,20,ferrari,Ferrari,2,479.0,3
+2019,20,red_bull,Red Bull,3,391.0,3
+2019,20,mclaren,McLaren,4,140.0,0
+2019,20,renault,Renault,5,91.0,0
+2019,20,toro_rosso,Toro Rosso,6,83.0,0
+2019,20,racing_point,Racing Point,7,67.0,0
+2019,20,alfa,Alfa Romeo,8,57.0,0
+2019,20,haas,Haas F1 Team,9,28.0,0
+2019,20,williams,Williams,10,1.0,0
+2019,21,mercedes,Mercedes,1,739.0,15
+2019,21,ferrari,Ferrari,2,504.0,3
+2019,21,red_bull,Red Bull,3,417.0,3
+2019,21,mclaren,McLaren,4,145.0,0
+2019,21,renault,Renault,5,91.0,0
+2019,21,toro_rosso,Toro Rosso,6,85.0,0
+2019,21,racing_point,Racing Point,7,73.0,0
+2019,21,alfa,Alfa Romeo,8,57.0,0
+2019,21,haas,Haas F1 Team,9,28.0,0
+2019,21,williams,Williams,10,1.0,0
+2020,1,mercedes,Mercedes,1,37.0,1
+2020,1,mclaren,McLaren,2,26.0,0
+2020,1,ferrari,Ferrari,3,19.0,0
+2020,1,alphatauri,AlphaTauri,4,6.0,0
+2020,1,renault,Renault,5,4.0,0
+2020,1,alfa,Alfa Romeo,6,2.0,0
+2020,1,racing_point,Racing Point,7,0.0,0
+2020,1,williams,Williams,8,0.0,0
+2020,1,red_bull,Red Bull,9,0.0,0
+2020,1,haas,Haas F1 Team,0,0.0,0
+2020,2,mercedes,Mercedes,1,80.0,2
+2020,2,mclaren,McLaren,2,39.0,0
+2020,2,red_bull,Red Bull,3,27.0,0
+2020,2,ferrari,Ferrari,4,19.0,0
+2020,2,renault,Renault,5,8.0,0
+2020,2,racing_point,Racing Point,6,7.0,0
+2020,2,alphatauri,AlphaTauri,7,7.0,0
+2020,2,alfa,Alfa Romeo,8,2.0,0
+2020,2,williams,Williams,9,0.0,0
+2020,2,haas,Haas F1 Team,10,0.0,0
+2020,3,mercedes,Mercedes,1,121.0,3
+2020,3,red_bull,Red Bull,2,55.0,0
+2020,3,mclaren,McLaren,3,41.0,0
+2020,3,ferrari,Ferrari,4,27.0,0
+2020,3,racing_point,Racing Point,5,25.0,0
+2020,3,renault,Renault,6,12.0,0
+2020,3,alphatauri,AlphaTauri,7,7.0,0
+2020,3,alfa,Alfa Romeo,8,2.0,0
+2020,3,haas,Haas F1 Team,9,1.0,0
+2020,3,williams,Williams,10,0.0,0
+2020,4,mercedes,Mercedes,1,146.0,4
+2020,4,red_bull,Red Bull,2,78.0,0
+2020,4,mclaren,McLaren,3,51.0,0
+2020,4,ferrari,Ferrari,4,43.0,0
+2020,4,renault,Renault,5,32.0,0
+2020,4,racing_point,Racing Point,6,27.0,0
+2020,4,alphatauri,AlphaTauri,7,13.0,0
+2020,4,alfa,Alfa Romeo,8,2.0,0
+2020,4,haas,Haas F1 Team,9,1.0,0
+2020,4,williams,Williams,10,0.0,0
+2020,5,mercedes,Mercedes,1,180.0,4
+2020,5,red_bull,Red Bull,2,113.0,1
+2020,5,ferrari,Ferrari,3,55.0,0
+2020,5,mclaren,McLaren,4,53.0,0
+2020,5,racing_point,Racing Point,5,41.0,0
+2020,5,renault,Renault,6,36.0,0
+2020,5,alphatauri,AlphaTauri,7,14.0,0
+2020,5,alfa,Alfa Romeo,8,2.0,0
+2020,5,haas,Haas F1 Team,9,1.0,0
+2020,5,williams,Williams,10,0.0,0
+2020,6,mercedes,Mercedes,1,221.0,5
+2020,6,red_bull,Red Bull,2,135.0,1
+2020,6,racing_point,Racing Point,3,63.0,0
+2020,6,mclaren,McLaren,4,62.0,0
+2020,6,ferrari,Ferrari,5,61.0,0
+2020,6,renault,Renault,6,36.0,0
+2020,6,alphatauri,AlphaTauri,7,16.0,0
+2020,6,alfa,Alfa Romeo,8,2.0,0
+2020,6,haas,Haas F1 Team,9,1.0,0
+2020,6,williams,Williams,10,0.0,0
+2020,7,mercedes,Mercedes,1,264.0,6
+2020,7,red_bull,Red Bull,2,158.0,1
+2020,7,mclaren,McLaren,3,68.0,0
+2020,7,racing_point,Racing Point,4,66.0,0
+2020,7,ferrari,Ferrari,5,61.0,0
+2020,7,renault,Renault,6,59.0,0
+2020,7,alphatauri,AlphaTauri,7,20.0,0
+2020,7,alfa,Alfa Romeo,8,2.0,0
+2020,7,haas,Haas F1 Team,9,1.0,0
+2020,7,williams,Williams,10,0.0,0
+2020,8,mercedes,Mercedes,1,281.0,6
+2020,8,red_bull,Red Bull,2,158.0,1
+2020,8,mclaren,McLaren,3,98.0,0
+2020,8,racing_point,Racing Point,4,82.0,0
+2020,8,renault,Renault,5,71.0,0
+2020,8,ferrari,Ferrari,6,61.0,0
+2020,8,alphatauri,AlphaTauri,7,47.0,1
+2020,8,alfa,Alfa Romeo,8,2.0,0
+2020,8,haas,Haas F1 Team,9,1.0,0
+2020,8,williams,Williams,10,0.0,0
+2020,9,mercedes,Mercedes,1,325.0,7
+2020,9,red_bull,Red Bull,2,173.0,1
+2020,9,mclaren,McLaren,3,106.0,0
+2020,9,racing_point,Racing Point,4,92.0,0
+2020,9,renault,Renault,5,83.0,0
+2020,9,ferrari,Ferrari,6,66.0,0
+2020,9,alphatauri,AlphaTauri,7,53.0,1
+2020,9,alfa,Alfa Romeo,8,4.0,0
+2020,9,haas,Haas F1 Team,9,1.0,0
+2020,9,williams,Williams,10,0.0,0
+2020,10,mercedes,Mercedes,1,366.0,8
+2020,10,red_bull,Red Bull,2,192.0,1
+2020,10,mclaren,McLaren,3,106.0,0
+2020,10,racing_point,Racing Point,4,104.0,0
+2020,10,renault,Renault,5,99.0,0
+2020,10,ferrari,Ferrari,6,74.0,0
+2020,10,alphatauri,AlphaTauri,7,59.0,1
+2020,10,alfa,Alfa Romeo,8,4.0,0
+2020,10,haas,Haas F1 Team,9,1.0,0
+2020,10,williams,Williams,10,0.0,0
+2020,11,mercedes,Mercedes,1,391.0,9
+2020,11,red_bull,Red Bull,2,211.0,1
+2020,11,racing_point,Racing Point,3,120.0,0
+2020,11,mclaren,McLaren,4,116.0,0
+2020,11,renault,Renault,5,114.0,0
+2020,11,ferrari,Ferrari,6,80.0,0
+2020,11,alphatauri,AlphaTauri,7,67.0,1
+2020,11,alfa,Alfa Romeo,8,5.0,0
+2020,11,haas,Haas F1 Team,9,3.0,0
+2020,11,williams,Williams,10,0.0,0
+2020,12,mercedes,Mercedes,1,435.0,10
+2020,12,red_bull,Red Bull,2,226.0,1
+2020,12,racing_point,Racing Point,3,126.0,0
+2020,12,mclaren,McLaren,4,124.0,0
+2020,12,renault,Renault,5,120.0,0
+2020,12,ferrari,Ferrari,6,93.0,0
+2020,12,alphatauri,AlphaTauri,7,77.0,1
+2020,12,alfa,Alfa Romeo,8,5.0,0
+2020,12,haas,Haas F1 Team,9,3.0,0
+2020,12,williams,Williams,10,0.0,0
+2020,13,mercedes,Mercedes,1,479.0,11
+2020,13,red_bull,Red Bull,2,226.0,1
+2020,13,renault,Renault,3,135.0,0
+2020,13,mclaren,McLaren,4,134.0,0
+2020,13,racing_point,Racing Point,5,134.0,0
+2020,13,ferrari,Ferrari,6,103.0,0
+2020,13,alphatauri,AlphaTauri,7,89.0,1
+2020,13,alfa,Alfa Romeo,8,8.0,0
+2020,13,haas,Haas F1 Team,9,3.0,0
+2020,13,williams,Williams,10,0.0,0
+2020,14,mercedes,Mercedes,1,504.0,12
+2020,14,red_bull,Red Bull,2,240.0,1
+2020,14,racing_point,Racing Point,3,154.0,0
+2020,14,mclaren,McLaren,4,149.0,0
+2020,14,renault,Renault,5,136.0,0
+2020,14,ferrari,Ferrari,6,130.0,0
+2020,14,alphatauri,AlphaTauri,7,89.0,1
+2020,14,alfa,Alfa Romeo,8,8.0,0
+2020,14,haas,Haas F1 Team,9,3.0,0
+2020,14,williams,Williams,10,0.0,0
+2020,15,mercedes,Mercedes,1,533.0,13
+2020,15,red_bull,Red Bull,2,274.0,1
+2020,15,mclaren,McLaren,3,171.0,0
+2020,15,racing_point,Racing Point,4,154.0,0
+2020,15,renault,Renault,5,144.0,0
+2020,15,ferrari,Ferrari,6,131.0,0
+2020,15,alphatauri,AlphaTauri,7,97.0,1
+2020,15,alfa,Alfa Romeo,8,8.0,0
+2020,15,haas,Haas F1 Team,9,3.0,0
+2020,15,williams,Williams,10,0.0,0
+2020,16,mercedes,Mercedes,1,540.0,13
+2020,16,red_bull,Red Bull,2,282.0,1
+2020,16,racing_point,Racing Point,3,194.0,1
+2020,16,mclaren,McLaren,4,184.0,0
+2020,16,renault,Renault,5,172.0,0
+2020,16,ferrari,Ferrari,6,131.0,0
+2020,16,alphatauri,AlphaTauri,7,103.0,1
+2020,16,alfa,Alfa Romeo,8,8.0,0
+2020,16,haas,Haas F1 Team,9,3.0,0
+2020,16,williams,Williams,10,0.0,0
+2020,17,mercedes,Mercedes,1,573.0,13
+2020,17,red_bull,Red Bull,2,319.0,2
+2020,17,mclaren,McLaren,3,202.0,0
+2020,17,racing_point,Racing Point,4,195.0,1
+2020,17,renault,Renault,5,181.0,0
+2020,17,ferrari,Ferrari,6,131.0,0
+2020,17,alphatauri,AlphaTauri,7,107.0,1
+2020,17,alfa,Alfa Romeo,8,8.0,0
+2020,17,haas,Haas F1 Team,9,3.0,0
+2020,17,williams,Williams,10,0.0,0
+2021,1,mercedes,Mercedes,1,41.0,1
+2021,1,red_bull,Red Bull,2,28.0,0
+2021,1,mclaren,McLaren,3,18.0,0
+2021,1,ferrari,Ferrari,4,12.0,0
+2021,1,alphatauri,AlphaTauri,5,2.0,0
+2021,1,aston_martin,Aston Martin,6,1.0,0
+2021,1,alfa,Alfa Romeo,7,0.0,0
+2021,1,alpine,Alpine F1 Team,8,0.0,0
+2021,1,williams,Williams,9,0.0,0
+2021,1,haas,Haas F1 Team,10,0.0,0
+2021,2,mercedes,Mercedes,1,60.0,1
+2021,2,red_bull,Red Bull,2,53.0,1
+2021,2,mclaren,McLaren,3,41.0,0
+2021,2,ferrari,Ferrari,4,34.0,0
+2021,2,alphatauri,AlphaTauri,5,8.0,0
+2021,2,aston_martin,Aston Martin,6,5.0,0
+2021,2,alpine,Alpine F1 Team,7,3.0,0
+2021,2,alfa,Alfa Romeo,8,0.0,0
+2021,2,williams,Williams,9,0.0,0
+2021,2,haas,Haas F1 Team,10,0.0,0
+2021,3,mercedes,Mercedes,1,101.0,2
+2021,3,red_bull,Red Bull,2,83.0,1
+2021,3,mclaren,McLaren,3,53.0,0
+2021,3,ferrari,Ferrari,4,42.0,0
+2021,3,alpine,Alpine F1 Team,5,13.0,0
+2021,3,alphatauri,AlphaTauri,6,9.0,0
+2021,3,aston_martin,Aston Martin,7,5.0,0
+2021,3,alfa,Alfa Romeo,8,0.0,0
+2021,3,williams,Williams,9,0.0,0
+2021,3,haas,Haas F1 Team,10,0.0,0
+2021,4,mercedes,Mercedes,1,141.0,3
+2021,4,red_bull,Red Bull,2,112.0,1
+2021,4,mclaren,McLaren,3,65.0,0
+2021,4,ferrari,Ferrari,4,60.0,0
+2021,4,alpine,Alpine F1 Team,5,15.0,0
+2021,4,alphatauri,AlphaTauri,6,10.0,0
+2021,4,aston_martin,Aston Martin,7,5.0,0
+2021,4,alfa,Alfa Romeo,8,0.0,0
+2021,4,williams,Williams,9,0.0,0
+2021,4,haas,Haas F1 Team,10,0.0,0
+2021,5,red_bull,Red Bull,1,149.0,2
+2021,5,mercedes,Mercedes,2,148.0,3
+2021,5,mclaren,McLaren,3,80.0,0
+2021,5,ferrari,Ferrari,4,78.0,0
+2021,5,aston_martin,Aston Martin,5,19.0,0
+2021,5,alphatauri,AlphaTauri,6,18.0,0
+2021,5,alpine,Alpine F1 Team,7,17.0,0
+2021,5,alfa,Alfa Romeo,8,1.0,0
+2021,5,williams,Williams,9,0.0,0
+2021,5,haas,Haas F1 Team,10,0.0,0
+2021,6,red_bull,Red Bull,1,174.0,3
+2021,6,mercedes,Mercedes,2,148.0,3
+2021,6,ferrari,Ferrari,3,94.0,0
+2021,6,mclaren,McLaren,4,92.0,0
+2021,6,alphatauri,AlphaTauri,5,39.0,0
+2021,6,aston_martin,Aston Martin,6,37.0,0
+2021,6,alpine,Alpine F1 Team,7,25.0,0
+2021,6,alfa,Alfa Romeo,8,2.0,0
+2021,6,haas,Haas F1 Team,9,0.0,0
+2021,6,williams,Williams,10,0.0,0
+2021,7,red_bull,Red Bull,1,215.0,4
+2021,7,mercedes,Mercedes,2,178.0,3
+2021,7,mclaren,McLaren,3,110.0,0
+2021,7,ferrari,Ferrari,4,94.0,0
+2021,7,alphatauri,AlphaTauri,5,45.0,0
+2021,7,aston_martin,Aston Martin,6,40.0,0
+2021,7,alpine,Alpine F1 Team,7,29.0,0
+2021,7,alfa,Alfa Romeo,8,2.0,0
+2021,7,williams,Williams,9,0.0,0
+2021,7,haas,Haas F1 Team,10,0.0,0
+2021,8,red_bull,Red Bull,1,252.0,5
+2021,8,mercedes,Mercedes,2,212.0,3
+2021,8,mclaren,McLaren,3,120.0,0
+2021,8,ferrari,Ferrari,4,108.0,0
+2021,8,alphatauri,AlphaTauri,5,46.0,0
+2021,8,aston_martin,Aston Martin,6,44.0,0
+2021,8,alpine,Alpine F1 Team,7,31.0,0
+2021,8,alfa,Alfa Romeo,8,2.0,0
+2021,8,williams,Williams,9,0.0,0
+2021,8,haas,Haas F1 Team,10,0.0,0
+2021,9,red_bull,Red Bull,1,286.0,6
+2021,9,mercedes,Mercedes,2,242.0,3
+2021,9,mclaren,McLaren,3,141.0,0
+2021,9,ferrari,Ferrari,4,122.0,0
+2021,9,alphatauri,AlphaTauri,5,48.0,0
+2021,9,aston_martin,Aston Martin,6,44.0,0
+2021,9,alpine,Alpine F1 Team,7,32.0,0
+2021,9,alfa,Alfa Romeo,8,2.0,0
+2021,9,williams,Williams,9,0.0,0
+2021,9,haas,Haas F1 Team,10,0.0,0
+2021,10,red_bull,Red Bull,1,289.0,6
+2021,10,mercedes,Mercedes,2,285.0,4
+2021,10,mclaren,McLaren,3,163.0,0
+2021,10,ferrari,Ferrari,4,148.0,0
+2021,10,alphatauri,AlphaTauri,5,49.0,0
+2021,10,aston_martin,Aston Martin,6,48.0,0
+2021,10,alpine,Alpine F1 Team,7,40.0,0
+2021,10,alfa,Alfa Romeo,8,2.0,0
+2021,10,williams,Williams,9,0.0,0
+2021,10,haas,Haas F1 Team,10,0.0,0
+2021,11,mercedes,Mercedes,1,303.0,4
+2021,11,red_bull,Red Bull,2,291.0,6
+2021,11,ferrari,Ferrari,3,163.0,0
+2021,11,mclaren,McLaren,4,163.0,0
+2021,11,alpine,Alpine F1 Team,5,77.0,1
+2021,11,alphatauri,AlphaTauri,6,68.0,0
+2021,11,aston_martin,Aston Martin,7,48.0,0
+2021,11,williams,Williams,8,10.0,0
+2021,11,alfa,Alfa Romeo,9,3.0,0
+2021,11,haas,Haas F1 Team,10,0.0,0
+2021,12,mercedes,Mercedes,1,310.5,4
+2021,12,red_bull,Red Bull,2,303.5,7
+2021,12,mclaren,McLaren,3,169.0,0
+2021,12,ferrari,Ferrari,4,165.5,0
+2021,12,alpine,Alpine F1 Team,5,80.0,1
+2021,12,alphatauri,AlphaTauri,6,72.0,0
+2021,12,aston_martin,Aston Martin,7,53.0,0
+2021,12,williams,Williams,8,20.0,0
+2021,12,alfa,Alfa Romeo,9,3.0,0
+2021,12,haas,Haas F1 Team,10,0.0,0
+2021,13,mercedes,Mercedes,1,344.5,4
+2021,13,red_bull,Red Bull,2,332.5,8
+2021,13,ferrari,Ferrari,3,181.5,0
+2021,13,mclaren,McLaren,4,170.0,0
+2021,13,alpine,Alpine F1 Team,5,90.0,1
+2021,13,alphatauri,AlphaTauri,6,84.0,0
+2021,13,aston_martin,Aston Martin,7,53.0,0
+2021,13,williams,Williams,8,20.0,0
+2021,13,alfa,Alfa Romeo,9,3.0,0
+2021,13,haas,Haas F1 Team,10,0.0,0
+2021,14,mercedes,Mercedes,1,362.5,4
+2021,14,red_bull,Red Bull,2,344.5,8
+2021,14,mclaren,McLaren,3,215.0,1
+2021,14,ferrari,Ferrari,4,201.5,0
+2021,14,alpine,Alpine F1 Team,5,95.0,1
+2021,14,alphatauri,AlphaTauri,6,84.0,0
+2021,14,aston_martin,Aston Martin,7,59.0,0
+2021,14,williams,Williams,8,22.0,0
+2021,14,alfa,Alfa Romeo,9,3.0,0
+2021,14,haas,Haas F1 Team,10,0.0,0
+2021,15,mercedes,Mercedes,1,397.5,5
+2021,15,red_bull,Red Bull,2,364.5,8
+2021,15,mclaren,McLaren,3,234.0,1
+2021,15,ferrari,Ferrari,4,216.5,0
+2021,15,alpine,Alpine F1 Team,5,103.0,1
+2021,15,alphatauri,AlphaTauri,6,84.0,0
+2021,15,aston_martin,Aston Martin,7,59.0,0
+2021,15,williams,Williams,8,23.0,0
+2021,15,alfa,Alfa Romeo,9,7.0,0
+2021,15,haas,Haas F1 Team,10,0.0,0
+2021,16,mercedes,Mercedes,1,433.5,6
+2021,16,red_bull,Red Bull,2,397.5,8
+2021,16,mclaren,McLaren,3,240.0,1
+2021,16,ferrari,Ferrari,4,232.5,0
+2021,16,alpine,Alpine F1 Team,5,104.0,1
+2021,16,alphatauri,AlphaTauri,6,92.0,0
+2021,16,aston_martin,Aston Martin,7,61.0,0
+2021,16,williams,Williams,8,23.0,0
+2021,16,alfa,Alfa Romeo,9,7.0,0
+2021,16,haas,Haas F1 Team,10,0.0,0
+2021,17,mercedes,Mercedes,1,460.5,6
+2021,17,red_bull,Red Bull,2,437.5,9
+2021,17,mclaren,McLaren,3,254.0,1
+2021,17,ferrari,Ferrari,4,250.5,0
+2021,17,alpine,Alpine F1 Team,5,104.0,1
+2021,17,alphatauri,AlphaTauri,6,94.0,0
+2021,17,aston_martin,Aston Martin,7,62.0,0
+2021,17,williams,Williams,8,23.0,0
+2021,17,alfa,Alfa Romeo,9,7.0,0
+2021,17,haas,Haas F1 Team,10,0.0,0
+2021,18,mercedes,Mercedes,1,478.5,6
+2021,18,red_bull,Red Bull,2,477.5,10
+2021,18,ferrari,Ferrari,3,268.5,0
+2021,18,mclaren,McLaren,4,255.0,1
+2021,18,alpine,Alpine F1 Team,5,106.0,1
+2021,18,alphatauri,AlphaTauri,6,106.0,0
+2021,18,aston_martin,Aston Martin,7,68.0,0
+2021,18,williams,Williams,8,23.0,0
+2021,18,alfa,Alfa Romeo,9,11.0,0
+2021,18,haas,Haas F1 Team,10,0.0,0
+2021,19,mercedes,Mercedes,1,521.5,7
+2021,19,red_bull,Red Bull,2,510.5,10
+2021,19,ferrari,Ferrari,3,287.5,0
+2021,19,mclaren,McLaren,4,256.0,1
+2021,19,alpine,Alpine F1 Team,5,112.0,1
+2021,19,alphatauri,AlphaTauri,6,112.0,0
+2021,19,aston_martin,Aston Martin,7,68.0,0
+2021,19,williams,Williams,8,23.0,0
+2021,19,alfa,Alfa Romeo,9,11.0,0
+2021,19,haas,Haas F1 Team,10,0.0,0
+2021,20,mercedes,Mercedes,1,546.5,8
+2021,20,red_bull,Red Bull,2,541.5,10
+2021,20,ferrari,Ferrari,3,297.5,0
+2021,20,mclaren,McLaren,4,258.0,1
+2021,20,alpine,Alpine F1 Team,5,137.0,1
+2021,20,alphatauri,AlphaTauri,6,112.0,0
+2021,20,aston_martin,Aston Martin,7,77.0,0
+2021,20,williams,Williams,8,23.0,0
+2021,20,alfa,Alfa Romeo,9,11.0,0
+2021,20,haas,Haas F1 Team,10,0.0,0
+2021,21,mercedes,Mercedes,1,587.5,9
+2021,21,red_bull,Red Bull,2,559.5,10
+2021,21,ferrari,Ferrari,3,307.5,0
+2021,21,mclaren,McLaren,4,269.0,1
+2021,21,alpine,Alpine F1 Team,5,149.0,1
+2021,21,alphatauri,AlphaTauri,6,120.0,0
+2021,21,aston_martin,Aston Martin,7,77.0,0
+2021,21,williams,Williams,8,23.0,0
+2021,21,alfa,Alfa Romeo,9,13.0,0
+2021,21,haas,Haas F1 Team,10,0.0,0
+2021,22,mercedes,Mercedes,1,613.5,9
+2021,22,red_bull,Red Bull,2,585.5,11
+2021,22,ferrari,Ferrari,3,323.5,0
+2021,22,mclaren,McLaren,4,275.0,1
+2021,22,alpine,Alpine F1 Team,5,155.0,1
+2021,22,alphatauri,AlphaTauri,6,142.0,0
+2021,22,aston_martin,Aston Martin,7,77.0,0
+2021,22,williams,Williams,8,23.0,0
+2021,22,alfa,Alfa Romeo,9,13.0,0
+2021,22,haas,Haas F1 Team,10,0.0,0
+2022,1,ferrari,Ferrari,1,44.0,1
+2022,1,mercedes,Mercedes,2,27.0,0
+2022,1,haas,Haas F1 Team,3,10.0,0
+2022,1,alfa,Alfa Romeo,4,9.0,0
+2022,1,alpine,Alpine F1 Team,5,8.0,0
+2022,1,alphatauri,AlphaTauri,6,4.0,0
+2022,1,aston_martin,Aston Martin,7,0.0,0
+2022,1,williams,Williams,8,0.0,0
+2022,1,mclaren,McLaren,9,0.0,0
+2022,1,red_bull,Red Bull,10,0.0,0
+2022,2,ferrari,Ferrari,1,78.0,1
+2022,2,mercedes,Mercedes,2,38.0,0
+2022,2,red_bull,Red Bull,3,37.0,1
+2022,2,alpine,Alpine F1 Team,4,16.0,0
+2022,2,haas,Haas F1 Team,5,12.0,0
+2022,2,alfa,Alfa Romeo,6,9.0,0
+2022,2,alphatauri,AlphaTauri,7,8.0,0
+2022,2,mclaren,McLaren,8,6.0,0
+2022,2,aston_martin,Aston Martin,9,0.0,0
+2022,2,williams,Williams,10,0.0,0
+2022,3,ferrari,Ferrari,1,104.0,2
+2022,3,mercedes,Mercedes,2,65.0,0
+2022,3,red_bull,Red Bull,3,55.0,1
+2022,3,mclaren,McLaren,4,24.0,0
+2022,3,alpine,Alpine F1 Team,5,22.0,0
+2022,3,alfa,Alfa Romeo,6,13.0,0
+2022,3,haas,Haas F1 Team,7,12.0,0
+2022,3,alphatauri,AlphaTauri,8,10.0,0
+2022,3,williams,Williams,9,1.0,0
+2022,3,aston_martin,Aston Martin,10,0.0,0
+2022,4,ferrari,Ferrari,1,124.0,2
+2022,4,red_bull,Red Bull,2,113.0,2
+2022,4,mercedes,Mercedes,3,77.0,0
+2022,4,mclaren,McLaren,4,46.0,0
+2022,4,alfa,Alfa Romeo,5,25.0,0
+2022,4,alpine,Alpine F1 Team,6,22.0,0
+2022,4,alphatauri,AlphaTauri,7,16.0,0
+2022,4,haas,Haas F1 Team,8,15.0,0
+2022,4,aston_martin,Aston Martin,9,5.0,0
+2022,4,williams,Williams,10,1.0,0
+2022,5,ferrari,Ferrari,1,157.0,2
+2022,5,red_bull,Red Bull,2,151.0,3
+2022,5,mercedes,Mercedes,3,95.0,0
+2022,5,mclaren,McLaren,4,46.0,0
+2022,5,alfa,Alfa Romeo,5,31.0,0
+2022,5,alpine,Alpine F1 Team,6,26.0,0
+2022,5,alphatauri,AlphaTauri,7,16.0,0
+2022,5,haas,Haas F1 Team,8,15.0,0
+2022,5,aston_martin,Aston Martin,9,6.0,0
+2022,5,williams,Williams,10,3.0,0
+2022,6,red_bull,Red Bull,1,195.0,4
+2022,6,ferrari,Ferrari,2,169.0,2
+2022,6,mercedes,Mercedes,3,120.0,0
+2022,6,mclaren,McLaren,4,50.0,0
+2022,6,alfa,Alfa Romeo,5,39.0,0
+2022,6,alpine,Alpine F1 Team,6,34.0,0
+2022,6,alphatauri,AlphaTauri,7,17.0,0
+2022,6,haas,Haas F1 Team,8,15.0,0
+2022,6,aston_martin,Aston Martin,9,6.0,0
+2022,6,williams,Williams,10,3.0,0
+2022,7,red_bull,Red Bull,1,235.0,5
+2022,7,ferrari,Ferrari,2,199.0,2
+2022,7,mercedes,Mercedes,3,134.0,0
+2022,7,mclaren,McLaren,4,59.0,0
+2022,7,alfa,Alfa Romeo,5,41.0,0
+2022,7,alpine,Alpine F1 Team,6,40.0,0
+2022,7,alphatauri,AlphaTauri,7,17.0,0
+2022,7,haas,Haas F1 Team,8,15.0,0
+2022,7,aston_martin,Aston Martin,9,7.0,0
+2022,7,williams,Williams,10,3.0,0
+2022,8,red_bull,Red Bull,1,279.0,6
+2022,8,ferrari,Ferrari,2,199.0,2
+2022,8,mercedes,Mercedes,3,161.0,0
+2022,8,mclaren,McLaren,4,65.0,0
+2022,8,alpine,Alpine F1 Team,5,47.0,0
+2022,8,alfa,Alfa Romeo,6,41.0,0
+2022,8,alphatauri,AlphaTauri,7,27.0,0
+2022,8,haas,Haas F1 Team,8,15.0,0
+2022,8,aston_martin,Aston Martin,9,15.0,0
+2022,8,williams,Williams,10,3.0,0
+2022,9,red_bull,Red Bull,1,304.0,7
+2022,9,ferrari,Ferrari,2,228.0,2
+2022,9,mercedes,Mercedes,3,188.0,0
+2022,9,mclaren,McLaren,4,65.0,0
+2022,9,alpine,Alpine F1 Team,5,57.0,0
+2022,9,alfa,Alfa Romeo,6,51.0,0
+2022,9,alphatauri,AlphaTauri,7,27.0,0
+2022,9,aston_martin,Aston Martin,8,16.0,0
+2022,9,haas,Haas F1 Team,9,15.0,0
+2022,9,williams,Williams,10,3.0,0
+2022,10,red_bull,Red Bull,1,328.0,7
+2022,10,ferrari,Ferrari,2,265.0,3
+2022,10,mercedes,Mercedes,3,204.0,0
+2022,10,mclaren,McLaren,4,73.0,0
+2022,10,alpine,Alpine F1 Team,5,67.0,0
+2022,10,alfa,Alfa Romeo,6,51.0,0
+2022,10,alphatauri,AlphaTauri,7,27.0,0
+2022,10,haas,Haas F1 Team,8,20.0,0
+2022,10,aston_martin,Aston Martin,9,18.0,0
+2022,10,williams,Williams,10,3.0,0
+2022,11,red_bull,Red Bull,1,359.0,7
+2022,11,ferrari,Ferrari,2,303.0,4
+2022,11,mercedes,Mercedes,3,237.0,0
+2022,11,mclaren,McLaren,4,81.0,0
+2022,11,alpine,Alpine F1 Team,5,81.0,0
+2022,11,alfa,Alfa Romeo,6,51.0,0
+2022,11,haas,Haas F1 Team,7,34.0,0
+2022,11,alphatauri,AlphaTauri,8,27.0,0
+2022,11,aston_martin,Aston Martin,9,18.0,0
+2022,11,williams,Williams,10,3.0,0
+2022,12,red_bull,Red Bull,1,396.0,8
+2022,12,ferrari,Ferrari,2,314.0,4
+2022,12,mercedes,Mercedes,3,270.0,0
+2022,12,alpine,Alpine F1 Team,4,93.0,0
+2022,12,mclaren,McLaren,5,89.0,0
+2022,12,alfa,Alfa Romeo,6,51.0,0
+2022,12,haas,Haas F1 Team,7,34.0,0
+2022,12,alphatauri,AlphaTauri,8,27.0,0
+2022,12,aston_martin,Aston Martin,9,19.0,0
+2022,12,williams,Williams,10,3.0,0
+2022,13,red_bull,Red Bull,1,431.0,9
+2022,13,ferrari,Ferrari,2,334.0,4
+2022,13,mercedes,Mercedes,3,304.0,0
+2022,13,alpine,Alpine F1 Team,4,99.0,0
+2022,13,mclaren,McLaren,5,95.0,0
+2022,13,alfa,Alfa Romeo,6,51.0,0
+2022,13,haas,Haas F1 Team,7,34.0,0
+2022,13,alphatauri,AlphaTauri,8,27.0,0
+2022,13,aston_martin,Aston Martin,9,20.0,0
+2022,13,williams,Williams,10,3.0,0
+2022,14,red_bull,Red Bull,1,475.0,10
+2022,14,ferrari,Ferrari,2,357.0,4
+2022,14,mercedes,Mercedes,3,316.0,0
+2022,14,alpine,Alpine F1 Team,4,115.0,0
+2022,14,mclaren,McLaren,5,95.0,0
+2022,14,alfa,Alfa Romeo,6,51.0,0
+2022,14,haas,Haas F1 Team,7,34.0,0
+2022,14,alphatauri,AlphaTauri,8,29.0,0
+2022,14,aston_martin,Aston Martin,9,24.0,0
+2022,14,williams,Williams,10,4.0,0
+2022,15,red_bull,Red Bull,1,511.0,11
+2022,15,ferrari,Ferrari,2,376.0,4
+2022,15,mercedes,Mercedes,3,346.0,0
+2022,15,alpine,Alpine F1 Team,4,125.0,0
+2022,15,mclaren,McLaren,5,101.0,0
+2022,15,alfa,Alfa Romeo,6,51.0,0
+2022,15,haas,Haas F1 Team,7,34.0,0
+2022,15,alphatauri,AlphaTauri,8,29.0,0
+2022,15,aston_martin,Aston Martin,9,25.0,0
+2022,15,williams,Williams,10,4.0,0
+2022,16,red_bull,Red Bull,1,545.0,12
+2022,16,ferrari,Ferrari,2,406.0,4
+2022,16,mercedes,Mercedes,3,371.0,0
+2022,16,alpine,Alpine F1 Team,4,125.0,0
+2022,16,mclaren,McLaren,5,107.0,0
+2022,16,alfa,Alfa Romeo,6,52.0,0
+2022,16,haas,Haas F1 Team,7,34.0,0
+2022,16,alphatauri,AlphaTauri,8,33.0,0
+2022,16,aston_martin,Aston Martin,9,25.0,0
+2022,16,williams,Williams,10,6.0,0
+2022,17,red_bull,Red Bull,1,576.0,13
+2022,17,ferrari,Ferrari,2,439.0,4
+2022,17,mercedes,Mercedes,3,373.0,0
+2022,17,mclaren,McLaren,4,129.0,0
+2022,17,alpine,Alpine F1 Team,5,125.0,0
+2022,17,alfa,Alfa Romeo,6,52.0,0
+2022,17,aston_martin,Aston Martin,7,37.0,0
+2022,17,haas,Haas F1 Team,8,34.0,0
+2022,17,alphatauri,AlphaTauri,9,34.0,0
+2022,17,williams,Williams,10,6.0,0
+2022,18,red_bull,Red Bull,1,619.0,14
+2022,18,ferrari,Ferrari,2,454.0,4
+2022,18,mercedes,Mercedes,3,387.0,0
+2022,18,alpine,Alpine F1 Team,4,143.0,0
+2022,18,mclaren,McLaren,5,130.0,0
+2022,18,alfa,Alfa Romeo,6,52.0,0
+2022,18,aston_martin,Aston Martin,7,45.0,0
+2022,18,haas,Haas F1 Team,8,34.0,0
+2022,18,alphatauri,AlphaTauri,9,34.0,0
+2022,18,williams,Williams,10,8.0,0
+2022,19,red_bull,Red Bull,1,656.0,15
+2022,19,ferrari,Ferrari,2,469.0,4
+2022,19,mercedes,Mercedes,3,416.0,0
+2022,19,alpine,Alpine F1 Team,4,149.0,0
+2022,19,mclaren,McLaren,5,138.0,0
+2022,19,alfa,Alfa Romeo,6,52.0,0
+2022,19,aston_martin,Aston Martin,7,49.0,0
+2022,19,haas,Haas F1 Team,8,36.0,0
+2022,19,alphatauri,AlphaTauri,9,35.0,0
+2022,19,williams,Williams,10,8.0,0
+2022,20,red_bull,Red Bull,1,696.0,16
+2022,20,ferrari,Ferrari,2,487.0,4
+2022,20,mercedes,Mercedes,3,447.0,0
+2022,20,alpine,Alpine F1 Team,4,153.0,0
+2022,20,mclaren,McLaren,5,146.0,0
+2022,20,alfa,Alfa Romeo,6,53.0,0
+2022,20,aston_martin,Aston Martin,7,49.0,0
+2022,20,haas,Haas F1 Team,8,36.0,0
+2022,20,alphatauri,AlphaTauri,9,35.0,0
+2022,20,williams,Williams,10,8.0,0
+2022,21,red_bull,Red Bull,1,719.0,16
+2022,21,ferrari,Ferrari,2,524.0,4
+2022,21,mercedes,Mercedes,3,505.0,1
+2022,21,alpine,Alpine F1 Team,4,167.0,0
+2022,21,mclaren,McLaren,5,148.0,0
+2022,21,alfa,Alfa Romeo,6,55.0,0
+2022,21,aston_martin,Aston Martin,7,50.0,0
+2022,21,haas,Haas F1 Team,8,37.0,0
+2022,21,alphatauri,AlphaTauri,9,35.0,0
+2022,21,williams,Williams,10,8.0,0
+2022,22,red_bull,Red Bull,1,759.0,17
+2022,22,ferrari,Ferrari,2,554.0,4
+2022,22,mercedes,Mercedes,3,515.0,1
+2022,22,alpine,Alpine F1 Team,4,173.0,0
+2022,22,mclaren,McLaren,5,159.0,0
+2022,22,alfa,Alfa Romeo,6,55.0,0
+2022,22,aston_martin,Aston Martin,7,55.0,0
+2022,22,haas,Haas F1 Team,8,37.0,0
+2022,22,alphatauri,AlphaTauri,9,35.0,0
+2022,22,williams,Williams,10,8.0,0
+2023,1,red_bull,Red Bull,1,43.0,1
+2023,1,aston_martin,Aston Martin,2,23.0,0
+2023,1,mercedes,Mercedes,3,16.0,0
+2023,1,ferrari,Ferrari,4,12.0,0
+2023,1,alfa,Alfa Romeo,5,4.0,0
+2023,1,alpine,Alpine F1 Team,6,2.0,0
+2023,1,williams,Williams,7,1.0,0
+2023,1,alphatauri,AlphaTauri,8,0.0,0
+2023,1,haas,Haas F1 Team,9,0.0,0
+2023,1,mclaren,McLaren,10,0.0,0
+2023,2,red_bull,Red Bull,1,87.0,2
+2023,2,aston_martin,Aston Martin,2,38.0,0
+2023,2,mercedes,Mercedes,3,38.0,0
+2023,2,ferrari,Ferrari,4,26.0,0
+2023,2,alpine,Alpine F1 Team,5,8.0,0
+2023,2,alfa,Alfa Romeo,6,4.0,0
+2023,2,haas,Haas F1 Team,7,1.0,0
+2023,2,williams,Williams,8,1.0,0
+2023,2,alphatauri,AlphaTauri,9,0.0,0
+2023,2,mclaren,McLaren,10,0.0,0
+2023,3,red_bull,Red Bull,1,123.0,3
+2023,3,aston_martin,Aston Martin,2,65.0,0
+2023,3,mercedes,Mercedes,3,56.0,0
+2023,3,ferrari,Ferrari,4,26.0,0
+2023,3,mclaren,McLaren,5,12.0,0
+2023,3,alpine,Alpine F1 Team,6,8.0,0
+2023,3,haas,Haas F1 Team,7,7.0,0
+2023,3,alfa,Alfa Romeo,8,6.0,0
+2023,3,alphatauri,AlphaTauri,9,1.0,0
+2023,3,williams,Williams,10,1.0,0
+2023,4,red_bull,Red Bull,1,180.0,4
+2023,4,aston_martin,Aston Martin,2,87.0,0
+2023,4,mercedes,Mercedes,3,76.0,0
+2023,4,ferrari,Ferrari,4,62.0,0
+2023,4,mclaren,McLaren,5,14.0,0
+2023,4,alpine,Alpine F1 Team,6,8.0,0
+2023,4,haas,Haas F1 Team,7,7.0,0
+2023,4,alfa,Alfa Romeo,8,6.0,0
+2023,4,alphatauri,AlphaTauri,9,2.0,0
+2023,4,williams,Williams,10,1.0,0
+2023,5,red_bull,Red Bull,1,224.0,5
+2023,5,aston_martin,Aston Martin,2,102.0,0
+2023,5,mercedes,Mercedes,3,96.0,0
+2023,5,ferrari,Ferrari,4,78.0,0
+2023,5,mclaren,McLaren,5,14.0,0
+2023,5,alpine,Alpine F1 Team,6,14.0,0
+2023,5,haas,Haas F1 Team,7,8.0,0
+2023,5,alfa,Alfa Romeo,8,6.0,0
+2023,5,alphatauri,AlphaTauri,9,2.0,0
+2023,5,williams,Williams,10,1.0,0
+2023,6,red_bull,Red Bull,1,249.0,6
+2023,6,aston_martin,Aston Martin,2,120.0,0
+2023,6,mercedes,Mercedes,3,119.0,0
+2023,6,ferrari,Ferrari,4,90.0,0
+2023,6,alpine,Alpine F1 Team,5,35.0,0
+2023,6,mclaren,McLaren,6,17.0,0
+2023,6,haas,Haas F1 Team,7,8.0,0
+2023,6,alfa,Alfa Romeo,8,6.0,0
+2023,6,alphatauri,AlphaTauri,9,2.0,0
+2023,6,williams,Williams,10,1.0,0
+2023,7,red_bull,Red Bull,1,287.0,7
+2023,7,mercedes,Mercedes,2,152.0,0
+2023,7,aston_martin,Aston Martin,3,134.0,0
+2023,7,ferrari,Ferrari,4,100.0,0
+2023,7,alpine,Alpine F1 Team,5,40.0,0
+2023,7,mclaren,McLaren,6,17.0,0
+2023,7,haas,Haas F1 Team,7,8.0,0
+2023,7,alfa,Alfa Romeo,8,8.0,0
+2023,7,alphatauri,AlphaTauri,9,2.0,0
+2023,7,williams,Williams,10,1.0,0
+2023,8,red_bull,Red Bull,1,321.0,8
+2023,8,mercedes,Mercedes,2,167.0,0
+2023,8,aston_martin,Aston Martin,3,154.0,0
+2023,8,ferrari,Ferrari,4,122.0,0
+2023,8,alpine,Alpine F1 Team,5,44.0,0
+2023,8,mclaren,McLaren,6,17.0,0
+2023,8,alfa,Alfa Romeo,7,9.0,0
+2023,8,haas,Haas F1 Team,8,8.0,0
+2023,8,williams,Williams,9,7.0,0
+2023,8,alphatauri,AlphaTauri,10,2.0,0
+2023,9,red_bull,Red Bull,1,377.0,9
+2023,9,mercedes,Mercedes,2,178.0,0
+2023,9,aston_martin,Aston Martin,3,175.0,0
+2023,9,ferrari,Ferrari,4,154.0,0
+2023,9,alpine,Alpine F1 Team,5,47.0,0
+2023,9,mclaren,McLaren,6,29.0,0
+2023,9,haas,Haas F1 Team,7,11.0,0
+2023,9,alfa,Alfa Romeo,8,9.0,0
+2023,9,williams,Williams,9,7.0,0
+2023,9,alphatauri,AlphaTauri,10,2.0,0
+2023,10,red_bull,Red Bull,1,411.0,10
+2023,10,mercedes,Mercedes,2,203.0,0
+2023,10,aston_martin,Aston Martin,3,181.0,0
+2023,10,ferrari,Ferrari,4,157.0,0
+2023,10,mclaren,McLaren,5,59.0,0
+2023,10,alpine,Alpine F1 Team,6,47.0,0
+2023,10,williams,Williams,7,11.0,0
+2023,10,haas,Haas F1 Team,8,11.0,0
+2023,10,alfa,Alfa Romeo,9,9.0,0
+2023,10,alphatauri,AlphaTauri,10,2.0,0
+2023,11,red_bull,Red Bull,1,452.0,11
+2023,11,mercedes,Mercedes,2,223.0,0
+2023,11,aston_martin,Aston Martin,3,184.0,0
+2023,11,ferrari,Ferrari,4,167.0,0
+2023,11,mclaren,McLaren,5,87.0,0
+2023,11,alpine,Alpine F1 Team,6,47.0,0
+2023,11,williams,Williams,7,11.0,0
+2023,11,haas,Haas F1 Team,8,11.0,0
+2023,11,alfa,Alfa Romeo,9,9.0,0
+2023,11,alphatauri,AlphaTauri,10,2.0,0
+2023,12,red_bull,Red Bull,1,503.0,12
+2023,12,mercedes,Mercedes,2,247.0,0
+2023,12,aston_martin,Aston Martin,3,196.0,0
+2023,12,ferrari,Ferrari,4,191.0,0
+2023,12,mclaren,McLaren,5,103.0,0
+2023,12,alpine,Alpine F1 Team,6,57.0,0
+2023,12,williams,Williams,7,11.0,0
+2023,12,haas,Haas F1 Team,8,11.0,0
+2023,12,alfa,Alfa Romeo,9,9.0,0
+2023,12,alphatauri,AlphaTauri,10,3.0,0
+2023,13,red_bull,Red Bull,1,540.0,13
+2023,13,mercedes,Mercedes,2,255.0,0
+2023,13,aston_martin,Aston Martin,3,215.0,0
+2023,13,ferrari,Ferrari,4,201.0,0
+2023,13,mclaren,McLaren,5,111.0,0
+2023,13,alpine,Alpine F1 Team,6,73.0,0
+2023,13,williams,Williams,7,15.0,0
+2023,13,haas,Haas F1 Team,8,11.0,0
+2023,13,alfa,Alfa Romeo,9,9.0,0
+2023,13,alphatauri,AlphaTauri,10,3.0,0
+2023,14,red_bull,Red Bull,1,583.0,14
+2023,14,mercedes,Mercedes,2,273.0,0
+2023,14,ferrari,Ferrari,3,228.0,0
+2023,14,aston_martin,Aston Martin,4,217.0,0
+2023,14,mclaren,McLaren,5,115.0,0
+2023,14,alpine,Alpine F1 Team,6,73.0,0
+2023,14,williams,Williams,7,21.0,0
+2023,14,haas,Haas F1 Team,8,11.0,0
+2023,14,alfa,Alfa Romeo,9,10.0,0
+2023,14,alphatauri,AlphaTauri,10,3.0,0
+2023,15,red_bull,Red Bull,1,597.0,14
+2023,15,mercedes,Mercedes,2,289.0,0
+2023,15,ferrari,Ferrari,3,265.0,1
+2023,15,aston_martin,Aston Martin,4,217.0,0
+2023,15,mclaren,McLaren,5,139.0,0
+2023,15,alpine,Alpine F1 Team,6,81.0,0
+2023,15,williams,Williams,7,21.0,0
+2023,15,haas,Haas F1 Team,8,12.0,0
+2023,15,alfa,Alfa Romeo,9,10.0,0
+2023,15,alphatauri,AlphaTauri,10,5.0,0
+2023,16,red_bull,Red Bull,1,623.0,15
+2023,16,mercedes,Mercedes,2,305.0,0
+2023,16,ferrari,Ferrari,3,285.0,1
+2023,16,aston_martin,Aston Martin,4,221.0,0
+2023,16,mclaren,McLaren,5,172.0,0
+2023,16,alpine,Alpine F1 Team,6,84.0,0
+2023,16,williams,Williams,7,21.0,0
+2023,16,haas,Haas F1 Team,8,12.0,0
+2023,16,alfa,Alfa Romeo,9,10.0,0
+2023,16,alphatauri,AlphaTauri,10,5.0,0
+2023,17,red_bull,Red Bull,1,657.0,16
+2023,17,mercedes,Mercedes,2,326.0,0
+2023,17,ferrari,Ferrari,3,298.0,1
+2023,17,aston_martin,Aston Martin,4,230.0,0
+2023,17,mclaren,McLaren,5,219.0,0
+2023,17,alpine,Alpine F1 Team,6,90.0,0
+2023,17,williams,Williams,7,23.0,0
+2023,17,alfa,Alfa Romeo,8,16.0,0
+2023,17,haas,Haas F1 Team,9,12.0,0
+2023,17,alphatauri,AlphaTauri,10,5.0,0
+2023,18,red_bull,Red Bull,1,706.0,17
+2023,18,mercedes,Mercedes,2,344.0,0
+2023,18,ferrari,Ferrari,3,322.0,1
+2023,18,mclaren,McLaren,4,242.0,0
+2023,18,aston_martin,Aston Martin,5,236.0,0
+2023,18,alpine,Alpine F1 Team,6,100.0,0
+2023,18,williams,Williams,7,26.0,0
+2023,18,alfa,Alfa Romeo,8,16.0,0
+2023,18,haas,Haas F1 Team,9,12.0,0
+2023,18,alphatauri,AlphaTauri,10,10.0,0
+2023,19,red_bull,Red Bull,1,731.0,18
+2023,19,mercedes,Mercedes,2,371.0,0
+2023,19,ferrari,Ferrari,3,349.0,1
+2023,19,mclaren,McLaren,4,256.0,0
+2023,19,aston_martin,Aston Martin,5,236.0,0
+2023,19,alpine,Alpine F1 Team,6,101.0,0
+2023,19,williams,Williams,7,28.0,0
+2023,19,alphatauri,AlphaTauri,8,16.0,0
+2023,19,alfa,Alfa Romeo,9,16.0,0
+2023,19,haas,Haas F1 Team,10,12.0,0
+2023,20,red_bull,Red Bull,1,782.0,19
+2023,20,mercedes,Mercedes,2,382.0,0
+2023,20,ferrari,Ferrari,3,362.0,1
+2023,20,mclaren,McLaren,4,282.0,0
+2023,20,aston_martin,Aston Martin,5,261.0,0
+2023,20,alpine,Alpine F1 Team,6,108.0,0
+2023,20,williams,Williams,7,28.0,0
+2023,20,alphatauri,AlphaTauri,8,21.0,0
+2023,20,alfa,Alfa Romeo,9,16.0,0
+2023,20,haas,Haas F1 Team,10,12.0,0
+2023,21,red_bull,Red Bull,1,822.0,20
+2023,21,mercedes,Mercedes,2,392.0,0
+2023,21,ferrari,Ferrari,3,388.0,1
+2023,21,mclaren,McLaren,4,284.0,0
+2023,21,aston_martin,Aston Martin,5,273.0,0
+2023,21,alpine,Alpine F1 Team,6,120.0,0
+2023,21,williams,Williams,7,28.0,0
+2023,21,alphatauri,AlphaTauri,8,21.0,0
+2023,21,alfa,Alfa Romeo,9,16.0,0
+2023,21,haas,Haas F1 Team,10,12.0,0
+2023,22,red_bull,Red Bull,1,860.0,21
+2023,22,mercedes,Mercedes,2,409.0,0
+2023,22,ferrari,Ferrari,3,406.0,1
+2023,22,mclaren,McLaren,4,302.0,0
+2023,22,aston_martin,Aston Martin,5,280.0,0
+2023,22,alpine,Alpine F1 Team,6,120.0,0
+2023,22,williams,Williams,7,28.0,0
+2023,22,alphatauri,AlphaTauri,8,25.0,0
+2023,22,alfa,Alfa Romeo,9,16.0,0
+2023,22,haas,Haas F1 Team,10,12.0,0
+2024,1,red_bull,Red Bull,1,44.0,1
+2024,1,ferrari,Ferrari,2,27.0,0
+2024,1,mercedes,Mercedes,3,16.0,0
+2024,1,mclaren,McLaren,4,12.0,0
+2024,1,aston_martin,Aston Martin,5,3.0,0
+2024,1,sauber,Sauber,6,0.0,0
+2024,1,haas,Haas F1 Team,7,0.0,0
+2024,1,rb,RB F1 Team,8,0.0,0
+2024,1,williams,Williams,9,0.0,0
+2024,1,alpine,Alpine F1 Team,10,0.0,0
+2024,2,red_bull,Red Bull,1,87.0,2
+2024,2,ferrari,Ferrari,2,49.0,0
+2024,2,mclaren,McLaren,3,28.0,0
+2024,2,mercedes,Mercedes,4,26.0,0
+2024,2,aston_martin,Aston Martin,5,13.0,0
+2024,2,haas,Haas F1 Team,6,1.0,0
+2024,2,williams,Williams,7,0.0,0
+2024,2,sauber,Sauber,8,0.0,0
+2024,2,rb,RB F1 Team,9,0.0,0
+2024,2,alpine,Alpine F1 Team,10,0.0,0
+2024,3,red_bull,Red Bull,1,97.0,2
+2024,3,ferrari,Ferrari,2,93.0,1
+2024,3,mclaren,McLaren,3,55.0,0
+2024,3,mercedes,Mercedes,4,26.0,0
+2024,3,aston_martin,Aston Martin,5,25.0,0
+2024,3,rb,RB F1 Team,6,6.0,0
+2024,3,haas,Haas F1 Team,7,4.0,0
+2024,3,williams,Williams,8,0.0,0
+2024,3,sauber,Sauber,9,0.0,0
+2024,3,alpine,Alpine F1 Team,10,0.0,0
+2024,4,red_bull,Red Bull,1,141.0,3
+2024,4,ferrari,Ferrari,2,120.0,1
+2024,4,mclaren,McLaren,3,69.0,0
+2024,4,mercedes,Mercedes,4,34.0,0
+2024,4,aston_martin,Aston Martin,5,33.0,0
+2024,4,rb,RB F1 Team,6,7.0,0
+2024,4,haas,Haas F1 Team,7,4.0,0
+2024,4,williams,Williams,8,0.0,0
+2024,4,sauber,Sauber,9,0.0,0
+2024,4,alpine,Alpine F1 Team,10,0.0,0
+2024,5,red_bull,Red Bull,1,195.0,4
+2024,5,ferrari,Ferrari,2,151.0,1
+2024,5,mclaren,McLaren,3,96.0,0
+2024,5,mercedes,Mercedes,4,52.0,0
+2024,5,aston_martin,Aston Martin,5,40.0,0
+2024,5,rb,RB F1 Team,6,7.0,0
+2024,5,haas,Haas F1 Team,7,5.0,0
+2024,5,williams,Williams,8,0.0,0
+2024,5,alpine,Alpine F1 Team,9,0.0,0
+2024,5,sauber,Sauber,10,0.0,0
+2024,6,red_bull,Red Bull,1,239.0,4
+2024,6,ferrari,Ferrari,2,187.0,1
+2024,6,mclaren,McLaren,3,124.0,1
+2024,6,mercedes,Mercedes,4,64.0,0
+2024,6,aston_martin,Aston Martin,5,42.0,0
+2024,6,rb,RB F1 Team,6,19.0,0
+2024,6,haas,Haas F1 Team,7,7.0,0
+2024,6,alpine,Alpine F1 Team,8,1.0,0
+2024,6,williams,Williams,9,0.0,0
+2024,6,sauber,Sauber,10,0.0,0
+2024,7,red_bull,Red Bull,1,268.0,5
+2024,7,ferrari,Ferrari,2,212.0,1
+2024,7,mclaren,McLaren,3,154.0,1
+2024,7,mercedes,Mercedes,4,79.0,0
+2024,7,aston_martin,Aston Martin,5,44.0,0
+2024,7,rb,RB F1 Team,6,20.0,0
+2024,7,haas,Haas F1 Team,7,7.0,0
+2024,7,alpine,Alpine F1 Team,8,1.0,0
+2024,7,williams,Williams,9,0.0,0
+2024,7,sauber,Sauber,10,0.0,0
+2024,8,red_bull,Red Bull,1,276.0,5
+2024,8,ferrari,Ferrari,2,252.0,2
+2024,8,mclaren,McLaren,3,184.0,1
+2024,8,mercedes,Mercedes,4,96.0,0
+2024,8,aston_martin,Aston Martin,5,44.0,0
+2024,8,rb,RB F1 Team,6,24.0,0
+2024,8,haas,Haas F1 Team,7,7.0,0
+2024,8,williams,Williams,8,2.0,0
+2024,8,alpine,Alpine F1 Team,9,2.0,0
+2024,8,sauber,Sauber,10,0.0,0
+2024,9,red_bull,Red Bull,1,301.0,6
+2024,9,ferrari,Ferrari,2,252.0,2
+2024,9,mclaren,McLaren,3,212.0,1
+2024,9,mercedes,Mercedes,4,124.0,0
+2024,9,aston_martin,Aston Martin,5,58.0,0
+2024,9,rb,RB F1 Team,6,28.0,0
+2024,9,haas,Haas F1 Team,7,7.0,0
+2024,9,alpine,Alpine F1 Team,8,5.0,0
+2024,9,williams,Williams,9,2.0,0
+2024,9,sauber,Sauber,10,0.0,0
+2024,10,red_bull,Red Bull,1,330.0,7
+2024,10,ferrari,Ferrari,2,270.0,2
+2024,10,mclaren,McLaren,3,237.0,1
+2024,10,mercedes,Mercedes,4,151.0,0
+2024,10,aston_martin,Aston Martin,5,58.0,0
+2024,10,rb,RB F1 Team,6,28.0,0
+2024,10,alpine,Alpine F1 Team,7,8.0,0
+2024,10,haas,Haas F1 Team,8,7.0,0
+2024,10,williams,Williams,9,2.0,0
+2024,10,sauber,Sauber,10,0.0,0
+2024,11,red_bull,Red Bull,1,355.0,7
+2024,11,ferrari,Ferrari,2,291.0,2
+2024,11,mclaren,McLaren,3,268.0,1
+2024,11,mercedes,Mercedes,4,196.0,1
+2024,11,aston_martin,Aston Martin,5,58.0,0
+2024,11,rb,RB F1 Team,6,30.0,0
+2024,11,haas,Haas F1 Team,7,19.0,0
+2024,11,alpine,Alpine F1 Team,8,9.0,0
+2024,11,williams,Williams,9,2.0,0
+2024,11,sauber,Sauber,10,0.0,0
+2024,12,red_bull,Red Bull,1,373.0,7
+2024,12,ferrari,Ferrari,2,302.0,2
+2024,12,mclaren,McLaren,3,295.0,1
+2024,12,mercedes,Mercedes,4,221.0,2
+2024,12,aston_martin,Aston Martin,5,68.0,0
+2024,12,rb,RB F1 Team,6,31.0,0
+2024,12,haas,Haas F1 Team,7,27.0,0
+2024,12,alpine,Alpine F1 Team,8,9.0,0
+2024,12,williams,Williams,9,4.0,0
+2024,12,sauber,Sauber,10,0.0,0
+2024,13,red_bull,Red Bull,1,389.0,7
+2024,13,mclaren,McLaren,2,338.0,2
+2024,13,ferrari,Ferrari,3,322.0,2
+2024,13,mercedes,Mercedes,4,241.0,2
+2024,13,aston_martin,Aston Martin,5,69.0,0
+2024,13,rb,RB F1 Team,6,33.0,0
+2024,13,haas,Haas F1 Team,7,27.0,0
+2024,13,alpine,Alpine F1 Team,8,9.0,0
+2024,13,williams,Williams,9,4.0,0
+2024,13,sauber,Sauber,10,0.0,0
+2024,14,red_bull,Red Bull,1,408.0,7
+2024,14,mclaren,McLaren,2,366.0,2
+2024,14,ferrari,Ferrari,3,345.0,2
+2024,14,mercedes,Mercedes,4,266.0,3
+2024,14,aston_martin,Aston Martin,5,73.0,0
+2024,14,rb,RB F1 Team,6,34.0,0
+2024,14,haas,Haas F1 Team,7,27.0,0
+2024,14,alpine,Alpine F1 Team,8,11.0,0
+2024,14,williams,Williams,9,4.0,0
+2024,14,sauber,Sauber,10,0.0,0
+2024,15,red_bull,Red Bull,1,434.0,7
+2024,15,mclaren,McLaren,2,404.0,3
+2024,15,ferrari,Ferrari,3,370.0,2
+2024,15,mercedes,Mercedes,4,276.0,3
+2024,15,aston_martin,Aston Martin,5,74.0,0
+2024,15,rb,RB F1 Team,6,34.0,0
+2024,15,haas,Haas F1 Team,7,27.0,0
+2024,15,alpine,Alpine F1 Team,8,13.0,0
+2024,15,williams,Williams,9,4.0,0
+2024,15,sauber,Sauber,10,0.0,0
+2024,16,red_bull,Red Bull,1,446.0,7
+2024,16,mclaren,McLaren,2,438.0,3
+2024,16,ferrari,Ferrari,3,407.0,3
+2024,16,mercedes,Mercedes,4,292.0,3
+2024,16,aston_martin,Aston Martin,5,74.0,0
+2024,16,rb,RB F1 Team,6,34.0,0
+2024,16,haas,Haas F1 Team,7,28.0,0
+2024,16,alpine,Alpine F1 Team,8,13.0,0
+2024,16,williams,Williams,9,6.0,0
+2024,16,sauber,Sauber,10,0.0,0
+2024,17,mclaren,McLaren,1,476.0,4
+2024,17,red_bull,Red Bull,2,456.0,7
+2024,17,ferrari,Ferrari,3,425.0,3
+2024,17,mercedes,Mercedes,4,309.0,3
+2024,17,aston_martin,Aston Martin,5,82.0,0
+2024,17,rb,RB F1 Team,6,34.0,0
+2024,17,haas,Haas F1 Team,7,29.0,0
+2024,17,williams,Williams,8,16.0,0
+2024,17,alpine,Alpine F1 Team,9,13.0,0
+2024,17,sauber,Sauber,10,0.0,0
+2024,18,mclaren,McLaren,1,516.0,5
+2024,18,red_bull,Red Bull,2,475.0,7
+2024,18,ferrari,Ferrari,3,441.0,3
+2024,18,mercedes,Mercedes,4,329.0,3
+2024,18,aston_martin,Aston Martin,5,86.0,0
+2024,18,rb,RB F1 Team,6,34.0,0
+2024,18,haas,Haas F1 Team,7,31.0,0
+2024,18,williams,Williams,8,16.0,0
+2024,18,alpine,Alpine F1 Team,9,13.0,0
+2024,18,sauber,Sauber,10,0.0,0
+2024,19,mclaren,McLaren,1,544.0,5
+2024,19,red_bull,Red Bull,2,504.0,7
+2024,19,ferrari,Ferrari,3,496.0,4
+2024,19,mercedes,Mercedes,4,344.0,3
+2024,19,aston_martin,Aston Martin,5,86.0,0
+2024,19,haas,Haas F1 Team,6,38.0,0
+2024,19,rb,RB F1 Team,7,36.0,0
+2024,19,williams,Williams,8,17.0,0
+2024,19,alpine,Alpine F1 Team,9,13.0,0
+2024,19,sauber,Sauber,10,0.0,0
+2024,20,mclaren,McLaren,1,566.0,5
+2024,20,ferrari,Ferrari,2,537.0,5
+2024,20,red_bull,Red Bull,3,512.0,7
+2024,20,mercedes,Mercedes,4,366.0,3
+2024,20,aston_martin,Aston Martin,5,86.0,0
+2024,20,haas,Haas F1 Team,6,46.0,0
+2024,20,rb,RB F1 Team,7,36.0,0
+2024,20,williams,Williams,8,17.0,0
+2024,20,alpine,Alpine F1 Team,9,14.0,0
+2024,20,sauber,Sauber,10,0.0,0
+2024,21,mclaren,McLaren,1,593.0,5
+2024,21,ferrari,Ferrari,2,557.0,5
+2024,21,red_bull,Red Bull,3,544.0,8
+2024,21,mercedes,Mercedes,4,382.0,3
+2024,21,aston_martin,Aston Martin,5,86.0,0
+2024,21,alpine,Alpine F1 Team,6,49.0,0
+2024,21,haas,Haas F1 Team,7,46.0,0
+2024,21,rb,RB F1 Team,8,44.0,0
+2024,21,williams,Williams,9,17.0,0
+2024,21,sauber,Sauber,10,0.0,0
+2024,22,mclaren,McLaren,1,608.0,5
+2024,22,ferrari,Ferrari,2,584.0,5
+2024,22,red_bull,Red Bull,3,555.0,8
+2024,22,mercedes,Mercedes,4,425.0,4
+2024,22,aston_martin,Aston Martin,5,86.0,0
+2024,22,haas,Haas F1 Team,6,50.0,0
+2024,22,alpine,Alpine F1 Team,7,49.0,0
+2024,22,rb,RB F1 Team,8,46.0,0
+2024,22,williams,Williams,9,17.0,0
+2024,22,sauber,Sauber,10,0.0,0
+2024,23,mclaren,McLaren,1,640.0,5
+2024,23,ferrari,Ferrari,2,619.0,5
+2024,23,red_bull,Red Bull,3,581.0,9
+2024,23,mercedes,Mercedes,4,446.0,4
+2024,23,aston_martin,Aston Martin,5,92.0,0
+2024,23,alpine,Alpine F1 Team,6,59.0,0
+2024,23,haas,Haas F1 Team,7,54.0,0
+2024,23,rb,RB F1 Team,8,46.0,0
+2024,23,williams,Williams,9,17.0,0
+2024,23,sauber,Sauber,10,4.0,0
+2024,24,mclaren,McLaren,1,666.0,6
+2024,24,ferrari,Ferrari,2,652.0,5
+2024,24,red_bull,Red Bull,3,589.0,9
+2024,24,mercedes,Mercedes,4,468.0,4
+2024,24,aston_martin,Aston Martin,5,94.0,0
+2024,24,alpine,Alpine F1 Team,6,65.0,0
+2024,24,haas,Haas F1 Team,7,58.0,0
+2024,24,rb,RB F1 Team,8,46.0,0
+2024,24,williams,Williams,9,17.0,0
+2024,24,sauber,Sauber,10,4.0,0
+2025,1,mclaren,McLaren,1,27.0,1
+2025,1,mercedes,Mercedes,2,27.0,0
+2025,1,red_bull,Red Bull,3,18.0,0
+2025,1,williams,Williams,4,10.0,0
+2025,1,aston_martin,Aston Martin,5,8.0,0
+2025,1,sauber,Sauber,6,6.0,0
+2025,1,ferrari,Ferrari,7,5.0,0
+2025,1,alpine,Alpine F1 Team,8,0.0,0
+2025,1,rb,RB F1 Team,9,0.0,0
+2025,1,haas,Haas F1 Team,10,0.0,0
+2025,2,mclaren,McLaren,1,78.0,2
+2025,2,mercedes,Mercedes,2,57.0,0
+2025,2,red_bull,Red Bull,3,36.0,0
+2025,2,williams,Williams,4,17.0,0
+2025,2,ferrari,Ferrari,5,17.0,0
+2025,2,haas,Haas F1 Team,6,14.0,0
+2025,2,aston_martin,Aston Martin,7,10.0,0
+2025,2,sauber,Sauber,8,6.0,0
+2025,2,rb,RB F1 Team,9,3.0,0
+2025,2,alpine,Alpine F1 Team,10,0.0,0
+2025,3,mclaren,McLaren,1,111.0,2
+2025,3,mercedes,Mercedes,2,75.0,0
+2025,3,red_bull,Red Bull,3,61.0,1
+2025,3,ferrari,Ferrari,4,35.0,0
+2025,3,williams,Williams,5,19.0,0
+2025,3,haas,Haas F1 Team,6,15.0,0
+2025,3,aston_martin,Aston Martin,7,10.0,0
+2025,3,rb,RB F1 Team,8,7.0,0
+2025,3,sauber,Sauber,9,6.0,0
+2025,3,alpine,Alpine F1 Team,10,0.0,0
+2025,4,mclaren,McLaren,1,151.0,3
+2025,4,mercedes,Mercedes,2,93.0,0
+2025,4,red_bull,Red Bull,3,71.0,1
+2025,4,ferrari,Ferrari,4,57.0,0
+2025,4,haas,Haas F1 Team,5,20.0,0
+2025,4,williams,Williams,6,19.0,0
+2025,4,aston_martin,Aston Martin,7,10.0,0
+2025,4,rb,RB F1 Team,8,7.0,0
+2025,4,alpine,Alpine F1 Team,9,6.0,0
+2025,4,sauber,Sauber,10,6.0,0
+2025,5,mclaren,McLaren,1,188.0,4
+2025,5,mercedes,Mercedes,2,111.0,0
+2025,5,red_bull,Red Bull,3,89.0,1
+2025,5,ferrari,Ferrari,4,78.0,0
+2025,5,williams,Williams,5,25.0,0
+2025,5,haas,Haas F1 Team,6,20.0,0
+2025,5,aston_martin,Aston Martin,7,10.0,0
+2025,5,rb,RB F1 Team,8,8.0,0
+2025,5,alpine,Alpine F1 Team,9,6.0,0
+2025,5,sauber,Sauber,10,6.0,0
+2025,6,mclaren,McLaren,1,246.0,5
+2025,6,mercedes,Mercedes,2,141.0,0
+2025,6,red_bull,Red Bull,3,105.0,1
+2025,6,ferrari,Ferrari,4,94.0,0
+2025,6,williams,Williams,5,37.0,0
+2025,6,haas,Haas F1 Team,6,20.0,0
+2025,6,aston_martin,Aston Martin,7,14.0,0
+2025,6,rb,RB F1 Team,8,8.0,0
+2025,6,alpine,Alpine F1 Team,9,7.0,0
+2025,6,sauber,Sauber,10,6.0,0
+2025,7,mclaren,McLaren,1,279.0,5
+2025,7,mercedes,Mercedes,2,147.0,0
+2025,7,red_bull,Red Bull,3,131.0,2
+2025,7,ferrari,Ferrari,4,114.0,0
+2025,7,williams,Williams,5,51.0,0
+2025,7,haas,Haas F1 Team,6,20.0,0
+2025,7,aston_martin,Aston Martin,7,14.0,0
+2025,7,rb,RB F1 Team,8,10.0,0
+2025,7,alpine,Alpine F1 Team,9,7.0,0
+2025,7,sauber,Sauber,10,6.0,0
+2025,8,mclaren,McLaren,1,319.0,6
+2025,8,mercedes,Mercedes,2,147.0,0
+2025,8,red_bull,Red Bull,3,143.0,2
+2025,8,ferrari,Ferrari,4,142.0,0
+2025,8,williams,Williams,5,54.0,0
+2025,8,haas,Haas F1 Team,6,26.0,0
+2025,8,rb,RB F1 Team,7,22.0,0
+2025,8,aston_martin,Aston Martin,8,14.0,0
+2025,8,alpine,Alpine F1 Team,9,7.0,0
+2025,8,sauber,Sauber,10,6.0,0
+2025,9,mclaren,McLaren,1,362.0,7
+2025,9,ferrari,Ferrari,2,165.0,0
+2025,9,mercedes,Mercedes,3,159.0,0
+2025,9,red_bull,Red Bull,4,144.0,2
+2025,9,williams,Williams,5,54.0,0
+2025,9,rb,RB F1 Team,6,28.0,0
+2025,9,haas,Haas F1 Team,7,26.0,0
+2025,9,sauber,Sauber,8,16.0,0
+2025,9,aston_martin,Aston Martin,9,16.0,0
+2025,9,alpine,Alpine F1 Team,10,11.0,0
+2025,10,mclaren,McLaren,1,374.0,7
+2025,10,mercedes,Mercedes,2,199.0,1
+2025,10,ferrari,Ferrari,3,183.0,0
+2025,10,red_bull,Red Bull,4,162.0,2
+2025,10,williams,Williams,5,55.0,0
+2025,10,haas,Haas F1 Team,6,28.0,0
+2025,10,rb,RB F1 Team,7,28.0,0
+2025,10,aston_martin,Aston Martin,8,22.0,0
+2025,10,sauber,Sauber,9,20.0,0
+2025,10,alpine,Alpine F1 Team,10,11.0,0
+2025,11,mclaren,McLaren,1,417.0,8
+2025,11,ferrari,Ferrari,2,210.0,0
+2025,11,mercedes,Mercedes,3,209.0,1
+2025,11,red_bull,Red Bull,4,162.0,2
+2025,11,williams,Williams,5,55.0,0
+2025,11,rb,RB F1 Team,6,36.0,0
+2025,11,haas,Haas F1 Team,7,29.0,0
+2025,11,aston_martin,Aston Martin,8,28.0,0
+2025,11,sauber,Sauber,9,26.0,0
+2025,11,alpine,Alpine F1 Team,10,11.0,0
+2025,12,mclaren,McLaren,1,460.0,9
+2025,12,ferrari,Ferrari,2,222.0,0
+2025,12,mercedes,Mercedes,3,210.0,1
+2025,12,red_bull,Red Bull,4,172.0,2
+2025,12,williams,Williams,5,59.0,0
+2025,12,sauber,Sauber,6,41.0,0
+2025,12,rb,RB F1 Team,7,36.0,0
+2025,12,aston_martin,Aston Martin,8,36.0,0
+2025,12,haas,Haas F1 Team,9,29.0,0
+2025,12,alpine,Alpine F1 Team,10,19.0,0
+2025,13,mclaren,McLaren,1,516.0,10
+2025,13,ferrari,Ferrari,2,248.0,0
+2025,13,mercedes,Mercedes,3,220.0,1
+2025,13,red_bull,Red Bull,4,192.0,2
+2025,13,williams,Williams,5,70.0,0
+2025,13,sauber,Sauber,6,43.0,0
+2025,13,rb,RB F1 Team,7,41.0,0
+2025,13,aston_martin,Aston Martin,8,36.0,0
+2025,13,haas,Haas F1 Team,9,35.0,0
+2025,13,alpine,Alpine F1 Team,10,20.0,0
+2025,14,mclaren,McLaren,1,559.0,11
+2025,14,ferrari,Ferrari,2,260.0,0
+2025,14,mercedes,Mercedes,3,236.0,1
+2025,14,red_bull,Red Bull,4,194.0,2
+2025,14,williams,Williams,5,70.0,0
+2025,14,aston_martin,Aston Martin,6,52.0,0
+2025,14,sauber,Sauber,7,51.0,0
+2025,14,rb,RB F1 Team,8,45.0,0
+2025,14,haas,Haas F1 Team,9,35.0,0
+2025,14,alpine,Alpine F1 Team,10,20.0,0
+2025,15,mclaren,McLaren,1,584.0,12
+2025,15,ferrari,Ferrari,2,260.0,0
+2025,15,mercedes,Mercedes,3,248.0,1
+2025,15,red_bull,Red Bull,4,214.0,2
+2025,15,williams,Williams,5,80.0,0
+2025,15,aston_martin,Aston Martin,6,62.0,0
+2025,15,rb,RB F1 Team,7,60.0,0
+2025,15,sauber,Sauber,8,51.0,0
+2025,15,haas,Haas F1 Team,9,44.0,0
+2025,15,alpine,Alpine F1 Team,10,20.0,0
+2025,16,mclaren,McLaren,1,617.0,12
+2025,16,ferrari,Ferrari,2,280.0,0
+2025,16,mercedes,Mercedes,3,260.0,1
+2025,16,red_bull,Red Bull,4,239.0,3
+2025,16,williams,Williams,5,86.0,0
+2025,16,aston_martin,Aston Martin,6,62.0,0
+2025,16,rb,RB F1 Team,7,61.0,0
+2025,16,sauber,Sauber,8,55.0,0
+2025,16,haas,Haas F1 Team,9,44.0,0
+2025,16,alpine,Alpine F1 Team,10,20.0,0
+2025,17,mclaren,McLaren,1,623.0,12
+2025,17,mercedes,Mercedes,2,290.0,1
+2025,17,ferrari,Ferrari,3,286.0,0
+2025,17,red_bull,Red Bull,4,272.0,4
+2025,17,williams,Williams,5,101.0,0
+2025,17,rb,RB F1 Team,6,72.0,0
+2025,17,aston_martin,Aston Martin,7,62.0,0
+2025,17,sauber,Sauber,8,55.0,0
+2025,17,haas,Haas F1 Team,9,44.0,0
+2025,17,alpine,Alpine F1 Team,10,20.0,0
+2025,18,mclaren,McLaren,1,650.0,12
+2025,18,mercedes,Mercedes,2,325.0,2
+2025,18,ferrari,Ferrari,3,298.0,0
+2025,18,red_bull,Red Bull,4,290.0,4
+2025,18,williams,Williams,5,102.0,0
+2025,18,rb,RB F1 Team,6,72.0,0
+2025,18,aston_martin,Aston Martin,7,68.0,0
+2025,18,sauber,Sauber,8,55.0,0
+2025,18,haas,Haas F1 Team,9,46.0,0
+2025,18,alpine,Alpine F1 Team,10,20.0,0
+2025,19,mclaren,McLaren,1,678.0,12
+2025,19,mercedes,Mercedes,2,341.0,2
+2025,19,ferrari,Ferrari,3,334.0,0
+2025,19,red_bull,Red Bull,4,331.0,5
+2025,19,williams,Williams,5,111.0,0
+2025,19,rb,RB F1 Team,6,72.0,0
+2025,19,aston_martin,Aston Martin,7,69.0,0
+2025,19,sauber,Sauber,8,59.0,0
+2025,19,haas,Haas F1 Team,9,48.0,0
+2025,19,alpine,Alpine F1 Team,10,20.0,0
+2025,20,mclaren,McLaren,1,713.0,13
+2025,20,ferrari,Ferrari,2,356.0,0
+2025,20,mercedes,Mercedes,3,355.0,2
+2025,20,red_bull,Red Bull,4,346.0,5
+2025,20,williams,Williams,5,111.0,0
+2025,20,rb,RB F1 Team,6,72.0,0
+2025,20,aston_martin,Aston Martin,7,69.0,0
+2025,20,haas,Haas F1 Team,8,62.0,0
+2025,20,sauber,Sauber,9,60.0,0
+2025,20,alpine,Alpine F1 Team,10,20.0,0
+2025,21,mclaren,McLaren,1,756.0,14
+2025,21,mercedes,Mercedes,2,398.0,2
+2025,21,red_bull,Red Bull,3,366.0,5
+2025,21,ferrari,Ferrari,4,362.0,0
+2025,21,williams,Williams,5,111.0,0
+2025,21,rb,RB F1 Team,6,82.0,0
+2025,21,aston_martin,Aston Martin,7,72.0,0
+2025,21,haas,Haas F1 Team,8,70.0,0
+2025,21,sauber,Sauber,9,62.0,0
+2025,21,alpine,Alpine F1 Team,10,22.0,0
+2025,22,mclaren,McLaren,1,756.0,14
+2025,22,mercedes,Mercedes,2,431.0,2
+2025,22,red_bull,Red Bull,3,391.0,6
+2025,22,ferrari,Ferrari,4,378.0,0
+2025,22,williams,Williams,5,121.0,0
+2025,22,rb,RB F1 Team,6,90.0,0
+2025,22,haas,Haas F1 Team,7,73.0,0
+2025,22,aston_martin,Aston Martin,8,72.0,0
+2025,22,sauber,Sauber,9,68.0,0
+2025,22,alpine,Alpine F1 Team,10,22.0,0
+2025,23,mclaren,McLaren,1,800.0,14
+2025,23,mercedes,Mercedes,2,459.0,2
+2025,23,red_bull,Red Bull,3,426.0,7
+2025,23,ferrari,Ferrari,4,382.0,0
+2025,23,williams,Williams,5,137.0,0
+2025,23,rb,RB F1 Team,6,92.0,0
+2025,23,aston_martin,Aston Martin,7,80.0,0
+2025,23,haas,Haas F1 Team,8,73.0,0
+2025,23,sauber,Sauber,9,68.0,0
+2025,23,alpine,Alpine F1 Team,10,22.0,0
+2025,24,mclaren,McLaren,1,833.0,14
+2025,24,mercedes,Mercedes,2,469.0,2
+2025,24,red_bull,Red Bull,3,451.0,8
+2025,24,ferrari,Ferrari,4,398.0,0
+2025,24,williams,Williams,5,137.0,0
+2025,24,rb,RB F1 Team,6,92.0,0
+2025,24,aston_martin,Aston Martin,7,89.0,0
+2025,24,haas,Haas F1 Team,8,79.0,0
+2025,24,sauber,Sauber,9,70.0,0
+2025,24,alpine,Alpine F1 Team,10,22.0,0
+2026,1,mercedes,Mercedes,1,43.0,1
+2026,1,ferrari,Ferrari,2,27.0,0
+2026,1,mclaren,McLaren,3,10.0,0
+2026,1,red_bull,Red Bull,4,8.0,0
+2026,1,haas,Haas F1 Team,5,6.0,0
+2026,1,rb,RB F1 Team,6,4.0,0
+2026,1,audi,Audi,7,2.0,0
+2026,1,alpine,Alpine F1 Team,8,1.0,0
+2026,1,williams,Williams,9,0.0,0
+2026,1,cadillac,Cadillac F1 Team,10,0.0,0
+2026,1,aston_martin,Aston Martin,11,0.0,0
+2026,2,mercedes,Mercedes,1,55.0,1
+2026,2,ferrari,Ferrari,2,40.0,0
+2026,2,mclaren,McLaren,3,18.0,0
+2026,2,red_bull,Red Bull,4,8.0,0
+2026,2,haas,Haas F1 Team,5,7.0,0
+2026,2,rb,RB F1 Team,6,6.0,0
+2026,2,audi,Audi,7,2.0,0
+2026,2,alpine,Alpine F1 Team,8,1.0,0
+2026,2,williams,Williams,9,0.0,0
+2026,2,cadillac,Cadillac F1 Team,10,0.0,0
+2026,2,aston_martin,Aston Martin,11,0.0,0
