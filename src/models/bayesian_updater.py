@@ -316,7 +316,7 @@ def process_season(race_df, elo_df, year=CURRENT_YEAR):
     # Process each completed race
     for round_num in rounds:
         race_results = season_df[season_df["round"] == round_num].copy()
-        race_name    = race_results["race_name"].values[0] if len(race_results) > 0 else f"Round {round_num}"
+        race_name    = race_results["race_name"].dropna().values[0] if len(race_results) > 0 and race_results["race_name"].notna().any() else f"Round {round_num}"
         races_remaining = TOTAL_RACES - round_num
 
         # Update cumulative points first
@@ -350,9 +350,9 @@ def process_season(race_df, elo_df, year=CURRENT_YEAR):
                 "cum_points":  round(cum_points.get(driver, 0), 1),
             })
 
-        print(f"  Round {round_num:>2} ({race_name[:30]:<30}) — "
-              f"Leader: {max(posterior, key=posterior.get)} "
-              f"({posterior[max(posterior, key=posterior.get)] * 100:.1f}%)")
+        rn = str(race_name)[:30] if race_name and str(race_name) != "nan" else f"Round {round_num}"
+        leader = max(posterior, key=posterior.get)
+        print(f"  Round {round_num:>2} ({rn:<30}) — Leader: {leader} ({posterior[leader]*100:.1f}%)")
 
         # Prior for next race = posterior from this race
         prior = posterior

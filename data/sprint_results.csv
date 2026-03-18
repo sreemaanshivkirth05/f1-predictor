@@ -219,6 +219,26 @@ year,round,race_name,driver_id,driver_code,constructor_id,sprint_position,sprint
 2023,18,United States Grand Prix,kevin_magnussen,MAG,haas,18,0.0,Finished
 2023,18,United States Grand Prix,sargeant,SAR,williams,19,0.0,Finished
 2023,18,United States Grand Prix,stroll,STR,aston_martin,20,0.0,Brakes
+2023,20,São Paulo Grand Prix,max_verstappen,VER,red_bull,1,8.0,Finished
+2023,20,São Paulo Grand Prix,norris,NOR,mclaren,2,7.0,Finished
+2023,20,São Paulo Grand Prix,perez,PER,red_bull,3,6.0,Finished
+2023,20,São Paulo Grand Prix,russell,RUS,mercedes,4,5.0,Finished
+2023,20,São Paulo Grand Prix,leclerc,LEC,ferrari,5,4.0,Finished
+2023,20,São Paulo Grand Prix,tsunoda,TSU,alphatauri,6,3.0,Finished
+2023,20,São Paulo Grand Prix,hamilton,HAM,mercedes,7,2.0,Finished
+2023,20,São Paulo Grand Prix,sainz,SAI,ferrari,8,1.0,Finished
+2023,20,São Paulo Grand Prix,ricciardo,RIC,alphatauri,9,0.0,Finished
+2023,20,São Paulo Grand Prix,piastri,PIA,mclaren,10,0.0,Finished
+2023,20,São Paulo Grand Prix,alonso,ALO,aston_martin,11,0.0,Finished
+2023,20,São Paulo Grand Prix,stroll,STR,aston_martin,12,0.0,Finished
+2023,20,São Paulo Grand Prix,gasly,GAS,alpine,13,0.0,Finished
+2023,20,São Paulo Grand Prix,ocon,OCO,alpine,14,0.0,Finished
+2023,20,São Paulo Grand Prix,albon,ALB,williams,15,0.0,Finished
+2023,20,São Paulo Grand Prix,kevin_magnussen,MAG,haas,16,0.0,Finished
+2023,20,São Paulo Grand Prix,zhou,ZHO,alfa,17,0.0,Finished
+2023,20,São Paulo Grand Prix,hulkenberg,HUL,haas,18,0.0,Finished
+2023,20,São Paulo Grand Prix,bottas,BOT,alfa,19,0.0,Finished
+2023,20,São Paulo Grand Prix,sargeant,SAR,williams,20,0.0,Finished
 2024,5,Chinese Grand Prix,max_verstappen,VER,red_bull,1,8.0,Finished
 2024,5,Chinese Grand Prix,hamilton,HAM,mercedes,2,7.0,Finished
 2024,5,Chinese Grand Prix,perez,PER,red_bull,3,6.0,Finished
@@ -319,6 +339,26 @@ year,round,race_name,driver_id,driver_code,constructor_id,sprint_position,sprint
 2024,21,São Paulo Grand Prix,alonso,ALO,aston_martin,18,0.0,Finished
 2024,21,São Paulo Grand Prix,stroll,STR,aston_martin,19,0.0,Finished
 2024,21,São Paulo Grand Prix,hulkenberg,HUL,haas,20,0.0,Retired
+2024,23,Qatar Grand Prix,piastri,PIA,mclaren,1,8.0,Finished
+2024,23,Qatar Grand Prix,norris,NOR,mclaren,2,7.0,Finished
+2024,23,Qatar Grand Prix,russell,RUS,mercedes,3,6.0,Finished
+2024,23,Qatar Grand Prix,sainz,SAI,ferrari,4,5.0,Finished
+2024,23,Qatar Grand Prix,leclerc,LEC,ferrari,5,4.0,Finished
+2024,23,Qatar Grand Prix,hamilton,HAM,mercedes,6,3.0,Finished
+2024,23,Qatar Grand Prix,hulkenberg,HUL,haas,7,2.0,Finished
+2024,23,Qatar Grand Prix,max_verstappen,VER,red_bull,8,1.0,Finished
+2024,23,Qatar Grand Prix,gasly,GAS,alpine,9,0.0,Finished
+2024,23,Qatar Grand Prix,kevin_magnussen,MAG,haas,10,0.0,Finished
+2024,23,Qatar Grand Prix,alonso,ALO,aston_martin,11,0.0,Finished
+2024,23,Qatar Grand Prix,bottas,BOT,sauber,12,0.0,Finished
+2024,23,Qatar Grand Prix,stroll,STR,aston_martin,13,0.0,Finished
+2024,23,Qatar Grand Prix,ocon,OCO,alpine,14,0.0,Finished
+2024,23,Qatar Grand Prix,albon,ALB,williams,15,0.0,Finished
+2024,23,Qatar Grand Prix,lawson,LAW,rb,16,0.0,Finished
+2024,23,Qatar Grand Prix,tsunoda,TSU,rb,17,0.0,Finished
+2024,23,Qatar Grand Prix,colapinto,COL,williams,18,0.0,Finished
+2024,23,Qatar Grand Prix,zhou,ZHO,sauber,19,0.0,Finished
+2024,23,Qatar Grand Prix,perez,PER,red_bull,20,0.0,Finished
 2025,2,Chinese Grand Prix,hamilton,HAM,ferrari,1,8.0,Finished
 2025,2,Chinese Grand Prix,piastri,PIA,mclaren,2,7.0,Finished
 2025,2,Chinese Grand Prix,max_verstappen,VER,red_bull,3,6.0,Finished
@@ -419,6 +459,26 @@ year,round,race_name,driver_id,driver_code,constructor_id,sprint_position,sprint
 2025,21,São Paulo Grand Prix,bortoleto,BOR,sauber,18,0.0,Retired
 2025,21,São Paulo Grand Prix,piastri,PIA,mclaren,19,0.0,Retired
 2025,21,São Paulo Grand Prix,colapinto,COL,alpine,20,0.0,Retired
+2025,23,Qatar Grand Prix,piastri,PIA,mclaren,1,8.0,Finished
+2025,23,Qatar Grand Prix,russell,RUS,mercedes,2,7.0,Finished
+2025,23,Qatar Grand Prix,norris,NOR,mclaren,3,6.0,Finished
+2025,23,Qatar Grand Prix,max_verstappen,VER,red_bull,4,5.0,Finished
+2025,23,Qatar Grand Prix,tsunoda,TSU,red_bull,5,4.0,Finished
+2025,23,Qatar Grand Prix,antonelli,ANT,mercedes,6,3.0,Finished
+2025,23,Qatar Grand Prix,alonso,ALO,aston_martin,7,2.0,Finished
+2025,23,Qatar Grand Prix,sainz,SAI,williams,8,1.0,Finished
+2025,23,Qatar Grand Prix,hadjar,HAD,rb,9,0.0,Finished
+2025,23,Qatar Grand Prix,albon,ALB,williams,10,0.0,Finished
+2025,23,Qatar Grand Prix,bortoleto,BOR,sauber,11,0.0,Finished
+2025,23,Qatar Grand Prix,bearman,BEA,haas,12,0.0,Finished
+2025,23,Qatar Grand Prix,leclerc,LEC,ferrari,13,0.0,Finished
+2025,23,Qatar Grand Prix,lawson,LAW,rb,14,0.0,Finished
+2025,23,Qatar Grand Prix,ocon,OCO,haas,15,0.0,Finished
+2025,23,Qatar Grand Prix,hulkenberg,HUL,sauber,16,0.0,Finished
+2025,23,Qatar Grand Prix,hamilton,HAM,ferrari,17,0.0,Finished
+2025,23,Qatar Grand Prix,gasly,GAS,alpine,18,0.0,Finished
+2025,23,Qatar Grand Prix,stroll,STR,aston_martin,19,0.0,Finished
+2025,23,Qatar Grand Prix,colapinto,COL,alpine,20,0.0,Finished
 2026,2,Chinese Grand Prix,russell,RUS,mercedes,1,8.0,Finished
 2026,2,Chinese Grand Prix,leclerc,LEC,ferrari,2,7.0,Finished
 2026,2,Chinese Grand Prix,hamilton,HAM,ferrari,3,6.0,Finished

@@ -1,23 +1,23 @@
 driver_id,driver_name,constructor_name,current_points,mc_prob,bayes_prob,elo_prob,final_prob,rank,races_completed,races_remaining,updated_at
-russell,George Russell,Mercedes,25.0,79.41,15.51,14.77,43.15,1,1,23,2026-03-15 13:25
-max_verstappen,Max Verstappen,Red Bull,8.0,3.65,26.82,9.52,15.22,2,1,23,2026-03-15 13:25
-norris,Lando Norris,McLaren,10.0,9.94,17.27,11.05,13.78,3,1,23,2026-03-15 13:25
-leclerc,Charles Leclerc,Ferrari,15.0,5.59,16.09,9.87,11.21,4,1,23,2026-03-15 13:25
-hamilton,Lewis Hamilton,Ferrari,12.0,0.13,9.61,6.06,5.35,5,1,23,2026-03-15 13:25
-antonelli,Andrea Kimi Antonelli,Mercedes,18.0,1.28,4.61,7.73,3.81,6,1,23,2026-03-15 13:25
-piastri,Oscar Piastri,McLaren,0.0,0.0,4.28,1.39,2.16,7,1,23,2026-03-15 13:25
-sainz,Carlos Sainz,Williams,0.0,0.0,2.38,0.95,1.23,8,1,23,2026-03-15 13:25
-bearman,Oliver Bearman,Haas F1 Team,6.0,0.0,0.88,2.74,0.81,9,1,23,2026-03-15 13:25
-gasly,Pierre Gasly,Alpine F1 Team,1.0,0.0,0.44,1.18,0.38,10,1,23,2026-03-15 13:25
-alonso,Fernando Alonso,Aston Martin,0.0,0.0,0.61,0.64,0.38,11,1,23,2026-03-15 13:25
-albon,Alexander Albon,Williams,0.0,0.0,0.24,1.77,0.38,12,1,23,2026-03-15 13:25
-perez,Sergio Pérez,Cadillac F1 Team,0.0,0.0,0.06,2.25,0.37,13,1,23,2026-03-15 13:25
-arvid_lindblad,Arvid Lindblad,RB F1 Team,4.0,0.0,0.09,2.07,0.35,14,1,23,2026-03-15 13:25
-ocon,Esteban Ocon,Haas F1 Team,0.0,0.0,0.08,1.48,0.26,15,1,23,2026-03-15 13:25
-lawson,Liam Lawson,RB F1 Team,0.0,0.0,0.24,1.02,0.26,16,1,23,2026-03-15 13:25
-colapinto,Franco Colapinto,Alpine F1 Team,0.0,0.0,0.16,0.98,0.22,17,1,23,2026-03-15 13:25
-bortoleto,Gabriel Bortoleto,Audi,2.0,0.0,0.09,1.01,0.19,18,1,23,2026-03-15 13:25
-hulkenberg,Nico Hülkenberg,Audi,0.0,0.0,0.3,0.25,0.18,19,1,23,2026-03-15 13:25
-hadjar,Isack Hadjar,Red Bull,0.0,0.0,0.12,0.57,0.14,20,1,23,2026-03-15 13:25
-stroll,Lance Stroll,Aston Martin,0.0,0.0,0.06,0.48,0.1,21,1,23,2026-03-15 13:25
-bottas,Valtteri Bottas,Cadillac F1 Team,0.0,0.0,0.06,0.3,0.07,22,1,23,2026-03-15 13:25
+russell,George RUSSELL,Mercedes,43.0,86.74,21.3,17.7,50.49,1,2,22,2026-03-15 21:56
+leclerc,Charles LECLERC,Ferrari,27.0,1.28,18.26,9.8,10.23,2,2,22,2026-03-15 21:56
+antonelli,Kimi ANTONELLI,Mercedes,43.0,11.64,7.06,11.5,10.01,3,2,22,2026-03-15 21:56
+max_verstappen,Max VERSTAPPEN,Red Bull Racing,8.0,0.0,19.23,2.94,9.08,4,2,22,2026-03-15 21:56
+hamilton,Lewis HAMILTON,Ferrari,27.0,0.34,13.01,8.05,7.19,5,2,22,2026-03-15 21:56
+norris,Lando NORRIS,McLaren,10.0,0.0,12.4,1.1,5.74,6,2,22,2026-03-15 21:56
+piastri,Oscar PIASTRI,McLaren,0.0,0.0,3.04,0.52,1.45,7,2,22,2026-03-15 21:56
+sainz,Carlos SAINZ,Williams,2.0,0.0,2.43,2.0,1.39,8,2,22,2026-03-15 21:56
+bearman,Oliver BEARMAN,Haas F1 Team,16.0,0.0,0.99,4.54,1.11,9,2,22,2026-03-15 21:56
+gasly,Pierre GASLY,Alpine,9.0,0.0,0.49,2.8,0.63,10,2,22,2026-03-15 21:56
+lawson,Liam LAWSON,Racing Bulls,6.0,0.0,0.24,2.38,0.46,11,2,22,2026-03-15 21:56
+alonso,Fernando ALONSO,Aston Martin,0.0,0.0,0.44,0.71,0.3,12,2,22,2026-03-15 21:56
+arvid_lindblad,Arvid LINDBLAD,Racing Bulls,4.0,0.0,0.08,1.71,0.29,13,2,22,2026-03-15 21:56
+colapinto,Franco COLAPINTO,Alpine,1.0,0.0,0.16,1.33,0.27,14,2,22,2026-03-15 21:56
+hulkenberg,Nico HULKENBERG,Audi,0.0,0.0,0.28,0.96,0.27,15,2,22,2026-03-15 21:56
+hadjar,Isack HADJAR,Red Bull Racing,4.0,0.0,0.12,1.34,0.25,16,2,22,2026-03-15 21:56
+ocon,Esteban OCON,Haas F1 Team,0.0,0.0,0.07,1.34,0.23,17,2,22,2026-03-15 21:56
+albon,Alexander ALBON,Williams,0.0,0.0,0.17,0.41,0.14,18,2,22,2026-03-15 21:56
+bottas,Valtteri BOTTAS,Cadillac,0.0,0.0,0.06,0.73,0.13,19,2,22,2026-03-15 21:56
+perez,Sergio PEREZ,Cadillac,0.0,0.0,0.06,0.65,0.12,20,2,22,2026-03-15 21:56
+bortoleto,Gabriel BORTOLETO,Audi,2.0,0.0,0.06,0.57,0.11,21,2,22,2026-03-15 21:56
+stroll,Lance STROLL,Aston Martin,0.0,0.0,0.04,0.51,0.09,22,2,22,2026-03-15 21:56

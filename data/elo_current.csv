@@ -1,51 +1,54 @@
 driver_id,driver_name,constructor_id,constructor_name,elo_rating,elo_rank
-russell,George Russell,mercedes,Mercedes,1999.43,1
-norris,Lando Norris,mclaren,McLaren,1941.47,2
-leclerc,Charles Leclerc,ferrari,Ferrari,1918.85,3
-max_verstappen,Max Verstappen,red_bull,Red Bull,1911.56,4
-antonelli,Andrea Kimi Antonelli,mercedes,Mercedes,1869.93,5
-hamilton,Lewis Hamilton,ferrari,Ferrari,1821.41,6
-bearman,Oliver Bearman,haas,Haas F1 Team,1662.24,7
-rosberg,Nico Rosberg,mercedes,Mercedes,1652.89,8
-perez,Sergio Pérez,cadillac,Cadillac F1 Team,1622.81,9
-arvid_lindblad,Arvid Lindblad,rb,RB F1 Team,1606.63,10
-albon,Alexander Albon,williams,Williams,1575.01,11
-ocon,Esteban Ocon,haas,Haas F1 Team,1539.57,12
-piastri,Oscar Piastri,mclaren,McLaren,1526.82,13
-gasly,Pierre Gasly,alpine,Alpine F1 Team,1493.74,14
-massa,Felipe Massa,williams,Williams,1483.66,15
-wehrlein,Pascal Wehrlein,sauber,Sauber,1477.78,16
-giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,1470.0,17
-lawson,Liam Lawson,rb,RB F1 Team,1464.34,18
-bortoleto,Gabriel Bortoleto,audi,Audi,1462.24,19
-button,Jenson Button,mclaren,McLaren,1458.81,20
-colapinto,Franco Colapinto,alpine,Alpine F1 Team,1455.98,21
-ericsson,Marcus Ericsson,sauber,Sauber,1452.41,22
-sainz,Carlos Sainz,williams,Williams,1451.49,23
-vandoorne,Stoffel Vandoorne,mclaren,McLaren,1451.37,24
-brendon_hartley,Brendon Hartley,toro_rosso,Toro Rosso,1450.5,25
-kvyat,Daniil Kvyat,alphatauri,AlphaTauri,1445.36,26
-raikkonen,Kimi Räikkönen,alfa,Alfa Romeo,1445.1,27
-vettel,Sebastian Vettel,aston_martin,Aston Martin,1410.75,28
-nasr,Felipe Nasr,sauber,Sauber,1406.78,29
-gutierrez,Esteban Gutiérrez,haas,Haas F1 Team,1395.72,30
-kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,1395.28,31
-jolyon_palmer,Jolyon Palmer,renault,Renault,1393.44,32
-sirotkin,Sergey Sirotkin,williams,Williams,1384.49,33
-latifi,Nicholas Latifi,williams,Williams,1378.77,34
-alonso,Fernando Alonso,aston_martin,Aston Martin,1371.77,35
-mick_schumacher,Mick Schumacher,haas,Haas F1 Team,1366.96,36
-grosjean,Romain Grosjean,haas,Haas F1 Team,1360.0,37
-hadjar,Isack Hadjar,red_bull,Red Bull,1348.19,38
-tsunoda,Yuki Tsunoda,red_bull,Red Bull,1343.99,39
-haryanto,Rio Haryanto,manor,Manor Marussia,1336.42,40
-kubica,Robert Kubica,williams,Williams,1331.84,41
-doohan,Jack Doohan,alpine,Alpine F1 Team,1325.48,42
-zhou,Guanyu Zhou,sauber,Sauber,1319.82,43
-stroll,Lance Stroll,aston_martin,Aston Martin,1315.13,44
-de_vries,Nyck de Vries,alphatauri,AlphaTauri,1270.38,45
-mazepin,Nikita Mazepin,haas,Haas F1 Team,1261.1,46
-sargeant,Logan Sargeant,williams,Williams,1254.01,47
-ricciardo,Daniel Ricciardo,rb,RB F1 Team,1250.51,48
-bottas,Valtteri Bottas,cadillac,Cadillac F1 Team,1223.28,49
-hulkenberg,Nico Hülkenberg,audi,Audi,1180.83,50
+russell,George RUSSELL,mercedes,Mercedes,2038.55,1
+antonelli,Kimi ANTONELLI,mercedes,Mercedes,1952.29,2
+leclerc,Charles LECLERC,ferrari,Ferrari,1920.42,3
+hamilton,Lewis HAMILTON,ferrari,Ferrari,1881.05,4
+bearman,Oliver BEARMAN,haas_f1_team,Haas F1 Team,1766.52,5
+rosberg,Nico Rosberg,mercedes,Mercedes,1716.99,6
+max_verstappen,Max VERSTAPPEN,red_bull_racing,Red Bull Racing,1679.59,7
+gasly,Pierre GASLY,alpine,Alpine,1669.52,8
+lawson,Liam LAWSON,racing_bulls,Racing Bulls,1637.18,9
+sainz,Carlos SAINZ,williams,Williams,1602.29,10
+arvid_lindblad,Arvid LINDBLAD,racing_bulls,Racing Bulls,1570.97,11
+kvyat,Daniil Kvyat,alphatauri,AlphaTauri,1537.6,12
+vettel,Sebastian Vettel,aston_martin,Aston Martin,1534.9,13
+ocon,Esteban OCON,haas_f1_team,Haas F1 Team,1522.92,14
+hadjar,Isack HADJAR,red_bull_racing,Red Bull Racing,1521.8,15
+colapinto,Franco COLAPINTO,alpine,Alpine,1521.54,16
+massa,Felipe Massa,williams,Williams,1521.47,17
+tsunoda,Yuki Tsunoda,red_bull,Red Bull,1502.62,18
+zhou,Guanyu Zhou,sauber,Sauber,1499.72,19
+norris,Lando NORRIS,mclaren,McLaren,1483.37,20
+kevin_magnussen,Kevin Magnussen,haas,Haas F1 Team,1463.76,21
+hulkenberg,Nico HULKENBERG,audi,Audi,1455.84,22
+jolyon_palmer,Jolyon Palmer,renault,Renault,1455.73,23
+brendon_hartley,Brendon Hartley,toro_rosso,Toro Rosso,1454.5,24
+nasr,Felipe Nasr,sauber,Sauber,1435.56,25
+vandoorne,Stoffel Vandoorne,mclaren,McLaren,1431.22,26
+aitken,Jack Aitken,williams,Williams,1420.74,27
+gutierrez,Esteban Gutiérrez,haas,Haas F1 Team,1419.75,28
+wehrlein,Pascal Wehrlein,sauber,Sauber,1416.61,29
+resta,Paul di Resta,williams,Williams,1409.12,30
+giovinazzi,Antonio Giovinazzi,alfa,Alfa Romeo,1408.2,31
+bottas,Valtteri BOTTAS,cadillac,Cadillac,1401.22,32
+alonso,Fernando ALONSO,aston_martin,Aston Martin,1395.57,33
+sirotkin,Sergey Sirotkin,williams,Williams,1389.73,34
+kubica,Robert Kubica,alfa,Alfa Romeo,1382.36,35
+mick_schumacher,Mick Schumacher,haas,Haas F1 Team,1377.94,36
+perez,Sergio PEREZ,cadillac,Cadillac,1376.68,37
+button,Jenson Button,mclaren,McLaren,1362.65,38
+ericsson,Marcus Ericsson,sauber,Sauber,1353.35,39
+ricciardo,Daniel Ricciardo,rb,RB F1 Team,1352.01,40
+bortoleto,Gabriel BORTOLETO,audi,Audi,1351.16,41
+pietro_fittipaldi,Pietro Fittipaldi,haas,Haas F1 Team,1349.54,42
+raikkonen,Kimi Räikkönen,alfa,Alfa Romeo,1338.81,43
+piastri,Oscar PIASTRI,mclaren,McLaren,1332.94,44
+stroll,Lance STROLL,aston_martin,Aston Martin,1330.93,45
+haryanto,Rio Haryanto,manor,Manor Marussia,1329.07,46
+grosjean,Romain Grosjean,haas,Haas F1 Team,1307.07,47
+de_vries,Nyck de Vries,alphatauri,AlphaTauri,1295.61,48
+sargeant,Logan Sargeant,williams,Williams,1289.11,49
+albon,Alexander ALBON,williams,Williams,1286.46,50
+latifi,Nicholas Latifi,williams,Williams,1283.84,51
+doohan,Jack Doohan,alpine,Alpine F1 Team,1236.67,52
+mazepin,Nikita Mazepin,haas,Haas F1 Team,1221.24,53

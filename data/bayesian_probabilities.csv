@@ -1,23 +1,23 @@
 round,race_name,driver_id,driver_name,constructor,probability,cum_points,rank
-1,Australian Grand Prix,max_verstappen,Max Verstappen,Red Bull,26.821,8.0,1
-1,Australian Grand Prix,norris,Lando Norris,McLaren,17.272,10.0,2
-1,Australian Grand Prix,leclerc,Charles Leclerc,Ferrari,16.089,15.0,3
-1,Australian Grand Prix,russell,George Russell,Mercedes,15.512,25.0,4
-1,Australian Grand Prix,hamilton,Lewis Hamilton,Ferrari,9.612,12.0,5
-1,Australian Grand Prix,antonelli,Andrea Kimi Antonelli,Mercedes,4.609,18.0,6
-1,Australian Grand Prix,piastri,Oscar Piastri,McLaren,4.277,0.0,7
-1,Australian Grand Prix,sainz,Carlos Sainz,Williams,2.383,0.0,8
-1,Australian Grand Prix,bearman,Oliver Bearman,Haas F1 Team,0.877,6.0,9
-1,Australian Grand Prix,alonso,Fernando Alonso,Aston Martin,0.611,0.0,10
-1,Australian Grand Prix,gasly,Pierre Gasly,Alpine F1 Team,0.437,1.0,11
-1,Australian Grand Prix,hulkenberg,Nico Hülkenberg,Audi,0.305,0.0,12
-1,Australian Grand Prix,lawson,Liam Lawson,RB F1 Team,0.238,0.0,13
-1,Australian Grand Prix,albon,Alexander Albon,Williams,0.238,0.0,14
-1,Australian Grand Prix,colapinto,Franco Colapinto,Alpine F1 Team,0.159,0.0,15
-1,Australian Grand Prix,hadjar,Isack Hadjar,Red Bull,0.122,0.0,16
-1,Australian Grand Prix,arvid_lindblad,Arvid Lindblad,RB F1 Team,0.088,4.0,17
-1,Australian Grand Prix,bortoleto,Gabriel Bortoleto,Audi,0.087,2.0,18
-1,Australian Grand Prix,ocon,Esteban Ocon,Haas F1 Team,0.079,0.0,19
-1,Australian Grand Prix,perez,Sergio Pérez,Cadillac F1 Team,0.061,0.0,20
-1,Australian Grand Prix,stroll,Lance Stroll,Aston Martin,0.061,0.0,21
-1,Australian Grand Prix,bottas,Valtteri Bottas,Cadillac F1 Team,0.061,0.0,22
+2,Round 2,russell,George RUSSELL,Mercedes,21.3,43.0,1
+2,Round 2,max_verstappen,Max VERSTAPPEN,Red Bull Racing,19.225,8.0,2
+2,Round 2,leclerc,Charles LECLERC,Ferrari,18.265,27.0,3
+2,Round 2,hamilton,Lewis HAMILTON,Ferrari,13.014,27.0,4
+2,Round 2,norris,Lando NORRIS,McLaren,12.402,10.0,5
+2,Round 2,antonelli,Kimi ANTONELLI,Mercedes,7.059,43.0,6
+2,Round 2,piastri,Oscar PIASTRI,McLaren,3.044,0.0,7
+2,Round 2,sainz,Carlos SAINZ,Williams,2.427,2.0,8
+2,Round 2,bearman,Oliver BEARMAN,Haas F1 Team,0.986,16.0,9
+2,Round 2,gasly,Pierre GASLY,Alpine,0.488,9.0,10
+2,Round 2,alonso,Fernando ALONSO,Aston Martin,0.435,0.0,11
+2,Round 2,hulkenberg,Nico HULKENBERG,Audi,0.283,0.0,12
+2,Round 2,lawson,Liam LAWSON,Racing Bulls,0.244,6.0,13
+2,Round 2,albon,Alexander ALBON,Williams,0.17,0.0,14
+2,Round 2,colapinto,Franco COLAPINTO,Alpine,0.162,1.0,15
+2,Round 2,hadjar,Isack HADJAR,Red Bull Racing,0.125,4.0,16
+2,Round 2,arvid_lindblad,Arvid LINDBLAD,Racing Bulls,0.081,4.0,17
+2,Round 2,ocon,Esteban OCON,Haas F1 Team,0.073,0.0,18
+2,Round 2,bortoleto,Gabriel BORTOLETO,Audi,0.062,2.0,19
+2,Round 2,perez,Sergio PEREZ,Cadillac,0.057,0.0,20
+2,Round 2,bottas,Valtteri BOTTAS,Cadillac,0.057,0.0,21
+2,Round 2,stroll,Lance STROLL,Aston Martin,0.043,0.0,22

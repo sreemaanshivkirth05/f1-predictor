@@ -1,23 +1,23 @@
 driver_id,driver_name,constructor_name,current_points,championship_wins,championship_prob_pct,rank
-russell,George Russell,Mercedes,25.0,7941,79.41,1
-norris,Lando Norris,McLaren,10.0,994,9.94,2
-leclerc,Charles Leclerc,Ferrari,15.0,559,5.59,3
-max_verstappen,Max Verstappen,Red Bull,8.0,365,3.65,4
-antonelli,Andrea Kimi Antonelli,Mercedes,18.0,128,1.28,5
-hamilton,Lewis Hamilton,Ferrari,12.0,13,0.13,6
-bearman,Oliver Bearman,Haas F1 Team,6.0,0,0.0,7
-arvid_lindblad,Arvid Lindblad,RB F1 Team,4.0,0,0.0,8
-bortoleto,Gabriel Bortoleto,Audi,2.0,0,0.0,9
-gasly,Pierre Gasly,Alpine F1 Team,1.0,0,0.0,10
-albon,Alexander Albon,Williams,0.0,0,0.0,11
-alonso,Fernando Alonso,Aston Martin,0.0,0,0.0,12
-hadjar,Isack Hadjar,Red Bull,0.0,0,0.0,13
-bottas,Valtteri Bottas,Cadillac F1 Team,0.0,0,0.0,14
-lawson,Liam Lawson,RB F1 Team,0.0,0,0.0,15
-hulkenberg,Nico Hülkenberg,Audi,0.0,0,0.0,16
-colapinto,Franco Colapinto,Alpine F1 Team,0.0,0,0.0,17
-ocon,Esteban Ocon,Haas F1 Team,0.0,0,0.0,18
-perez,Sergio Pérez,Cadillac F1 Team,0.0,0,0.0,19
-piastri,Oscar Piastri,McLaren,0.0,0,0.0,20
-sainz,Carlos Sainz,Williams,0.0,0,0.0,21
-stroll,Lance Stroll,Aston Martin,0.0,0,0.0,22
+russell,George RUSSELL,Mercedes,43.0,8674,86.74,1
+antonelli,Kimi ANTONELLI,Mercedes,43.0,1164,11.64,2
+leclerc,Charles LECLERC,Ferrari,27.0,128,1.28,3
+hamilton,Lewis HAMILTON,Ferrari,27.0,34,0.34,4
+bearman,Oliver BEARMAN,Haas F1 Team,16.0,0,0.0,5
+norris,Lando NORRIS,McLaren,10.0,0,0.0,6
+gasly,Pierre GASLY,Alpine,9.0,0,0.0,7
+max_verstappen,Max VERSTAPPEN,Red Bull Racing,8.0,0,0.0,8
+lawson,Liam LAWSON,Racing Bulls,6.0,0,0.0,9
+arvid_lindblad,Arvid LINDBLAD,Racing Bulls,4.0,0,0.0,10
+hadjar,Isack HADJAR,Red Bull Racing,4.0,0,0.0,11
+sainz,Carlos SAINZ,Williams,2.0,0,0.0,12
+bortoleto,Gabriel BORTOLETO,Audi,2.0,0,0.0,13
+colapinto,Franco COLAPINTO,Alpine,1.0,0,0.0,14
+albon,Alexander ALBON,Williams,0.0,0,0.0,15
+alonso,Fernando ALONSO,Aston Martin,0.0,0,0.0,16
+hulkenberg,Nico HULKENBERG,Audi,0.0,0,0.0,17
+bottas,Valtteri BOTTAS,Cadillac,0.0,0,0.0,18
+perez,Sergio PEREZ,Cadillac,0.0,0,0.0,19
+ocon,Esteban OCON,Haas F1 Team,0.0,0,0.0,20
+piastri,Oscar PIASTRI,McLaren,0.0,0,0.0,21
+stroll,Lance STROLL,Aston Martin,0.0,0,0.0,22

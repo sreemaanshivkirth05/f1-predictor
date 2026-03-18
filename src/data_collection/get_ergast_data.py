@@ -40,6 +40,9 @@ REQUEST_DELAY = 1.0  # seconds — increased to avoid 429 rate limit errors
 
 # ─── HELPER FUNCTIONS ─────────────────────────────────────────────────────────
 
+# Page size — fetch 100 rows per request (safe for Jolpica)
+PAGE_SIZE = 100
+
 def make_request(url, retries=5):
     """
     Makes a GET request to the Jolpica API and returns the JSON response.
@@ -86,6 +89,51 @@ def ensure_output_dir():
 
 # ─── RACE RESULTS ─────────────────────────────────────────────────────────────
 
+def fetch_all_pages(endpoint):
+    """
+    Fetches ALL pages from a Jolpica API endpoint using pagination.
+
+    The Jolpica API returns at most 100 rows per request (even with limit=1000).
+    Each season has ~20 races × 20 drivers = 400 rows — so we need multiple pages.
+
+    This function keeps fetching with increasing offset until all rows are retrieved.
+
+    Args:
+        endpoint (str): API path after BASE_URL, e.g. "/2024/results.json"
+
+    Returns:
+        list: All Race objects across all pages
+    """
+    all_races  = []
+    offset     = 0
+
+    while True:
+        url  = f"{BASE_URL}{endpoint}?limit={PAGE_SIZE}&offset={offset}"
+        data = make_request(url)
+
+        if not data:
+            break
+
+        mr      = data.get("MRData", {})
+        total   = int(mr.get("total", 0))
+        races   = mr.get("RaceTable", {}).get("Races", [])
+
+        all_races.extend(races)
+
+        fetched_so_far = offset + len(races)
+        print(f"    Page offset={offset}: got {len(races)} races "
+              f"(total fetched: {fetched_so_far} / {total})")
+
+        # Stop if we have everything
+        if fetched_so_far >= total or len(races) == 0:
+            break
+
+        offset += PAGE_SIZE
+        time.sleep(REQUEST_DELAY)
+
+    return all_races
+
+
 def fetch_race_results(year):
     """
     Fetches all race results for a given season.
@@ -107,17 +155,14 @@ def fetch_race_results(year):
     """
     print(f"  Fetching race results for {year}...")
 
-    url = f"{BASE_URL}/{year}/results.json?limit=1000"
-    data = make_request(url)
+    # Use pagination — fetches ALL rounds not just the first 1-2
+    races = fetch_all_pages(f"/{year}/results.json")
 
-    if not data:
+    if not races:
         print(f"  No data returned for {year}")
         return pd.DataFrame()
 
     rows = []
-
-    # Navigate the nested JSON structure from Jolpica
-    races = data.get("MRData", {}).get("RaceTable", {}).get("Races", [])
 
     for race in races:
         round_num   = int(race.get("round", 0))
@@ -186,14 +231,15 @@ def fetch_qualifying(year):
     """
     print(f"  Fetching qualifying results for {year}...")
 
-    url = f"{BASE_URL}/{year}/qualifying.json?limit=1000"
-    data = make_request(url)
+    # Use pagination — fetches ALL qualifying rounds
+    races = fetch_all_pages(f"/{year}/qualifying.json")
 
-    if not data:
+    if not races:
+        if year >= 2003:
+            print(f"    No qualifying data for {year}")
         return pd.DataFrame()
 
     rows = []
-    races = data.get("MRData", {}).get("RaceTable", {}).get("Races", [])
 
     for race in races:
         round_num  = int(race.get("round", 0))
@@ -242,14 +288,10 @@ def fetch_driver_standings(year):
     """
     print(f"  Fetching driver standings for {year}...")
 
-    # First find out how many rounds there are in this season
-    url = f"{BASE_URL}/{year}/races.json"
-    data = make_request(url)
-
-    if not data:
+    # Get all rounds in this season using pagination
+    races = fetch_all_pages(f"/{year}/races.json")
+    if not races:
         return pd.DataFrame()
-
-    races = data.get("MRData", {}).get("RaceTable", {}).get("Races", [])
     total_rounds = len(races)
 
     rows = []
@@ -304,13 +346,9 @@ def fetch_constructor_standings(year):
     """
     print(f"  Fetching constructor standings for {year}...")
 
-    url = f"{BASE_URL}/{year}/races.json"
-    data = make_request(url)
-
-    if not data:
+    races = fetch_all_pages(f"/{year}/races.json")
+    if not races:
         return pd.DataFrame()
-
-    races = data.get("MRData", {}).get("RaceTable", {}).get("Races", [])
     total_rounds = len(races)
 
     rows = []
@@ -366,14 +404,12 @@ def fetch_pit_stops(year):
     """
     print(f"  Fetching pit stops for {year}...")
 
-    # Get total rounds first
-    url = f"{BASE_URL}/{year}/races.json"
-    data = make_request(url)
-
-    if not data:
+    # Get total rounds using pagination
+    races = fetch_all_pages(f"/{year}/races.json")
+    if not races:
         return pd.DataFrame()
+    total_rounds = len(races)
 
-    races = data.get("MRData", {}).get("RaceTable", {}).get("Races", [])
     total_rounds = len(races)
 
     rows = []
@@ -433,14 +469,12 @@ def fetch_sprint_results(year):
     """
     print(f"  Fetching sprint results for {year}...")
 
-    url = f"{BASE_URL}/{year}/sprint.json?limit=200"
-    data = make_request(url)
+    races = fetch_all_pages(f"/{year}/sprint.json")
 
-    if not data:
+    if not races:
         return pd.DataFrame()
 
     rows = []
-    races = data.get("MRData", {}).get("RaceTable", {}).get("Races", [])
 
     for race in races:
         round_num = int(race.get("round", 0))

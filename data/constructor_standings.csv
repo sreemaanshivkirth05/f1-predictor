@@ -1430,36 +1430,6 @@ year,round,constructor_id,constructor_name,constructor_champ_pos,constructor_cha
 2022,19,haas,Haas F1 Team,8,36.0,0
 2022,19,alphatauri,AlphaTauri,9,35.0,0
 2022,19,williams,Williams,10,8.0,0
-2022,20,red_bull,Red Bull,1,696.0,16
-2022,20,ferrari,Ferrari,2,487.0,4
-2022,20,mercedes,Mercedes,3,447.0,0
-2022,20,alpine,Alpine F1 Team,4,153.0,0
-2022,20,mclaren,McLaren,5,146.0,0
-2022,20,alfa,Alfa Romeo,6,53.0,0
-2022,20,aston_martin,Aston Martin,7,49.0,0
-2022,20,haas,Haas F1 Team,8,36.0,0
-2022,20,alphatauri,AlphaTauri,9,35.0,0
-2022,20,williams,Williams,10,8.0,0
-2022,21,red_bull,Red Bull,1,719.0,16
-2022,21,ferrari,Ferrari,2,524.0,4
-2022,21,mercedes,Mercedes,3,505.0,1
-2022,21,alpine,Alpine F1 Team,4,167.0,0
-2022,21,mclaren,McLaren,5,148.0,0
-2022,21,alfa,Alfa Romeo,6,55.0,0
-2022,21,aston_martin,Aston Martin,7,50.0,0
-2022,21,haas,Haas F1 Team,8,37.0,0
-2022,21,alphatauri,AlphaTauri,9,35.0,0
-2022,21,williams,Williams,10,8.0,0
-2022,22,red_bull,Red Bull,1,759.0,17
-2022,22,ferrari,Ferrari,2,554.0,4
-2022,22,mercedes,Mercedes,3,515.0,1
-2022,22,alpine,Alpine F1 Team,4,173.0,0
-2022,22,mclaren,McLaren,5,159.0,0
-2022,22,alfa,Alfa Romeo,6,55.0,0
-2022,22,aston_martin,Aston Martin,7,55.0,0
-2022,22,haas,Haas F1 Team,8,37.0,0
-2022,22,alphatauri,AlphaTauri,9,35.0,0
-2022,22,williams,Williams,10,8.0,0
 2023,1,red_bull,Red Bull,1,43.0,1
 2023,1,aston_martin,Aston Martin,2,23.0,0
 2023,1,mercedes,Mercedes,3,16.0,0
@@ -2171,14 +2141,14 @@ year,round,constructor_id,constructor_name,constructor_champ_pos,constructor_cha
 2026,1,williams,Williams,9,0.0,0
 2026,1,cadillac,Cadillac F1 Team,10,0.0,0
 2026,1,aston_martin,Aston Martin,11,0.0,0
-2026,2,mercedes,Mercedes,1,55.0,1
-2026,2,ferrari,Ferrari,2,40.0,0
+2026,2,mercedes,Mercedes,1,98.0,2
+2026,2,ferrari,Ferrari,2,67.0,0
 2026,2,mclaren,McLaren,3,18.0,0
-2026,2,red_bull,Red Bull,4,8.0,0
-2026,2,haas,Haas F1 Team,5,7.0,0
-2026,2,rb,RB F1 Team,6,6.0,0
-2026,2,audi,Audi,7,2.0,0
-2026,2,alpine,Alpine F1 Team,8,1.0,0
-2026,2,williams,Williams,9,0.0,0
+2026,2,haas,Haas F1 Team,4,17.0,0
+2026,2,red_bull,Red Bull,5,12.0,0
+2026,2,rb,RB F1 Team,6,12.0,0
+2026,2,alpine,Alpine F1 Team,7,10.0,0
+2026,2,audi,Audi,8,2.0,0
+2026,2,williams,Williams,9,2.0,0
 2026,2,cadillac,Cadillac F1 Team,10,0.0,0
 2026,2,aston_martin,Aston Martin,11,0.0,0

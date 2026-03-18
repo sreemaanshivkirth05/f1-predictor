@@ -34,9 +34,41 @@ DATA_DIR     = os.path.join(PROJECT_ROOT, "data")
 # Add src/ to path so we can import our feature modules
 sys.path.insert(0, SRC_DIR)
 
-from feature_engineering.driver_features  import build_driver_features
-from feature_engineering.circuit_features import build_circuit_features
-from feature_engineering.weather_features import build_weather_features
+from feature_engineering.driver_features    import build_driver_features
+from feature_engineering.circuit_features   import build_circuit_features
+from feature_engineering.weather_features   import build_weather_features
+from feature_engineering.advanced_features  import build_advanced_features
+from feature_engineering.preseason_features import build_preseason_features
+
+# News features loaded directly from CSV (avoids cross-module import issues)
+def load_news_features():
+    """Loads latest news sentiment and flags from saved CSV files."""
+    import pandas as pd
+    sentiment_path = os.path.join(DATA_DIR, "news_sentiment.csv")
+    flags_path     = os.path.join(DATA_DIR, "news_event_flags.csv")
+
+    if not os.path.exists(sentiment_path):
+        return pd.DataFrame()
+
+    sentiment_df = pd.read_csv(sentiment_path)
+    flags_df     = pd.read_csv(flags_path) if os.path.exists(flags_path) else pd.DataFrame()
+
+    latest_sentiment = (
+        sentiment_df.sort_values("date", ascending=False)
+        .drop_duplicates("driver_id")
+        [["driver_id","sentiment_score_7d","positive_mentions",
+          "negative_mentions","article_count"]]
+    )
+
+    if not flags_df.empty:
+        latest_flags = (
+            flags_df.sort_values("date", ascending=False)
+            .drop_duplicates("driver_id")
+            .drop(columns=["date"], errors="ignore")
+        )
+        return latest_sentiment.merge(latest_flags, on="driver_id", how="left")
+
+    return latest_sentiment
 
 
 # ─── CONFIGURATION ────────────────────────────────────────────────────────────
@@ -318,13 +350,29 @@ def build_master_dataset():
     weather_df = build_weather_features()
 
     # ── Step 4: Constructor features ──────────────────────────────────────────
-    print("\n[Step 4/5] Constructor features")
+    print("\n[Step 4/6] Constructor features")
     race_path  = os.path.join(DATA_DIR, "race_results.csv")
     race_df    = pd.read_csv(race_path)
     con_df     = compute_constructor_features(race_df)
 
-    # ── Step 5: Merge everything ───────────────────────────────────────────────
-    print("\n[Step 5/5] Merging all feature groups...")
+    # ── Step 5: Advanced features ──────────────────────────────────────────────
+    print("\n[Step 5/8] Advanced features (track dominance, psychological, telemetry)")
+    adv_df = build_advanced_features()
+
+    # ── Step 6: Pre-season features ────────────────────────────────────────────
+    print("\n[Step 6/8] Pre-season features (testing, odds, driver context)")
+    pre_df = build_preseason_features()
+
+    # ── Step 7: News sentiment features ────────────────────────────────────────
+    print("\n[Step 7/8] News sentiment and event flags")
+    news_df = load_news_features()
+    if news_df.empty:
+        print("  No news data yet — run fetch_news.py first (skipping)")
+    else:
+        print(f"  Loaded news features for {len(news_df)} drivers")
+
+    # ── Step 8: Merge everything ───────────────────────────────────────────────
+    print("\n[Step 8/8] Merging all feature groups...")
 
     # Start with driver features as the base
     master = driver_df.copy()
@@ -355,6 +403,59 @@ def build_master_dataset():
         how="left"
     )
     print(f"  After constructor feats: {master.shape}")
+
+    # Merge advanced features
+    adv_merge_cols = [c for c in adv_df.columns
+                      if c not in master.columns
+                      or c in ["year","round","driver_id","circuit_id"]]
+    master = master.merge(
+        adv_df[adv_merge_cols],
+        on=["year","round","driver_id","circuit_id"],
+        how="left"
+    )
+    print(f"  After advanced feats:    {master.shape}")
+
+    # Merge pre-season features (on year + driver_id only — same value all season)
+    if not pre_df.empty:
+        pre_cols = [c for c in pre_df.columns
+                    if c not in master.columns or c in ["year","driver_id"]]
+        master = master.merge(
+            pre_df[pre_cols],
+            on=["year","driver_id"],
+            how="left"
+        )
+        print(f"  After preseason feats:   {master.shape}")
+
+    # Merge news features (on driver_id only — same value for all races this week)
+    if not news_df.empty:
+        news_cols = [c for c in news_df.columns
+                     if c not in master.columns or c == "driver_id"]
+        master = master.merge(
+            news_df[news_cols],
+            on="driver_id",
+            how="left"
+        )
+        print(f"  After news features:     {master.shape}")
+
+    # Merge sprint features (on year + round + driver_id)
+    sprint_path = os.path.join(DATA_DIR, "sprint_features_2026.csv")
+    if os.path.exists(sprint_path):
+        sprint_df = pd.read_csv(sprint_path)
+        sprint_cols = [c for c in sprint_df.columns
+                       if c not in master.columns
+                       or c in ["year","round","driver_id"]]
+        master = master.merge(
+            sprint_df[sprint_cols],
+            on=["year","round","driver_id"],
+            how="left"
+        )
+        # Fill non-sprint races with neutral values
+        sprint_feat_cols = [c for c in sprint_df.columns
+                            if c.startswith("sprint_")]
+        for col in sprint_feat_cols:
+            if col in master.columns:
+                master[col] = master[col].fillna(0)
+        print(f"  After sprint features:   {master.shape}")
 
     # ── Drop raw columns not useful as features ────────────────────────────────
     cols_to_drop = [c for c in COLS_TO_DROP if c in master.columns]

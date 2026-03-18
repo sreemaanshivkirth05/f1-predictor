@@ -1,0 +1,23 @@
+year,round,circuit_id,driver_id,driver_code,constructor_name,sprint_finish_pos,sprint_pts,sprint_dnf,sprint_gap_to_leader_s,sprint_positions_gained
+2026,2,shanghai,norris,NOR,McLaren,4,5,0,4.433,7
+2026,2,shanghai,max_verstappen,VER,Red Bull Racing,9,0,0,11.619,2
+2026,2,shanghai,bortoleto,BOR,Audi,13,0,0,15.858,-2
+2026,2,shanghai,hadjar,HAD,Red Bull Racing,15,0,0,16.43,-4
+2026,2,shanghai,gasly,GAS,Alpine,11,0,0,14.78,0
+2026,2,shanghai,perez,PER,Cadillac,19,0,0,28.241,-8
+2026,2,shanghai,antonelli,ANT,Mercedes,5,4,0,5.688,6
+2026,2,shanghai,alonso,ALO,Aston Martin,17,0,0,21.599,-6
+2026,2,shanghai,leclerc,LEC,Ferrari,2,7,0,0.674,9
+2026,2,shanghai,stroll,STR,Aston Martin,18,0,0,21.971,-7
+2026,2,shanghai,albon,ALB,Williams,16,0,0,20.014,-5
+2026,2,shanghai,hulkenberg,HUL,Audi,20,0,0,38.206,-9
+2026,2,shanghai,lawson,LAW,Racing Bulls,7,2,0,10.9,4
+2026,2,shanghai,ocon,OCO,Haas F1 Team,10,0,0,13.887,1
+2026,2,shanghai,arvid_lindblad,LIN,Racing Bulls,22,0,1,54.555,-11
+2026,2,shanghai,colapinto,COL,Alpine,14,0,0,16.393,-3
+2026,2,shanghai,hamilton,HAM,Ferrari,3,6,0,2.554,8
+2026,2,shanghai,sainz,SAI,Williams,12,0,0,15.753,-1
+2026,2,shanghai,russell,RUS,Mercedes,1,8,0,0.0,10
+2026,2,shanghai,bottas,BOT,Cadillac,21,0,1,78.061,-10
+2026,2,shanghai,piastri,PIA,McLaren,6,3,0,6.809,5
+2026,2,shanghai,bearman,BEA,Haas F1 Team,8,1,0,11.271,3
