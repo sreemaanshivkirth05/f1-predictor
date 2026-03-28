@@ -1,2 +1,3 @@
-timestamp,new_race_found,steps_run
-2026-03-15 14:42,True,"weather, race_data, build_dataset, xgboost, elo, bayesian, monte_carlo, ensemble"
+timestamp,new_race_found,steps_run,new_rounds,duration_s,retrained
+2026-03-15 14:42,True,"weather, race_data, build_dataset, xgboost, elo, bayesian, monte_carlo, ensemble",,,
+2026-03-28 08:37,,,0.0,562.9,False
