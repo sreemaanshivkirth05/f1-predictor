@@ -1,3 +1,2 @@
-circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,air_temp_max_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-albert_park,Australian Grand Prix,2026-03-15,0,2026-03-15 14:04,24.71,26.8,28.29,52.88,0.0,0.0,0,67.88,10.56,13.6,178.25,1018.85
-shanghai,Chinese Grand Prix,2026-03-22,7,2026-03-15 14:04,13.29,14.0,13.34,56.62,0.0,0.0,0,93.0,9.7,10.7,66.75,1017.85
+circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
+suzuka,Japanese GP,2026-04-05,7,2026-03-29 08:30,14.5,14.4,60.5,0.0,0.0,0,93.8,5.8,9.6,284.0,1007.3
