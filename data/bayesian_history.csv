@@ -65,3 +65,25 @@ round,race_name,driver_id,driver_name,constructor,probability,cum_points
 2,Round 2,bottas,Valtteri BOTTAS,Cadillac,0.057,0.0
 2,Round 2,piastri,Oscar PIASTRI,McLaren,3.044,0.0
 2,Round 2,bearman,Oliver BEARMAN,Haas F1 Team,0.986,16.0
+3,Japanese Grand Prix,norris,Lando Norris,McLaren,11.79,20.0
+3,Japanese Grand Prix,max_verstappen,Max Verstappen,Red Bull,16.638,12.0
+3,Japanese Grand Prix,bortoleto,Gabriel Bortoleto,Audi,0.049,2.0
+3,Japanese Grand Prix,hadjar,Isack Hadjar,Red Bull,0.097,4.0
+3,Japanese Grand Prix,gasly,Pierre Gasly,Alpine F1 Team,0.424,15.0
+3,Japanese Grand Prix,perez,Sergio Pérez,Cadillac F1 Team,0.034,0.0
+3,Japanese Grand Prix,antonelli,Andrea Kimi Antonelli,Mercedes,9.336,68.0
+3,Japanese Grand Prix,alonso,Fernando Alonso,Aston Martin,0.26,0.0
+3,Japanese Grand Prix,leclerc,Charles Leclerc,Ferrari,21.145,42.0
+3,Japanese Grand Prix,stroll,Lance Stroll,Aston Martin,0.026,0.0
+3,Japanese Grand Prix,albon,Alexander Albon,Williams,0.102,0.0
+3,Japanese Grand Prix,hulkenberg,Nico Hülkenberg,Audi,0.22,0.0
+3,Japanese Grand Prix,lawson,Liam Lawson,RB F1 Team,0.21,8.0
+3,Japanese Grand Prix,ocon,Esteban Ocon,Haas F1 Team,0.063,1.0
+3,Japanese Grand Prix,arvid_lindblad,Arvid Lindblad,RB F1 Team,0.064,4.0
+3,Japanese Grand Prix,colapinto,Franco Colapinto,Alpine F1 Team,0.097,1.0
+3,Japanese Grand Prix,hamilton,Lewis Hamilton,Ferrari,12.549,35.0
+3,Japanese Grand Prix,sainz,Carlos Sainz,Williams,1.893,2.0
+3,Japanese Grand Prix,russell,George Russell,Mercedes,20.927,55.0
+3,Japanese Grand Prix,bottas,Valtteri Bottas,Cadillac F1 Team,0.034,0.0
+3,Japanese Grand Prix,piastri,Oscar Piastri,McLaren,3.444,18.0
+3,Japanese Grand Prix,bearman,Oliver Bearman,Haas F1 Team,0.6,16.0

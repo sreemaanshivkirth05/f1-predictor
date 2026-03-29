@@ -1,23 +1,45 @@
 driver_id,driver_name,constructor_name,current_points,championship_wins,championship_prob_pct,rank
-russell,George RUSSELL,Mercedes,43.0,8671,86.71,1
-antonelli,Kimi ANTONELLI,Mercedes,43.0,1147,11.47,2
-leclerc,Charles LECLERC,Ferrari,27.0,149,1.49,3
-hamilton,Lewis HAMILTON,Ferrari,27.0,33,0.33,4
-bearman,Oliver BEARMAN,Haas F1 Team,16.0,0,0.0,5
-norris,Lando NORRIS,McLaren,10.0,0,0.0,6
-gasly,Pierre GASLY,Alpine,9.0,0,0.0,7
-max_verstappen,Max VERSTAPPEN,Red Bull Racing,8.0,0,0.0,8
-lawson,Liam LAWSON,Racing Bulls,6.0,0,0.0,9
-arvid_lindblad,Arvid LINDBLAD,Racing Bulls,4.0,0,0.0,10
-hadjar,Isack HADJAR,Red Bull Racing,4.0,0,0.0,11
-sainz,Carlos SAINZ,Williams,2.0,0,0.0,12
-bortoleto,Gabriel BORTOLETO,Audi,2.0,0,0.0,13
-colapinto,Franco COLAPINTO,Alpine,1.0,0,0.0,14
-albon,Alexander ALBON,Williams,0.0,0,0.0,15
-alonso,Fernando ALONSO,Aston Martin,0.0,0,0.0,16
-hulkenberg,Nico HULKENBERG,Audi,0.0,0,0.0,17
-bottas,Valtteri BOTTAS,Cadillac,0.0,0,0.0,18
-perez,Sergio PEREZ,Cadillac,0.0,0,0.0,19
-ocon,Esteban OCON,Haas F1 Team,0.0,0,0.0,20
-piastri,Oscar PIASTRI,McLaren,0.0,0,0.0,21
-stroll,Lance STROLL,Aston Martin,0.0,0,0.0,22
+antonelli,Kimi ANTONELLI,Mercedes,25.0,7293,72.93,1
+antonelli,Kimi ANTONELLI,Mercedes,25.0,7293,72.93,2
+russell,George RUSSELL,Mercedes,12.0,2467,24.67,3
+russell,George RUSSELL,Mercedes,12.0,2467,24.67,4
+leclerc,Charles LECLERC,Ferrari,15.0,238,2.38,5
+leclerc,Charles LECLERC,Ferrari,15.0,238,2.38,6
+hamilton,Lewis HAMILTON,Ferrari,8.0,2,0.02,7
+hamilton,Lewis HAMILTON,Ferrari,8.0,2,0.02,8
+bearman,Oliver BEARMAN,Haas F1 Team,0.0,0,0.0,9
+norris,Lando Norris,McLaren,10.0,0,0.0,10
+norris,Lando Norris,McLaren,10.0,0,0.0,11
+piastri,Oscar Piastri,McLaren,0.0,0,0.0,12
+gasly,Pierre GASLY,Alpine,6.0,0,0.0,13
+max_verstappen,Max VERSTAPPEN,Red Bull Racing,4.0,0,0.0,14
+lawson,Liam LAWSON,Racing Bulls,2.0,0,0.0,15
+gasly,Pierre GASLY,Alpine,6.0,0,0.0,16
+arvid_lindblad,Arvid LINDBLAD,Racing Bulls,0.0,0,0.0,17
+max_verstappen,Max VERSTAPPEN,Red Bull Racing,4.0,0,0.0,18
+hadjar,Isack HADJAR,Red Bull Racing,0.0,0,0.0,19
+bortoleto,Gabriel BORTOLETO,Audi,0.0,0,0.0,20
+sainz,Carlos SAINZ,Williams,0.0,0,0.0,21
+lawson,Liam LAWSON,Racing Bulls,2.0,0,0.0,22
+colapinto,Franco COLAPINTO,Alpine,0.0,0,0.0,23
+ocon,Esteban Ocon,Haas F1 Team,0.0,0,0.0,24
+albon,Alexander ALBON,Williams,0.0,0,0.0,25
+albon,Alexander ALBON,Williams,0.0,0,0.0,26
+alonso,Fernando ALONSO,Aston Martin,0.0,0,0.0,27
+alonso,Fernando ALONSO,Aston Martin,0.0,0,0.0,28
+bortoleto,Gabriel BORTOLETO,Audi,0.0,0,0.0,29
+bearman,Oliver BEARMAN,Haas F1 Team,0.0,0,0.0,30
+arvid_lindblad,Arvid LINDBLAD,Racing Bulls,0.0,0,0.0,31
+hulkenberg,Nico Hülkenberg,Audi,0.0,0,0.0,32
+colapinto,Franco COLAPINTO,Alpine,0.0,0,0.0,33
+bottas,Valtteri Bottas,Cadillac F1 Team,0.0,0,0.0,34
+bottas,Valtteri Bottas,Cadillac F1 Team,0.0,0,0.0,35
+hadjar,Isack HADJAR,Red Bull Racing,0.0,0,0.0,36
+hulkenberg,Nico Hülkenberg,Audi,0.0,0,0.0,37
+perez,Sergio Pérez,Cadillac F1 Team,0.0,0,0.0,38
+ocon,Esteban Ocon,Haas F1 Team,0.0,0,0.0,39
+perez,Sergio Pérez,Cadillac F1 Team,0.0,0,0.0,40
+piastri,Oscar Piastri,McLaren,0.0,0,0.0,41
+sainz,Carlos SAINZ,Williams,0.0,0,0.0,42
+stroll,Lance STROLL,Aston Martin,0.0,0,0.0,43
+stroll,Lance STROLL,Aston Martin,0.0,0,0.0,44

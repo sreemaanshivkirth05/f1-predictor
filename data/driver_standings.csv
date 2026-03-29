@@ -4581,3 +4581,25 @@ year,round,driver_id,driver_name,constructor_id,championship_pos,championship_pt
 2026,2,perez,Sergio Pérez,cadillac,20,0.0,0
 2026,2,alonso,Fernando Alonso,aston_martin,21,0.0,0
 2026,2,stroll,Lance Stroll,aston_martin,22,0.0,0
+2026,3,antonelli,Andrea Kimi Antonelli,mercedes,1,72.0,2
+2026,3,russell,George Russell,mercedes,2,63.0,1
+2026,3,leclerc,Charles Leclerc,ferrari,3,49.0,0
+2026,3,hamilton,Lewis Hamilton,ferrari,4,41.0,0
+2026,3,norris,Lando Norris,mclaren,5,25.0,0
+2026,3,piastri,Oscar Piastri,mclaren,6,21.0,0
+2026,3,bearman,Oliver Bearman,haas,7,17.0,0
+2026,3,gasly,Pierre Gasly,alpine,8,15.0,0
+2026,3,max_verstappen,Max Verstappen,red_bull,9,12.0,0
+2026,3,lawson,Liam Lawson,rb,10,10.0,0
+2026,3,arvid_lindblad,Arvid Lindblad,rb,11,4.0,0
+2026,3,hadjar,Isack Hadjar,red_bull,12,4.0,0
+2026,3,bortoleto,Gabriel Bortoleto,audi,13,2.0,0
+2026,3,sainz,Carlos Sainz,williams,14,2.0,0
+2026,3,ocon,Esteban Ocon,haas,15,1.0,0
+2026,3,colapinto,Franco Colapinto,alpine,16,1.0,0
+2026,3,hulkenberg,Nico Hülkenberg,audi,17,0.0,0
+2026,3,albon,Alexander Albon,williams,18,0.0,0
+2026,3,bottas,Valtteri Bottas,cadillac,19,0.0,0
+2026,3,perez,Sergio Pérez,cadillac,20,0.0,0
+2026,3,alonso,Fernando Alonso,aston_martin,21,0.0,0
+2026,3,stroll,Lance Stroll,aston_martin,22,0.0,0
