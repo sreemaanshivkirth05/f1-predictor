@@ -1,2 +1,2 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-suzuka,Japanese GP,2026-04-05,0,2026-04-05 08:33,17.9,17.1,73.4,0.0,0.0,0,51.8,4.7,7.2,142.9,1004.2
+suzuka,Japanese GP,2026-04-05,0,2026-04-05 23:35,17.8,17.1,73.8,0.0,0.0,0,51.1,5.3,8.0,186.9,1004.2
