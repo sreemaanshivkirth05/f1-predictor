@@ -1,18 +1,18 @@
 driver_id,driver_name,constructor_name,current_points,championship_wins,championship_prob_pct,rank
-antonelli,Kimi ANTONELLI,Mercedes,25.0,7205,72.05,1
-antonelli,Kimi ANTONELLI,Mercedes,25.0,7205,72.05,2
-russell,George RUSSELL,Mercedes,12.0,2538,25.38,3
-russell,George RUSSELL,Mercedes,12.0,2538,25.38,4
-leclerc,Charles LECLERC,Ferrari,15.0,257,2.57,5
-leclerc,Charles LECLERC,Ferrari,15.0,257,2.57,6
-hamilton,Lewis HAMILTON,Ferrari,8.0,0,0.0,7
-piastri,Oscar Piastri,McLaren,0.0,0,0.0,8
+antonelli,Kimi ANTONELLI,Mercedes,25.0,7329,73.29,1
+antonelli,Kimi ANTONELLI,Mercedes,25.0,7329,73.29,2
+russell,George RUSSELL,Mercedes,12.0,2410,24.1,3
+russell,George RUSSELL,Mercedes,12.0,2410,24.1,4
+leclerc,Charles LECLERC,Ferrari,15.0,260,2.6,5
+leclerc,Charles LECLERC,Ferrari,15.0,260,2.6,6
+hamilton,Lewis HAMILTON,Ferrari,8.0,1,0.01,7
+hamilton,Lewis HAMILTON,Ferrari,8.0,1,0.01,8
 bearman,Oliver BEARMAN,Haas F1 Team,0.0,0,0.0,9
 norris,Lando Norris,McLaren,10.0,0,0.0,10
 norris,Lando Norris,McLaren,10.0,0,0.0,11
-gasly,Pierre GASLY,Alpine,6.0,0,0.0,12
-max_verstappen,Max VERSTAPPEN,Red Bull Racing,4.0,0,0.0,13
-hamilton,Lewis HAMILTON,Ferrari,8.0,0,0.0,14
+piastri,Oscar Piastri,McLaren,0.0,0,0.0,12
+gasly,Pierre GASLY,Alpine,6.0,0,0.0,13
+max_verstappen,Max VERSTAPPEN,Red Bull Racing,4.0,0,0.0,14
 lawson,Liam LAWSON,Racing Bulls,2.0,0,0.0,15
 gasly,Pierre GASLY,Alpine,6.0,0,0.0,16
 arvid_lindblad,Arvid LINDBLAD,Racing Bulls,0.0,0,0.0,17
