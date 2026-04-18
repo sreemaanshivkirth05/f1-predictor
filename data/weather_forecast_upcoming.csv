@@ -1,2 +1,2 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-bahrain,Bahrain GP,2026-04-19,2,2026-04-17 09:09,28.9,25.2,55.2,0.0,0.0,0,76.1,11.3,12.8,126.9,1007.4
+bahrain,Bahrain GP,2026-04-19,1,2026-04-18 08:39,28.1,24.6,59.1,0.0,0.0,0,83.1,11.3,13.2,108.2,1007.6
