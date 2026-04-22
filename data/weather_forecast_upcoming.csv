@@ -1,2 +1,2 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-jeddah,Saudi Arabian GP,2026-04-26,5,2026-04-21 09:18,28.5,28.8,76.0,0.0,0.0,0,6.5,14.5,20.3,300.2,1008.3
+jeddah,Saudi Arabian GP,2026-04-26,4,2026-04-22 09:12,28.3,28.5,67.1,0.0,0.0,0,71.6,18.1,22.0,318.2,1008.9
