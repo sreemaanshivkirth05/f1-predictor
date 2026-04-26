@@ -1,2 +1,3 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-jeddah,Saudi Arabian GP,2026-04-26,1,2026-04-25 08:42,31.4,37.9,49.5,0.0,0.0,0,6.0,11.0,14.0,302.4,1008.8
+jeddah,Saudi Arabian GP,2026-04-26,0,2026-04-26 08:50,31.7,38.1,46.1,0.0,0.0,0,12.8,11.2,14.8,296.5,1008.6
+miami,Miami GP,2026-05-03,7,2026-04-26 08:50,33.2,,38.4,0.0,0.0,0,68.1,18.3,26.6,234.1,1008.7
