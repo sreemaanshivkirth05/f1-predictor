@@ -1,2 +1,2 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-miami,Miami GP,2026-05-03,6,2026-04-27 10:07,34.6,27.8,34.6,0.0,0.0,0,43.6,29.4,33.7,245.1,1009.9
+miami,Miami GP,2026-05-03,5,2026-04-28 10:06,32.5,30.1,42.8,0.0,0.0,0,99.1,16.4,21.4,244.5,1010.5
