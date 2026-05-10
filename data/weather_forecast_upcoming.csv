@@ -1,2 +1,2 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-miami,Miami GP,2026-05-03,0,2026-05-03 23:45,26.4,26.2,79.2,7.6,12.5,1,99.5,8.7,13.1,163.5,1014.2
+imola,Emilia Romagna GP,2026-05-17,7,2026-05-10 09:22,21.8,23.5,51.9,0.0,0.0,0,33.9,7.6,11.4,255.9,1005.3
