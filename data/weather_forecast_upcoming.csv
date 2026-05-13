@@ -1,2 +1,2 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-imola,Emilia Romagna GP,2026-05-17,5,2026-05-12 10:24,22.0,22.3,30.5,0.0,0.0,0,63.6,9.4,13.0,258.1,1005.0
+imola,Emilia Romagna GP,2026-05-17,4,2026-05-13 10:14,20.1,20.0,51.2,0.0,0.0,0,90.4,5.4,6.6,219.0,1007.6

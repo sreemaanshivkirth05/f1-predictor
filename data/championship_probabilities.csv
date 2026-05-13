@@ -1,10 +1,10 @@
 driver_id,driver_name,constructor_name,current_points,championship_wins,championship_prob_pct,rank
-antonelli,Kimi ANTONELLI,Mercedes,25.0,7298,72.98,1
-antonelli,Kimi ANTONELLI,Mercedes,25.0,7298,72.98,2
-russell,George RUSSELL,Mercedes,12.0,2415,24.15,3
-russell,George RUSSELL,Mercedes,12.0,2415,24.15,4
-leclerc,Charles LECLERC,Ferrari,15.0,287,2.87,5
-leclerc,Charles LECLERC,Ferrari,15.0,287,2.87,6
+antonelli,Kimi ANTONELLI,Mercedes,25.0,7254,72.54,1
+antonelli,Kimi ANTONELLI,Mercedes,25.0,7254,72.54,2
+russell,George RUSSELL,Mercedes,12.0,2498,24.98,3
+russell,George RUSSELL,Mercedes,12.0,2498,24.98,4
+leclerc,Charles LECLERC,Ferrari,15.0,248,2.48,5
+leclerc,Charles LECLERC,Ferrari,15.0,248,2.48,6
 hamilton,Lewis HAMILTON,Ferrari,8.0,0,0.0,7
 piastri,Oscar Piastri,McLaren,0.0,0,0.0,8
 bearman,Oliver BEARMAN,Haas F1 Team,0.0,0,0.0,9
