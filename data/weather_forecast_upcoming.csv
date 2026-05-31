@@ -1,2 +1,2 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-monaco,Monaco GP,2026-05-24,0,2026-05-24 09:48,26.3,29.8,46.4,0.0,0.0,0,46.9,7.4,8.0,208.4,1024.5
+catalunya,Spanish GP,2026-06-07,7,2026-05-31 10:08,24.5,27.9,49.4,0.0,0.0,0,28.5,9.9,14.2,160.4,1004.5
