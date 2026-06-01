@@ -1,2 +1,2 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-catalunya,Spanish GP,2026-06-07,6,2026-06-01 00:06,24.9,29.0,63.9,0.0,0.0,0,93.5,8.7,12.5,124.8,1005.5
+catalunya,Spanish GP,2026-06-07,6,2026-06-01 13:27,24.8,27.5,62.1,0.0,0.0,0,68.4,14.2,16.8,206.8,1009.0
