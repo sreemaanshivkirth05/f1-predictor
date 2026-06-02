@@ -1,54 +1,54 @@
 driver_id,driver_name,constructor_name,elo_rating,elo_champ_probability
-antonelli,Andrea Kimi Antonelli,Mercedes,2033.03,16.34
-russell,George Russell,Mercedes,2011.15,14.65
-leclerc,Charles Leclerc,Ferrari,1957.34,11.19
-hamilton,Lewis Hamilton,Ferrari,1858.73,6.84
-gasly,Pierre Gasly,Alpine F1 Team,1724.15,3.49
-rosberg,Nico Rosberg,Mercedes,1716.99,3.37
-max_verstappen,Max Verstappen,Red Bull,1706.6,3.19
-norris,Lando Norris,McLaren,1676.68,2.75
-lawson,Liam Lawson,RB F1 Team,1664.47,2.59
-piastri,Oscar Piastri,McLaren,1662.12,2.56
-ocon,Esteban Ocon,Haas F1 Team,1590.49,1.79
-hadjar,Isack Hadjar,Red Bull,1542.01,1.4
-kvyat,Daniil Kvyat,AlphaTauri,1537.6,1.37
-hulkenberg,Nico Hülkenberg,Audi,1536.75,1.37
-vettel,Sebastian Vettel,Aston Martin,1534.9,1.35
-massa,Felipe Massa,Williams,1521.47,1.27
-arvid_lindblad,Arvid Lindblad,RB F1 Team,1513.48,1.22
-sainz,Carlos Sainz,Williams,1503.56,1.16
-tsunoda,Yuki Tsunoda,Red Bull,1502.62,1.15
-zhou,Guanyu Zhou,Sauber,1499.72,1.14
-kevin_magnussen,Kevin Magnussen,Haas F1 Team,1463.76,0.95
-jolyon_palmer,Jolyon Palmer,Renault,1455.73,0.91
-brendon_hartley,Brendon Hartley,Toro Rosso,1454.5,0.91
-colapinto,Franco Colapinto,Alpine F1 Team,1445.53,0.87
-bortoleto,Gabriel Bortoleto,Audi,1439.32,0.84
-nasr,Felipe Nasr,Sauber,1435.56,0.82
-vandoorne,Stoffel Vandoorne,McLaren,1431.22,0.81
-aitken,Jack Aitken,Williams,1420.74,0.77
-gutierrez,Esteban Gutiérrez,Haas F1 Team,1419.75,0.76
-wehrlein,Pascal Wehrlein,Sauber,1416.61,0.75
-resta,Paul di Resta,Williams,1409.12,0.72
-giovinazzi,Antonio Giovinazzi,Alfa Romeo,1408.2,0.72
-sirotkin,Sergey Sirotkin,Williams,1389.73,0.66
-bearman,Oliver Bearman,Haas F1 Team,1386.59,0.64
-kubica,Robert Kubica,Alfa Romeo,1382.36,0.63
-mick_schumacher,Mick Schumacher,Haas F1 Team,1377.94,0.62
-button,Jenson Button,McLaren,1362.65,0.57
-perez,Sergio Pérez,Cadillac F1 Team,1353.99,0.55
-ericsson,Marcus Ericsson,Sauber,1353.35,0.55
-ricciardo,Daniel Ricciardo,RB F1 Team,1352.01,0.54
-pietro_fittipaldi,Pietro Fittipaldi,Haas F1 Team,1349.54,0.54
-raikkonen,Kimi Räikkönen,Alfa Romeo,1338.81,0.51
-alonso,Fernando Alonso,Aston Martin,1336.21,0.5
-haryanto,Rio Haryanto,Manor Marussia,1329.07,0.48
-bottas,Valtteri Bottas,Cadillac F1 Team,1311.99,0.44
-grosjean,Romain Grosjean,Haas F1 Team,1307.07,0.43
-de_vries,Nyck de Vries,AlphaTauri,1295.61,0.41
-sargeant,Logan Sargeant,Williams,1289.11,0.4
-latifi,Nicholas Latifi,Williams,1283.84,0.39
-doohan,Jack Doohan,Alpine F1 Team,1236.67,0.3
-albon,Alexander Albon,Williams,1224.68,0.29
-mazepin,Nikita Mazepin,Haas F1 Team,1221.24,0.28
-stroll,Lance Stroll,Aston Martin,1219.94,0.28
+antonelli,Andrea Kimi Antonelli,Mercedes,2122.04,23.57
+russell,George Russell,Mercedes,1996.7,12.59
+hamilton,Lewis Hamilton,Ferrari,1907.71,8.07
+leclerc,Charles Leclerc,Ferrari,1856.13,6.24
+norris,Lando Norris,McLaren,1844.35,5.88
+max_verstappen,Max Verstappen,Red Bull,1838.24,5.7
+rosberg,Nico Rosberg,Mercedes,1716.99,3.11
+colapinto,Franco Colapinto,Alpine F1 Team,1638.17,2.1
+piastri,Oscar Piastri,McLaren,1619.88,1.91
+ocon,Esteban Ocon,Haas F1 Team,1545.35,1.32
+sainz,Carlos Sainz,Williams,1541.97,1.3
+kvyat,Daniil Kvyat,AlphaTauri,1537.6,1.27
+vettel,Sebastian Vettel,Aston Martin,1534.9,1.25
+massa,Felipe Massa,Williams,1521.47,1.17
+tsunoda,Yuki Tsunoda,Red Bull,1502.62,1.06
+bortoleto,Gabriel Bortoleto,Audi,1501.05,1.06
+zhou,Guanyu Zhou,Sauber,1499.72,1.05
+arvid_lindblad,Arvid Lindblad,RB F1 Team,1487.45,0.99
+kevin_magnussen,Kevin Magnussen,Haas F1 Team,1463.76,0.88
+lawson,Liam Lawson,RB F1 Team,1456.29,0.84
+jolyon_palmer,Jolyon Palmer,Renault,1455.73,0.84
+brendon_hartley,Brendon Hartley,Toro Rosso,1454.5,0.84
+albon,Alexander Albon,Williams,1446.66,0.8
+bearman,Oliver Bearman,Haas F1 Team,1443.78,0.79
+hadjar,Isack Hadjar,Red Bull,1442.93,0.79
+nasr,Felipe Nasr,Sauber,1435.56,0.76
+vandoorne,Stoffel Vandoorne,McLaren,1431.22,0.75
+gasly,Pierre Gasly,Alpine F1 Team,1428.33,0.73
+aitken,Jack Aitken,Williams,1420.74,0.71
+gutierrez,Esteban Gutiérrez,Haas F1 Team,1419.75,0.7
+wehrlein,Pascal Wehrlein,Sauber,1416.61,0.69
+resta,Paul di Resta,Williams,1409.12,0.67
+giovinazzi,Antonio Giovinazzi,Alfa Romeo,1408.2,0.66
+sirotkin,Sergey Sirotkin,Williams,1389.73,0.61
+kubica,Robert Kubica,Alfa Romeo,1382.36,0.58
+alonso,Fernando Alonso,Aston Martin,1379.52,0.58
+mick_schumacher,Mick Schumacher,Haas F1 Team,1377.94,0.57
+button,Jenson Button,McLaren,1362.65,0.53
+perez,Sergio Pérez,Cadillac F1 Team,1361.33,0.53
+ericsson,Marcus Ericsson,Sauber,1353.35,0.5
+ricciardo,Daniel Ricciardo,RB F1 Team,1352.01,0.5
+pietro_fittipaldi,Pietro Fittipaldi,Haas F1 Team,1349.54,0.5
+raikkonen,Kimi Räikkönen,Alfa Romeo,1338.81,0.47
+haryanto,Rio Haryanto,Manor Marussia,1329.07,0.45
+grosjean,Romain Grosjean,Haas F1 Team,1307.07,0.4
+de_vries,Nyck de Vries,AlphaTauri,1295.61,0.38
+hulkenberg,Nico Hülkenberg,Audi,1294.54,0.38
+sargeant,Logan Sargeant,Williams,1289.11,0.37
+bottas,Valtteri Bottas,Cadillac F1 Team,1283.84,0.36
+latifi,Nicholas Latifi,Williams,1283.84,0.36
+stroll,Lance Stroll,Aston Martin,1262.54,0.32
+doohan,Jack Doohan,Alpine F1 Team,1236.67,0.28
+mazepin,Nikita Mazepin,Haas F1 Team,1221.24,0.26

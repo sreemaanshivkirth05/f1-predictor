@@ -1,45 +1,45 @@
 driver_id,driver_name,constructor_name,current_points,championship_wins,championship_prob_pct,rank
-antonelli,Kimi ANTONELLI,Mercedes,25.0,7282,72.82,1
-antonelli,Kimi ANTONELLI,Mercedes,25.0,7282,72.82,2
-russell,George RUSSELL,Mercedes,12.0,2466,24.66,3
-russell,George RUSSELL,Mercedes,12.0,2466,24.66,4
-leclerc,Charles LECLERC,Ferrari,15.0,250,2.5,5
-leclerc,Charles LECLERC,Ferrari,15.0,250,2.5,6
-hamilton,Lewis HAMILTON,Ferrari,8.0,2,0.02,7
-hamilton,Lewis HAMILTON,Ferrari,8.0,2,0.02,8
-bearman,Oliver BEARMAN,Haas F1 Team,0.0,0,0.0,9
-norris,Lando Norris,McLaren,10.0,0,0.0,10
-norris,Lando Norris,McLaren,10.0,0,0.0,11
-piastri,Oscar Piastri,McLaren,0.0,0,0.0,12
-gasly,Pierre GASLY,Alpine,6.0,0,0.0,13
-max_verstappen,Max VERSTAPPEN,Red Bull Racing,4.0,0,0.0,14
-lawson,Liam LAWSON,Racing Bulls,2.0,0,0.0,15
-gasly,Pierre GASLY,Alpine,6.0,0,0.0,16
-arvid_lindblad,Arvid LINDBLAD,Racing Bulls,0.0,0,0.0,17
-max_verstappen,Max VERSTAPPEN,Red Bull Racing,4.0,0,0.0,18
-hadjar,Isack HADJAR,Red Bull Racing,0.0,0,0.0,19
-bortoleto,Gabriel BORTOLETO,Audi,0.0,0,0.0,20
-sainz,Carlos SAINZ,Williams,0.0,0,0.0,21
-lawson,Liam LAWSON,Racing Bulls,2.0,0,0.0,22
-colapinto,Franco COLAPINTO,Alpine,0.0,0,0.0,23
-ocon,Esteban Ocon,Haas F1 Team,0.0,0,0.0,24
-albon,Alexander ALBON,Williams,0.0,0,0.0,25
-albon,Alexander ALBON,Williams,0.0,0,0.0,26
-alonso,Fernando ALONSO,Aston Martin,0.0,0,0.0,27
-alonso,Fernando ALONSO,Aston Martin,0.0,0,0.0,28
-bortoleto,Gabriel BORTOLETO,Audi,0.0,0,0.0,29
-bearman,Oliver BEARMAN,Haas F1 Team,0.0,0,0.0,30
-arvid_lindblad,Arvid LINDBLAD,Racing Bulls,0.0,0,0.0,31
-hulkenberg,Nico Hülkenberg,Audi,0.0,0,0.0,32
-colapinto,Franco COLAPINTO,Alpine,0.0,0,0.0,33
-bottas,Valtteri Bottas,Cadillac F1 Team,0.0,0,0.0,34
-bottas,Valtteri Bottas,Cadillac F1 Team,0.0,0,0.0,35
-hadjar,Isack HADJAR,Red Bull Racing,0.0,0,0.0,36
-hulkenberg,Nico Hülkenberg,Audi,0.0,0,0.0,37
-perez,Sergio Pérez,Cadillac F1 Team,0.0,0,0.0,38
+antonelli,Andrea Kimi Antonelli,Mercedes,43.0,9947,99.47,1
+antonelli,Andrea Kimi Antonelli,Mercedes,43.0,9947,99.47,2
+russell,George RUSSELL,Mercedes,24.0,52,0.52,3
+russell,George RUSSELL,Mercedes,24.0,52,0.52,4
+leclerc,Charles Leclerc,Ferrari,27.0,1,0.01,5
+leclerc,Charles Leclerc,Ferrari,27.0,1,0.01,6
+hamilton,Lewis Hamilton,Ferrari,27.0,0,0.0,7
+piastri,Oscar Piastri,McLaren,0.0,0,0.0,8
+norris,Lando Norris,McLaren,10.0,0,0.0,9
+max_verstappen,Max Verstappen,Red Bull,8.0,0,0.0,10
+hamilton,Lewis Hamilton,Ferrari,27.0,0,0.0,11
+bearman,Oliver BEARMAN,Haas F1 Team,1.0,0,0.0,12
+colapinto,Franco Colapinto,Alpine F1 Team,1.0,0,0.0,13
+hadjar,Isack Hadjar,Red Bull,4.0,0,0.0,14
+norris,Lando Norris,McLaren,10.0,0,0.0,15
+gasly,Pierre Gasly,Alpine F1 Team,9.0,0,0.0,16
+gasly,Pierre Gasly,Alpine F1 Team,9.0,0,0.0,17
+lawson,Liam Lawson,RB F1 Team,6.0,0,0.0,18
+max_verstappen,Max Verstappen,Red Bull,8.0,0,0.0,19
+lawson,Liam Lawson,RB F1 Team,6.0,0,0.0,20
+arvid_lindblad,Arvid LINDBLAD,Racing Bulls,0.0,0,0.0,21
+hadjar,Isack Hadjar,Red Bull,4.0,0,0.0,22
+sainz,Carlos Sainz,Williams,2.0,0,0.0,23
+sainz,Carlos Sainz,Williams,2.0,0,0.0,24
+bortoleto,Gabriel BORTOLETO,Audi,0.0,0,0.0,25
+colapinto,Franco Colapinto,Alpine F1 Team,1.0,0,0.0,26
+bearman,Oliver BEARMAN,Haas F1 Team,1.0,0,0.0,27
+albon,Alexander Albon,Williams,0.0,0,0.0,28
+ocon,Esteban Ocon,Haas F1 Team,0.0,0,0.0,29
+bortoleto,Gabriel BORTOLETO,Audi,0.0,0,0.0,30
+alonso,Fernando ALONSO,Aston Martin,0.0,0,0.0,31
+alonso,Fernando ALONSO,Aston Martin,0.0,0,0.0,32
+albon,Alexander Albon,Williams,0.0,0,0.0,33
+arvid_lindblad,Arvid LINDBLAD,Racing Bulls,0.0,0,0.0,34
+bottas,Valtteri BOTTAS,Cadillac,0.0,0,0.0,35
+bottas,Valtteri BOTTAS,Cadillac,0.0,0,0.0,36
+hulkenberg,Nico HULKENBERG,Audi,0.0,0,0.0,37
+hulkenberg,Nico HULKENBERG,Audi,0.0,0,0.0,38
 ocon,Esteban Ocon,Haas F1 Team,0.0,0,0.0,39
-perez,Sergio Pérez,Cadillac F1 Team,0.0,0,0.0,40
-piastri,Oscar Piastri,McLaren,0.0,0,0.0,41
-sainz,Carlos SAINZ,Williams,0.0,0,0.0,42
+perez,Sergio PEREZ,Cadillac,0.0,0,0.0,40
+perez,Sergio PEREZ,Cadillac,0.0,0,0.0,41
+piastri,Oscar Piastri,McLaren,0.0,0,0.0,42
 stroll,Lance STROLL,Aston Martin,0.0,0,0.0,43
 stroll,Lance STROLL,Aston Martin,0.0,0,0.0,44

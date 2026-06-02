@@ -87,3 +87,47 @@ round,race_name,driver_id,driver_name,constructor,probability,cum_points
 3,Japanese Grand Prix,bottas,Valtteri Bottas,Cadillac F1 Team,0.034,0.0
 3,Japanese Grand Prix,piastri,Oscar Piastri,McLaren,3.444,18.0
 3,Japanese Grand Prix,bearman,Oliver Bearman,Haas F1 Team,0.6,16.0
+4,Miami Grand Prix,norris,Lando Norris,McLaren,13.432,38.0
+4,Miami Grand Prix,max_verstappen,Max Verstappen,Red Bull,15.635,22.0
+4,Miami Grand Prix,bortoleto,Gabriel Bortoleto,Audi,0.037,2.0
+4,Miami Grand Prix,hadjar,Isack Hadjar,Red Bull,0.058,4.0
+4,Miami Grand Prix,gasly,Pierre Gasly,Alpine F1 Team,0.254,15.0
+4,Miami Grand Prix,perez,Sergio Pérez,Cadillac F1 Team,0.02,0.0
+4,Miami Grand Prix,antonelli,Andrea Kimi Antonelli,Mercedes,12.527,93.0
+4,Miami Grand Prix,alonso,Fernando Alonso,Aston Martin,0.2,0.0
+4,Miami Grand Prix,leclerc,Charles Leclerc,Ferrari,18.682,46.0
+4,Miami Grand Prix,stroll,Lance Stroll,Aston Martin,0.015,0.0
+4,Miami Grand Prix,albon,Alexander Albon,Williams,0.086,1.0
+4,Miami Grand Prix,hulkenberg,Nico Hülkenberg,Audi,0.13,0.0
+4,Miami Grand Prix,lawson,Liam Lawson,RB F1 Team,0.125,8.0
+4,Miami Grand Prix,ocon,Esteban Ocon,Haas F1 Team,0.048,1.0
+4,Miami Grand Prix,arvid_lindblad,Arvid Lindblad,RB F1 Team,0.049,4.0
+4,Miami Grand Prix,colapinto,Franco Colapinto,Alpine F1 Team,0.082,7.0
+4,Miami Grand Prix,hamilton,Lewis Hamilton,Ferrari,12.048,43.0
+4,Miami Grand Prix,sainz,Carlos Sainz,Williams,1.602,4.0
+4,Miami Grand Prix,russell,George Russell,Mercedes,20.579,67.0
+4,Miami Grand Prix,bottas,Valtteri Bottas,Cadillac F1 Team,0.02,0.0
+4,Miami Grand Prix,piastri,Oscar Piastri,McLaren,3.904,33.0
+4,Miami Grand Prix,bearman,Oliver Bearman,Haas F1 Team,0.468,16.0
+5,Canadian Grand Prix,norris,norris,,12.116,38.0
+5,Canadian Grand Prix,max_verstappen,Max Verstappen,Red Bull,16.831,37.0
+5,Canadian Grand Prix,bortoleto,bortoleto,,0.034,2.0
+5,Canadian Grand Prix,hadjar,Isack Hadjar,Red Bull,0.051,14.0
+5,Canadian Grand Prix,gasly,Pierre Gasly,Alpine F1 Team,0.206,19.0
+5,Canadian Grand Prix,perez,perez,,0.018,0.0
+5,Canadian Grand Prix,antonelli,Andrea Kimi Antonelli,Mercedes,16.384,118.0
+5,Canadian Grand Prix,alonso,alonso,,0.18,0.0
+5,Canadian Grand Prix,leclerc,Charles Leclerc,Ferrari,17.252,58.0
+5,Canadian Grand Prix,stroll,stroll,,0.014,0.0
+5,Canadian Grand Prix,albon,albon,,0.077,1.0
+5,Canadian Grand Prix,hulkenberg,Nico Hülkenberg,Audi,0.094,0.0
+5,Canadian Grand Prix,lawson,Liam Lawson,RB F1 Team,0.101,14.0
+5,Canadian Grand Prix,ocon,ocon,,0.044,1.0
+5,Canadian Grand Prix,arvid_lindblad,arvid_lindblad,,0.044,4.0
+5,Canadian Grand Prix,colapinto,Franco Colapinto,Alpine F1 Team,0.072,15.0
+5,Canadian Grand Prix,hamilton,Lewis Hamilton,Ferrari,13.313,61.0
+5,Canadian Grand Prix,sainz,Carlos Sainz,Williams,1.281,6.0
+5,Canadian Grand Prix,russell,russell,,18.563,67.0
+5,Canadian Grand Prix,bottas,bottas,,0.018,0.0
+5,Canadian Grand Prix,piastri,Oscar Piastri,McLaren,2.929,33.0
+5,Canadian Grand Prix,bearman,Oliver Bearman,Haas F1 Team,0.379,17.0

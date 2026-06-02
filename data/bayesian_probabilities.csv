@@ -1,23 +1,23 @@
 round,race_name,driver_id,driver_name,constructor,probability,cum_points,rank
-3,Japanese Grand Prix,leclerc,Charles Leclerc,Ferrari,21.145,42.0,1
-3,Japanese Grand Prix,russell,George Russell,Mercedes,20.927,55.0,2
-3,Japanese Grand Prix,max_verstappen,Max Verstappen,Red Bull,16.638,12.0,3
-3,Japanese Grand Prix,hamilton,Lewis Hamilton,Ferrari,12.549,35.0,4
-3,Japanese Grand Prix,norris,Lando Norris,McLaren,11.79,20.0,5
-3,Japanese Grand Prix,antonelli,Andrea Kimi Antonelli,Mercedes,9.336,68.0,6
-3,Japanese Grand Prix,piastri,Oscar Piastri,McLaren,3.444,18.0,7
-3,Japanese Grand Prix,sainz,Carlos Sainz,Williams,1.893,2.0,8
-3,Japanese Grand Prix,bearman,Oliver Bearman,Haas F1 Team,0.6,16.0,9
-3,Japanese Grand Prix,gasly,Pierre Gasly,Alpine F1 Team,0.424,15.0,10
-3,Japanese Grand Prix,alonso,Fernando Alonso,Aston Martin,0.26,0.0,11
-3,Japanese Grand Prix,hulkenberg,Nico Hülkenberg,Audi,0.22,0.0,12
-3,Japanese Grand Prix,lawson,Liam Lawson,RB F1 Team,0.21,8.0,13
-3,Japanese Grand Prix,albon,Alexander Albon,Williams,0.102,0.0,14
-3,Japanese Grand Prix,hadjar,Isack Hadjar,Red Bull,0.097,4.0,15
-3,Japanese Grand Prix,colapinto,Franco Colapinto,Alpine F1 Team,0.097,1.0,16
-3,Japanese Grand Prix,arvid_lindblad,Arvid Lindblad,RB F1 Team,0.064,4.0,17
-3,Japanese Grand Prix,ocon,Esteban Ocon,Haas F1 Team,0.063,1.0,18
-3,Japanese Grand Prix,bortoleto,Gabriel Bortoleto,Audi,0.049,2.0,19
-3,Japanese Grand Prix,perez,Sergio Pérez,Cadillac F1 Team,0.034,0.0,20
-3,Japanese Grand Prix,bottas,Valtteri Bottas,Cadillac F1 Team,0.034,0.0,21
-3,Japanese Grand Prix,stroll,Lance Stroll,Aston Martin,0.026,0.0,22
+5,Canadian Grand Prix,russell,russell,,18.563,67.0,1
+5,Canadian Grand Prix,leclerc,Charles Leclerc,Ferrari,17.252,58.0,2
+5,Canadian Grand Prix,max_verstappen,Max Verstappen,Red Bull,16.831,37.0,3
+5,Canadian Grand Prix,antonelli,Andrea Kimi Antonelli,Mercedes,16.384,118.0,4
+5,Canadian Grand Prix,hamilton,Lewis Hamilton,Ferrari,13.313,61.0,5
+5,Canadian Grand Prix,norris,norris,,12.116,38.0,6
+5,Canadian Grand Prix,piastri,Oscar Piastri,McLaren,2.929,33.0,7
+5,Canadian Grand Prix,sainz,Carlos Sainz,Williams,1.281,6.0,8
+5,Canadian Grand Prix,bearman,Oliver Bearman,Haas F1 Team,0.379,17.0,9
+5,Canadian Grand Prix,gasly,Pierre Gasly,Alpine F1 Team,0.206,19.0,10
+5,Canadian Grand Prix,alonso,alonso,,0.18,0.0,11
+5,Canadian Grand Prix,lawson,Liam Lawson,RB F1 Team,0.101,14.0,12
+5,Canadian Grand Prix,hulkenberg,Nico Hülkenberg,Audi,0.094,0.0,13
+5,Canadian Grand Prix,albon,albon,,0.077,1.0,14
+5,Canadian Grand Prix,colapinto,Franco Colapinto,Alpine F1 Team,0.072,15.0,15
+5,Canadian Grand Prix,hadjar,Isack Hadjar,Red Bull,0.051,14.0,16
+5,Canadian Grand Prix,arvid_lindblad,arvid_lindblad,,0.044,4.0,17
+5,Canadian Grand Prix,ocon,ocon,,0.044,1.0,18
+5,Canadian Grand Prix,bortoleto,bortoleto,,0.034,2.0,19
+5,Canadian Grand Prix,perez,perez,,0.018,0.0,20
+5,Canadian Grand Prix,bottas,bottas,,0.018,0.0,21
+5,Canadian Grand Prix,stroll,stroll,,0.014,0.0,22
