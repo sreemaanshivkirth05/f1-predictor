@@ -1,3 +1,2 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-catalunya,Spanish GP,2026-06-07,0,2026-06-07 10:21,25.1,29.6,50.2,0.0,0.0,0,22.5,13.1,15.1,180.9,1008.2
-villeneuve,Canadian GP,2026-06-14,7,2026-06-07 10:21,27.0,,57.0,0.0,0.0,0,89.4,9.2,11.8,175.9,1006.6
+villeneuve,Canadian GP,2026-06-14,6,2026-06-08 00:07,23.1,25.0,77.2,3.0,37.5,1,100.0,11.6,19.7,204.1,1012.5
