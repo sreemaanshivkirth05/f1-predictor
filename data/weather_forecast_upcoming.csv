@@ -1,2 +1,2 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-red_bull_ring,Austrian GP,2026-06-28,4,2026-06-24 10:41,32.8,34.1,27.5,0.0,0.0,0,58.6,8.0,10.1,154.5,942.6
+red_bull_ring,Austrian GP,2026-06-28,3,2026-06-25 10:33,32.7,34.6,28.4,0.0,0.0,0,38.2,8.9,11.1,169.9,943.8
