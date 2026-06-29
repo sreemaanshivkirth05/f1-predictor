@@ -1,3 +1,2 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-red_bull_ring,Austrian GP,2026-06-28,0,2026-06-28 10:19,33.1,34.4,31.5,0.0,0.0,0,25.8,10.1,18.4,166.4,944.1
-silverstone,British GP,2026-07-05,7,2026-06-28 10:19,27.1,30.7,46.2,0.0,0.0,0,1.4,10.2,11.5,279.1,1009.4
+silverstone,British GP,2026-07-05,6,2026-06-29 00:09,27.0,30.5,46.6,0.03,12.5,0,2.9,10.5,13.5,279.1,1009.2
