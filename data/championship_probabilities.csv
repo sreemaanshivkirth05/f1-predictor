@@ -1,8 +1,8 @@
 driver_id,driver_name,constructor_name,current_points,championship_wins,championship_prob_pct,rank
-antonelli,Andrea Kimi Antonelli,Mercedes,43.0,9950,99.5,1
-antonelli,Andrea Kimi Antonelli,Mercedes,43.0,9950,99.5,2
-russell,George RUSSELL,Mercedes,24.0,50,0.5,3
-russell,George RUSSELL,Mercedes,24.0,50,0.5,4
+antonelli,Andrea Kimi Antonelli,Mercedes,43.0,9963,99.63,1
+antonelli,Andrea Kimi Antonelli,Mercedes,43.0,9963,99.63,2
+russell,George RUSSELL,Mercedes,24.0,37,0.37,3
+russell,George RUSSELL,Mercedes,24.0,37,0.37,4
 hamilton,Lewis Hamilton,Ferrari,27.0,0,0.0,5
 piastri,Oscar Piastri,McLaren,0.0,0,0.0,6
 max_verstappen,Max Verstappen,Red Bull,8.0,0,0.0,7
