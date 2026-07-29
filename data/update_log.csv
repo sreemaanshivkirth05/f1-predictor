@@ -1,5 +1,4 @@
 timestamp,new_race_found,steps_run,new_rounds,duration_s,retrained
-2026-05-01 09:34,,,0.0,574.2,False
 2026-05-02 09:05,,,0.0,539.7,False
 2026-05-03 09:22,,,0.0,580.2,False
 2026-05-03 23:53,,,0.0,536.4,False
@@ -99,3 +98,4 @@ timestamp,new_race_found,steps_run,new_rounds,duration_s,retrained
 2026-07-27 00:07,,,0.0,499.0,False
 2026-07-27 11:17,,,0.0,482.9,False
 2026-07-28 10:31,,,0.0,498.3,False
+2026-07-29 10:36,,,0.0,474.3,False
