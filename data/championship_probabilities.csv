@@ -1,15 +1,15 @@
 driver_id,driver_name,constructor_name,current_points,championship_wins,championship_prob_pct,rank
-antonelli,Andrea Kimi Antonelli,Mercedes,43.0,9960,99.6,1
-antonelli,Andrea Kimi Antonelli,Mercedes,43.0,9960,99.6,2
-russell,George RUSSELL,Mercedes,24.0,40,0.4,3
-russell,George RUSSELL,Mercedes,24.0,40,0.4,4
-hamilton,Lewis Hamilton,Ferrari,27.0,0,0.0,5
-piastri,Oscar Piastri,McLaren,0.0,0,0.0,6
-max_verstappen,Max Verstappen,Red Bull,8.0,0,0.0,7
+antonelli,Andrea Kimi Antonelli,Mercedes,43.0,9969,99.69,1
+antonelli,Andrea Kimi Antonelli,Mercedes,43.0,9969,99.69,2
+russell,George RUSSELL,Mercedes,24.0,29,0.29,3
+russell,George RUSSELL,Mercedes,24.0,29,0.29,4
+hamilton,Lewis Hamilton,Ferrari,27.0,2,0.02,5
+hamilton,Lewis Hamilton,Ferrari,27.0,2,0.02,6
+piastri,Oscar Piastri,McLaren,0.0,0,0.0,7
 leclerc,Charles Leclerc,Ferrari,27.0,0,0.0,8
 norris,Lando Norris,McLaren,10.0,0,0.0,9
-leclerc,Charles Leclerc,Ferrari,27.0,0,0.0,10
-hamilton,Lewis Hamilton,Ferrari,27.0,0,0.0,11
+max_verstappen,Max Verstappen,Red Bull,8.0,0,0.0,10
+leclerc,Charles Leclerc,Ferrari,27.0,0,0.0,11
 bearman,Oliver BEARMAN,Haas F1 Team,1.0,0,0.0,12
 colapinto,Franco Colapinto,Alpine F1 Team,1.0,0,0.0,13
 hadjar,Isack Hadjar,Red Bull,4.0,0,0.0,14
