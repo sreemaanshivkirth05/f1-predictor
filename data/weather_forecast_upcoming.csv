@@ -1,2 +1,2 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-zandvoort,Dutch GP,2026-08-30,7,2026-08-23 08:17,19.2,20.3,73.0,0.2,25.0,0,20.0,20.3,23.9,245.5,1008.2
+zandvoort,Dutch GP,2026-08-30,7,2026-08-23 23:19,19.2,20.5,81.9,4.6,100.0,1,97.6,31.4,35.6,222.4,1006.9
