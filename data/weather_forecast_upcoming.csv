@@ -1,2 +1,2 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-monza,Italian GP,2026-09-06,6,2026-08-31 01:06,30.4,33.0,50.0,0.0,0.0,0,2.0,5.7,6.9,126.9,999.1
+monza,Italian GP,2026-09-06,6,2026-08-31 15:39,29.8,31.6,53.8,0.0,0.0,0,61.4,7.7,9.0,118.1,999.9
