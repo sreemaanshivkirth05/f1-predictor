@@ -1,2 +1,2 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-baku,Azerbaijan GP,2026-09-20,4,2026-09-16 12:55,24.7,29.3,68.2,0.0,0.0,0,34.6,27.2,29.4,267.9,1019.9
+baku,Azerbaijan GP,2026-09-20,3,2026-09-17 12:52,24.7,28.9,62.4,0.0,0.0,0,9.8,35.4,35.9,351.5,1020.4
