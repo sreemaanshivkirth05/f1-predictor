@@ -1,2 +1,2 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-marina_bay,Singapore GP,2026-10-04,5,2026-09-29 14:26,29.2,33.3,73.2,0.9,62.5,1,25.0,7.6,13.0,173.6,1010.3
+marina_bay,Singapore GP,2026-10-04,4,2026-09-30 14:24,29.7,34.9,69.6,0.0,0.0,0,11.6,8.3,12.0,202.8,1010.1
