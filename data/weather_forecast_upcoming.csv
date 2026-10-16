@@ -1,2 +1,2 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-americas,US GP,2026-10-18,3,2026-10-15 12:56,20.7,22.3,35.0,0.0,0.0,0,78.2,10.3,12.4,110.8,1004.7
+americas,US GP,2026-10-18,2,2026-10-16 12:49,20.9,24.0,31.4,0.0,0.0,0,80.6,12.2,13.4,107.0,1005.5
