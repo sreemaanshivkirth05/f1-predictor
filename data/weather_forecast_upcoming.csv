@@ -1,2 +1,2 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-rodriguez,Mexico City GP,2026-10-25,6,2026-10-19 00:50,19.1,21.2,46.2,0.0,0.0,0,100.0,8.6,11.3,52.5,788.2
+rodriguez,Mexico City GP,2026-10-25,6,2026-10-19 15:06,15.1,15.7,78.4,1.8,100.0,1,100.0,2.8,3.3,274.9,787.2
