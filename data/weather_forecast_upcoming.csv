@@ -1,2 +1,2 @@
 circuit_id,circuit_name,race_date,days_until_race,forecast_updated_at,air_temp_avg_c,track_temp_avg_c,humidity_avg_pct,rainfall_total_mm,rain_probability_pct,rain_flag,cloudcover_avg_pct,windspeed_avg_kmh,windspeed_max_kmh,winddirection_avg,pressure_avg_hpa
-losail,Qatar GP,2026-11-29,3,2026-11-26 17:58,25.0,26.5,57.2,0.0,0.0,0,46.1,6.8,11.9,112.4,1016.1
+losail,Qatar GP,2026-11-29,2,2026-11-27 17:43,25.1,26.7,64.0,0.0,0.0,0,90.4,8.4,13.1,94.4,1016.0
